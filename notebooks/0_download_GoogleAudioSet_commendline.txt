@@ -1,0 +1,7 @@
+cd /Users/andrewchang/Springboard_GitHub/Capstone_AcousticEnv/audioset-processing;
+
+conda activate Springboard_GoogleAudio;
+
+python3 process.py download -c "Outside, rural or natural" -b "music" -d /Users/andrewchang/Springboard_GitHub/Capstone_AcousticEnv/data/raw/GoogleAudioSet --csv_dataset data/balanced_train_segments.csv;
+
+python3 process.py download -c "Outside, urban or manmade" -b "music" -d /Users/andrewchang/Springboard_GitHub/Capstone_AcousticEnv/data/raw/GoogleAudioSet --csv_dataset data/balanced_train_segments.csv   
