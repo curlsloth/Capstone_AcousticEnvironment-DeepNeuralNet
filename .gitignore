@@ -78,6 +78,9 @@ target/
 # exclude data from source control by default
 /data/
 
+# exclude references which are not open access
+/references/paywall/
+
 # Mac OS-specific storage files
 .DS_Store
 
