@@ -1,0 +1,1925 @@
+,file,source,category,fold
+0,../data/interim/S2L_LULC/urban_0_25/s2llg003_170705_2017-07-06_22-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+1,"../data/interim/GoogleAudioSet/Outside, urban or manmade/c5jN2Iegozw_110.pkl",city_GoogleAudioSet,1,8
+2,../data/interim/SONYC/audio-12/34_018803.pkl,city_SONYC,1,7
+3,"../data/interim/GoogleAudioSet/Outside, urban or manmade/UaM_YYfMUu0_400.pkl",city_GoogleAudioSet,1,4
+4,"../data/interim/GoogleAudioSet/Outside, urban or manmade/aXnmfM7UBPw_70.pkl",city_GoogleAudioSet,1,0
+5,../data/interim/youtube/NomadicAmbience_nature/iWSjBBQbICA_2426.pkl,nature_youtube/NomadicAmbience_nature,0,3
+6,../data/interim/SONYC/audio-14/24_016760.pkl,city_SONYC,1,5
+7,../data/interim/SONYC/audio-1/34_006312.pkl,city_SONYC,1,8
+8,../data/interim/youtube/NatureSoundscapes/lFCCVStlivk_16473.pkl,nature_youtube/NatureSoundscapes,0,3
+9,../data/interim/SONYC/audio-4/10_008204.pkl,city_SONYC,1,8
+10,../data/interim/SONYC/audio-0/04_006388.pkl,city_SONYC,1,3
+11,../data/interim/youtube/NatureSoundscapes/74_vdVpDN7M_11518.pkl,nature_youtube/NatureSoundscapes,0,7
+12,"../data/interim/GoogleAudioSet/Outside, urban or manmade/EX-5P7YdWsc_10.pkl",city_GoogleAudioSet,1,1
+13,../data/interim/S2L_LULC/non_urban/s2lam015_200603_2020-06-08_18-10.pkl,nature_S2L_LULC/non_urban,0,4
+14,../data/interim/S2L_LULC/urban_0_25/s2lam051_210628_2021-06-28_13-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+15,../data/interim/youtube/NomadicAmbience_city/83I2LjxPepo_19883.pkl,city_youtube,1,6
+16,../data/interim/SONYC/audio-12/40_004532.pkl,city_SONYC,1,0
+17,../data/interim/SONYC/audio-1/29_007075.pkl,city_SONYC,1,0
+18,../data/interim/AmbisonicSoundLibrary/nature/Woods (Short).pkl,nature_AmbisonicSoundLibrary/nature,0,8
+19,../data/interim/AmbisonicSoundLibrary/nature/Daylesford Frogs.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+20,../data/interim/youtube/NatureSoundscapes/YmCFPrPOtZ0_8176.pkl,nature_youtube/NatureSoundscapes,0,4
+21,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-17_14-40.pkl,city_S2L_LULC,1,0
+22,"../data/interim/GoogleAudioSet/Outside, urban or manmade/7Kn-xhQ4hmY_520.pkl",city_GoogleAudioSet,1,7
+23,../data/interim/S2L_LULC/urban_0_25/s2lam008_190611_2019-06-13_01-20.pkl,nature_S2L_LULC/urban_0_25,0,8
+24,"../data/interim/GoogleAudioSet/Outside, rural or natural/9-ymRm0OHgY_580.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+25,../data/interim/S2L_LULC/non_urban/s2lam070_210328_2021-03-28_20-30.pkl,nature_S2L_LULC/non_urban,0,5
+26,../data/interim/youtube/NatureSoundscapes/LzWN5lhooEQ_18071.pkl,nature_youtube/NatureSoundscapes,0,3
+27,../data/interim/SONYC/audio-3/31_000576.pkl,city_SONYC,1,8
+28,../data/interim/youtube/NomadicAmbience_city/hi7z_FOXMyY_3395.pkl,city_youtube,1,8
+29,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-28_12-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+30,"../data/interim/GoogleAudioSet/Outside, urban or manmade/jdX7joh9EC4_150.pkl",city_GoogleAudioSet,1,0
+31,../data/interim/SONYC/audio-12/01_010387.pkl,city_SONYC,1,9
+32,../data/interim/S2L_LULC/urban_26_100/s2lam030_190527_2019-05-28_00-30.pkl,city_S2L_LULC,1,3
+33,"../data/interim/GoogleAudioSet/Outside, urban or manmade/TUDsspiNPes_330.pkl",city_GoogleAudioSet,1,5
+34,../data/interim/youtube/NatureSoundscapes/mJd-fM-vlPk_19942.pkl,nature_youtube/NatureSoundscapes,0,7
+35,../data/interim/youtube/NatureSoundscapes/Jp2jYaunT78_26628.pkl,nature_youtube/NatureSoundscapes,0,1
+36,../data/interim/SONYC/audio-6/18_011520.pkl,city_SONYC,1,4
+37,../data/interim/SONYC/audio-16/23_000558.pkl,city_SONYC,1,0
+38,../data/interim/S2L_LULC/urban_0_25/s2llg007_180414_2018-04-16_15-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+39,../data/interim/S2L_LULC/non_urban/s2lam037_200522_2020-05-22_21-50.pkl,nature_S2L_LULC/non_urban,0,7
+40,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-02_17-10.pkl,nature_S2L_LULC/urban_0_25,0,1
+41,../data/interim/SONYC/audio-12/00_017121.pkl,city_SONYC,1,7
+42,../data/interim/youtube/NatureSoundscapes/mpTQMmouVTg_22226.pkl,nature_youtube/NatureSoundscapes,0,0
+43,../data/interim/SONYC/audio-15/08_001723.pkl,city_SONYC,1,0
+44,"../data/interim/GoogleAudioSet/Outside, urban or manmade/TgUKuk1wWWI_500.pkl",city_GoogleAudioSet,1,5
+45,../data/interim/youtube/NatureSoundscapes/PbAiXsMB_GU_8697.pkl,nature_youtube/NatureSoundscapes,0,7
+46,"../data/interim/GoogleAudioSet/Outside, rural or natural/ntzB1zCeVXY_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+47,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-19_05-50.pkl,city_S2L_LULC,1,2
+48,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-11_23-10.pkl,nature_S2L_LULC/urban_0_25,0,8
+49,../data/interim/S2L_LULC/urban_0_25/s2lam044_190401_2019-04-03_04-30.pkl,nature_S2L_LULC/urban_0_25,0,4
+50,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-17_14-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+51,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-15_04-20.pkl,city_S2L_LULC,1,9
+52,../data/interim/youtube/NatureSoundscapes/TXjQDjdNdaM_20080.pkl,nature_youtube/NatureSoundscapes,0,6
+53,../data/interim/SONYC/audio-14/39_010236.pkl,city_SONYC,1,9
+54,../data/interim/S2L_LULC/non_urban/s2lam067_210425_2021-04-28_07-30.pkl,nature_S2L_LULC/non_urban,0,1
+55,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Vmsy3ywFNOU_340.pkl",city_GoogleAudioSet,1,9
+56,../data/interim/AmbisonicSoundLibrary/nature/Jubilee Lake Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+57,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-26_22-10.pkl,city_S2L_LULC,1,5
+58,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-20_00-40.pkl,city_S2L_LULC,1,4
+59,../data/interim/S2L_LULC/non_urban/s2lam021_210515_2021-05-17_02-10.pkl,nature_S2L_LULC/non_urban,0,7
+60,../data/interim/youtube/NatureSoundscapes/dFmW8-Qsbhk_17585.pkl,nature_youtube/NatureSoundscapes,0,2
+61,"../data/interim/GoogleAudioSet/Outside, urban or manmade/hdfwwx27mtY_180.pkl",city_GoogleAudioSet,1,7
+62,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-31_21-20.pkl,city_S2L_LULC,1,7
+63,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-21_17-40.pkl,city_S2L_LULC,1,8
+64,../data/interim/youtube/NomadicAmbience_nature/6jGX1oUADhg_2037.pkl,nature_youtube/NomadicAmbience_nature,0,1
+65,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-12_20-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+66,"../data/interim/GoogleAudioSet/Outside, rural or natural/DqOo0Qol89o_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+67,../data/interim/SONYC/audio-8/00_012709.pkl,city_SONYC,1,6
+68,"../data/interim/GoogleAudioSet/Outside, urban or manmade/4y0KbKCyKus_140.pkl",city_GoogleAudioSet,1,8
+69,../data/interim/S2L_LULC/urban_0_25/s2lam029_190612_2019-06-13_09-00.pkl,nature_S2L_LULC/urban_0_25,0,3
+70,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-26_22-20.pkl,city_S2L_LULC,1,4
+71,../data/interim/SONYC/audio-1/05_013476.pkl,city_SONYC,1,7
+72,../data/interim/S2L_LULC/non_urban/s2lam021_210515_2021-05-18_01-30.pkl,nature_S2L_LULC/non_urban,0,5
+73,../data/interim/SONYC/audio-14/34_011459.pkl,city_SONYC,1,5
+74,../data/interim/S2L_LULC/urban_0_25/s2lam028_190623_2019-06-24_07-50.pkl,nature_S2L_LULC/urban_0_25,0,7
+75,../data/interim/S2L_LULC/urban_0_25/s2lam007_190403_2019-04-05_07-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+76,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-26_14-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+77,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-21_13-30.pkl,nature_S2L_LULC/urban_0_25,0,0
+78,../data/interim/SONYC/audio-1/24_004347.pkl,city_SONYC,1,6
+79,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-12_12-40.pkl,nature_S2L_LULC/urban_0_25,0,1
+80,../data/interim/S2L_LULC/non_urban/s2lam092_210624_2021-06-26_21-00.pkl,nature_S2L_LULC/non_urban,0,8
+81,../data/interim/SONYC/audio-9/06_007276.pkl,city_SONYC,1,7
+82,../data/interim/youtube/NomadicAmbience_city/5nFPthDg96U_239.pkl,city_youtube,1,8
+83,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-22_16-10.pkl,nature_S2L_LULC/urban_0_25,0,7
+84,../data/interim/SONYC/audio-13/27_011930.pkl,city_SONYC,1,1
+85,"../data/interim/GoogleAudioSet/Outside, rural or natural/jt5DbLRO4l0_520.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+86,"../data/interim/GoogleAudioSet/Outside, rural or natural/W_K-o9jP4tQ_80.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+87,../data/interim/youtube/NatureSoundscapes/P6exomLeY4I_4186.pkl,nature_youtube/NatureSoundscapes,0,5
+88,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-28_15-20.pkl,city_S2L_LULC,1,7
+89,../data/interim/youtube/NatureSoundscapes/XCqjFzYVgEw_5287.pkl,nature_youtube/NatureSoundscapes,0,7
+90,"../data/interim/GoogleAudioSet/Outside, urban or manmade/33xTgZMTq54_60.pkl",city_GoogleAudioSet,1,7
+91,../data/interim/SONYC/audio-1/37_004290.pkl,city_SONYC,1,1
+92,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-10_21-00.pkl,nature_S2L_LULC/urban_0_25,0,2
+93,"../data/interim/GoogleAudioSet/Outside, rural or natural/DwZUTNBDRL8_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+94,../data/interim/SONYC/audio-2/04_003546.pkl,city_SONYC,1,4
+95,../data/interim/youtube/NatureSoundscapes/XLK5tqmAhG4_3293.pkl,nature_youtube/NatureSoundscapes,0,7
+96,../data/interim/S2L_LULC/non_urban/s2lam045_210615_2021-06-18_06-20.pkl,nature_S2L_LULC/non_urban,0,7
+97,../data/interim/SONYC/audio-14/11_019209.pkl,city_SONYC,1,0
+98,../data/interim/SONYC/audio-3/25_020514.pkl,city_SONYC,1,3
+99,../data/interim/SONYC/audio-5/22_017637.pkl,city_SONYC,1,4
+100,../data/interim/AmbisonicSoundLibrary/nature/Pine Forest.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+101,"../data/interim/GoogleAudioSet/Outside, rural or natural/vOVP7w1ZlqY_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+102,"../data/interim/GoogleAudioSet/Outside, urban or manmade/7kIhJzeWnJE_110.pkl",city_GoogleAudioSet,1,9
+103,"../data/interim/GoogleAudioSet/Outside, urban or manmade/mJEmgYJ7Z4s_0.pkl",city_GoogleAudioSet,1,6
+104,../data/interim/youtube/NatureSoundscapes/4rBvTuOMtEk_28254.pkl,nature_youtube/NatureSoundscapes,0,9
+105,../data/interim/SONYC/audio-6/46_010583.pkl,city_SONYC,1,0
+106,../data/interim/S2L_LULC/non_urban/s2lam022_210507_2021-05-11_09-30.pkl,nature_S2L_LULC/non_urban,0,7
+107,"../data/interim/GoogleAudioSet/Outside, rural or natural/vGd6Z1DHbNE_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+108,../data/interim/youtube/NatureSoundscapes/c5LLEnxjFkU_12612.pkl,nature_youtube/NatureSoundscapes,0,4
+109,../data/interim/youtube/NatureSoundscapes/4esQUn0mKjI_4628.pkl,nature_youtube/NatureSoundscapes,0,1
+110,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-23_07-40.pkl,city_S2L_LULC,1,1
+111,../data/interim/AmbisonicSoundLibrary/nature/Anna Bay Beach.pkl,nature_AmbisonicSoundLibrary/nature,0,8
+112,../data/interim/youtube/NatureSoundscapes/DDr31zTvcVk_10975.pkl,nature_youtube/NatureSoundscapes,0,0
+113,../data/interim/AmbisonicSoundLibrary/nature/Windows Open Wind.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+114,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HdvvHxY1mDQ_10.pkl",city_GoogleAudioSet,1,8
+115,../data/interim/S2L_LULC/urban_0_25/s2lam093_210609_2021-06-09_21-20.pkl,nature_S2L_LULC/urban_0_25,0,7
+116,"../data/interim/GoogleAudioSet/Outside, rural or natural/bIRvWvHrryM_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+117,../data/interim/SONYC/audio-14/40_018209.pkl,city_SONYC,1,2
+118,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-05_20-10.pkl,city_S2L_LULC,1,2
+119,"../data/interim/GoogleAudioSet/Outside, rural or natural/IywDfIjWeIk_240.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+120,../data/interim/SONYC/audio-4/22_001972.pkl,city_SONYC,1,0
+121,../data/interim/SONYC/audio-7/50_026911.pkl,city_SONYC,1,5
+122,"../data/interim/GoogleAudioSet/Outside, rural or natural/GTek_WTbziQ_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+123,../data/interim/SONYC/audio-9/25_012665.pkl,city_SONYC,1,1
+124,../data/interim/SONYC/audio-13/01_009600.pkl,city_SONYC,1,3
+125,../data/interim/SONYC/audio-5/23_002526.pkl,city_SONYC,1,3
+126,"../data/interim/GoogleAudioSet/Outside, rural or natural/NuB5i2H27dg_9.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+127,../data/interim/S2L_LULC/urban_0_25/s2lam023_200701_2020-07-02_13-00.pkl,nature_S2L_LULC/urban_0_25,0,5
+128,../data/interim/youtube/NatureSoundscapes/g_v6VzvPm7Y_22111.pkl,nature_youtube/NatureSoundscapes,0,9
+129,../data/interim/SONYC/audio-17/01_013189.pkl,city_SONYC,1,1
+130,../data/interim/SONYC/audio-5/04_012439.pkl,city_SONYC,1,7
+131,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-04_19-30.pkl,nature_S2L_LULC/urban_0_25,0,8
+132,"../data/interim/GoogleAudioSet/Outside, rural or natural/upcL7tojfd4_150.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+133,../data/interim/youtube/NomadicAmbience_city/CjV92zlMRj0_4013.pkl,city_youtube,1,8
+134,../data/interim/S2L_LULC/non_urban/s2lam021_200624_2020-06-25_00-50.pkl,nature_S2L_LULC/non_urban,0,0
+135,../data/interim/S2L_LULC/urban_0_25/s2lam103_200522_2020-05-25_05-50.pkl,nature_S2L_LULC/urban_0_25,0,7
+136,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-04_06-00.pkl,nature_S2L_LULC/urban_0_25,0,3
+137,../data/interim/SONYC/audio-16/30_009530.pkl,city_SONYC,1,8
+138,../data/interim/youtube/NomadicAmbience_nature/tVrpJq3pFtY_697.pkl,nature_youtube/NomadicAmbience_nature,0,3
+139,../data/interim/youtube/NatureSoundscapes/VbgKBV8NgP0_23640.pkl,nature_youtube/NatureSoundscapes,0,7
+140,../data/interim/SONYC/audio-0/01_013555.pkl,city_SONYC,1,4
+141,../data/interim/SONYC/audio-8/10_010776.pkl,city_SONYC,1,4
+142,../data/interim/SONYC/audio-4/40_001741.pkl,city_SONYC,1,3
+143,../data/interim/youtube/NatureSoundscapes/tEmMZ1ctu5U_15101.pkl,nature_youtube/NatureSoundscapes,0,4
+144,../data/interim/S2L_LULC/non_urban/s2lam040_190315_2019-03-16_13-50.pkl,nature_S2L_LULC/non_urban,0,0
+145,../data/interim/S2L_LULC/non_urban/s2llg005_170430_2017-05-13_21-30.pkl,nature_S2L_LULC/non_urban,0,6
+146,../data/interim/SONYC/audio-8/11_027821.pkl,city_SONYC,1,5
+147,../data/interim/SONYC/audio-14/27_018754.pkl,city_SONYC,1,9
+148,../data/interim/S2L_LULC/non_urban/s2lam009_190403_2019-04-06_23-50.pkl,nature_S2L_LULC/non_urban,0,3
+149,"../data/interim/GoogleAudioSet/Outside, rural or natural/E4vMZ4hiP2c_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+150,../data/interim/SONYC/audio-12/07_019341.pkl,city_SONYC,1,3
+151,../data/interim/youtube/NatureSoundscapes/Tl2jZTd6ecQ_16388.pkl,nature_youtube/NatureSoundscapes,0,2
+152,../data/interim/SONYC/audio-6/01_010000.pkl,city_SONYC,1,9
+153,../data/interim/SONYC/audio-7/37_002280.pkl,city_SONYC,1,1
+154,../data/interim/AmbisonicSoundLibrary/nature/Anna Bay Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,9
+155,../data/interim/SONYC/audio-11/32_010672.pkl,city_SONYC,1,0
+156,"../data/interim/GoogleAudioSet/Outside, urban or manmade/D8K-qmtf8Gc_30.pkl",city_GoogleAudioSet,1,7
+157,../data/interim/youtube/NatureSoundscapes/VI6WvH3STr0_10546.pkl,nature_youtube/NatureSoundscapes,0,2
+158,"../data/interim/GoogleAudioSet/Outside, rural or natural/pB6t7JK-9MI_520.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+159,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-08_04-00.pkl,city_S2L_LULC,1,5
+160,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-31_08-30.pkl,city_S2L_LULC,1,6
+161,../data/interim/youtube/NatureSoundscapes/Q7ntkIn_SX4_22195.pkl,nature_youtube/NatureSoundscapes,0,6
+162,../data/interim/SONYC/audio-16/24_000265.pkl,city_SONYC,1,8
+163,../data/interim/youtube/NatureSoundscapes/ddrskpYvVxU_13802.pkl,nature_youtube/NatureSoundscapes,0,1
+164,../data/interim/SONYC/audio-11/04_005439.pkl,city_SONYC,1,7
+165,../data/interim/AmbisonicSoundLibrary/nature/Victoria Creek.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+166,../data/interim/SONYC/audio-6/27_018660.pkl,city_SONYC,1,3
+167,../data/interim/SONYC/audio-11/04_006242.pkl,city_SONYC,1,1
+168,../data/interim/S2L_LULC/non_urban/s2lam016_190326_2019-03-28_16-00.pkl,nature_S2L_LULC/non_urban,0,3
+169,"../data/interim/GoogleAudioSet/Outside, urban or manmade/4LcMAREn89c_0.pkl",city_GoogleAudioSet,1,2
+170,"../data/interim/GoogleAudioSet/Outside, rural or natural/WMw6PG4caDU_480.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+171,"../data/interim/GoogleAudioSet/Outside, rural or natural/IEHu2blVblA_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+172,../data/interim/S2L_LULC/urban_0_25/s2lam074_210528_2021-05-28_20-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+173,../data/interim/AmbisonicSoundLibrary/nature/Woods (Long).pkl,nature_AmbisonicSoundLibrary/nature,0,5
+174,../data/interim/SONYC/audio-4/04_006560.pkl,city_SONYC,1,5
+175,"../data/interim/GoogleAudioSet/Outside, urban or manmade/K6M2Q24k178_50.pkl",city_GoogleAudioSet,1,9
+176,../data/interim/S2L_LULC/urban_0_25/s2llg007_180414_2018-04-14_19-10.pkl,nature_S2L_LULC/urban_0_25,0,9
+177,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Ne6siwihznc_330.pkl",city_GoogleAudioSet,1,4
+178,../data/interim/youtube/NatureSoundscapes/cGKwg6xQjCM_13382.pkl,nature_youtube/NatureSoundscapes,0,4
+179,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-22_18-00.pkl,city_S2L_LULC,1,8
+180,"../data/interim/GoogleAudioSet/Outside, urban or manmade/mCKwki7LeZ4_30.pkl",city_GoogleAudioSet,1,2
+181,../data/interim/youtube/NatureSoundscapes/L5vPck2k41E_444.pkl,nature_youtube/NatureSoundscapes,0,1
+182,../data/interim/SONYC/audio-18/14_004258.pkl,city_SONYC,1,2
+183,"../data/interim/GoogleAudioSet/Outside, rural or natural/hNGGQVVLXpA_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+184,../data/interim/SONYC/audio-15/16_000107.pkl,city_SONYC,1,2
+185,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-15_22-30.pkl,city_S2L_LULC,1,7
+186,../data/interim/SONYC/audio-10/35_019787.pkl,city_SONYC,1,2
+187,../data/interim/S2L_LULC/urban_0_25/s2lam029_190612_2019-06-14_23-40.pkl,nature_S2L_LULC/urban_0_25,0,7
+188,../data/interim/S2L_LULC/urban_0_25/s2llg009_170718_2017-07-19_03-50.pkl,nature_S2L_LULC/urban_0_25,0,9
+189,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-09_06-00.pkl,nature_S2L_LULC/urban_0_25,0,8
+190,../data/interim/S2L_LULC/urban_0_25/s2lam039_190411_2019-04-14_17-40.pkl,nature_S2L_LULC/urban_0_25,0,3
+191,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-02-03_18-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+192,../data/interim/AmbisonicSoundLibrary/nature/Rural Road Car Pass.pkl,nature_AmbisonicSoundLibrary/nature,0,9
+193,../data/interim/youtube/NatureSoundscapes/tc_BN4rATXw_27451.pkl,nature_youtube/NatureSoundscapes,0,1
+194,../data/interim/S2L_LULC/non_urban/s2lam071_200603_2020-06-06_01-30.pkl,nature_S2L_LULC/non_urban,0,5
+195,"../data/interim/GoogleAudioSet/Outside, rural or natural/20CeP51xlBs_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+196,../data/interim/S2L_LULC/non_urban/s2lam023_210623_2021-06-25_11-10.pkl,nature_S2L_LULC/non_urban,0,0
+197,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-04_18-50.pkl,city_S2L_LULC,1,0
+198,../data/interim/youtube/NatureSoundscapes/q4EUikt5eZ4_19152.pkl,nature_youtube/NatureSoundscapes,0,8
+199,"../data/interim/GoogleAudioSet/Outside, urban or manmade/cHx0iJ9RA54_40.pkl",city_GoogleAudioSet,1,2
+200,../data/interim/SONYC/audio-12/25_003010.pkl,city_SONYC,1,6
+201,../data/interim/S2L_LULC/urban_26_100/s2lam002_190524_2019-05-26_08-20.pkl,city_S2L_LULC,1,7
+202,../data/interim/SONYC/audio-14/32_008869.pkl,city_SONYC,1,7
+203,../data/interim/SONYC/audio-2/25_011522.pkl,city_SONYC,1,6
+204,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-20_12-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+205,../data/interim/SONYC/audio-11/27_008720.pkl,city_SONYC,1,0
+206,../data/interim/SONYC/audio-7/61_027621.pkl,city_SONYC,1,4
+207,../data/interim/SONYC/audio-10/18_001507.pkl,city_SONYC,1,0
+208,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-15_04-10.pkl,city_S2L_LULC,1,8
+209,../data/interim/SONYC/audio-16/38_018639.pkl,city_SONYC,1,6
+210,"../data/interim/GoogleAudioSet/Outside, rural or natural/QYP_8S9qPzs_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+211,../data/interim/S2L_LULC/urban_0_25/s2lam058_190619_2019-06-20_17-30.pkl,nature_S2L_LULC/urban_0_25,0,9
+212,"../data/interim/GoogleAudioSet/Outside, rural or natural/jm1w8J_n61k_1.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+213,../data/interim/SONYC/audio-14/38_019524.pkl,city_SONYC,1,9
+214,../data/interim/SONYC/audio-6/31_012499.pkl,city_SONYC,1,3
+215,"../data/interim/GoogleAudioSet/Outside, rural or natural/LmFxy9yXb34_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+216,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-20_17-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+217,../data/interim/S2L_LULC/non_urban/s2lam049_190329_2019-03-31_03-10.pkl,nature_S2L_LULC/non_urban,0,6
+218,../data/interim/S2L_LULC/non_urban/s2lam013_210622_2021-06-26_18-00.pkl,nature_S2L_LULC/non_urban,0,5
+219,"../data/interim/GoogleAudioSet/Outside, urban or manmade/-WmL01c-4ZE_20.pkl",city_GoogleAudioSet,1,0
+220,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-23_08-30.pkl,city_S2L_LULC,1,6
+221,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-20_23-10.pkl,city_S2L_LULC,1,2
+222,../data/interim/SONYC/audio-12/02_007230.pkl,city_SONYC,1,8
+223,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-30_04-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+224,"../data/interim/GoogleAudioSet/Outside, urban or manmade/C07IwvRb7Ro_530.pkl",city_GoogleAudioSet,1,3
+225,../data/interim/SONYC/audio-0/37_007954.pkl,city_SONYC,1,1
+226,../data/interim/SONYC/audio-12/00_009916.pkl,city_SONYC,1,6
+227,../data/interim/S2L_LULC/urban_0_25/s2lam008_190611_2019-06-15_16-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+228,../data/interim/S2L_LULC/non_urban/s2lam104_200528_2020-05-31_02-50.pkl,nature_S2L_LULC/non_urban,0,8
+229,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-17_11-10.pkl,city_S2L_LULC,1,6
+230,../data/interim/SONYC/audio-3/01_017641.pkl,city_SONYC,1,3
+231,../data/interim/SONYC/audio-7/27_001296.pkl,city_SONYC,1,1
+232,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-04_15-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+233,../data/interim/SONYC/audio-9/37_003190.pkl,city_SONYC,1,3
+234,../data/interim/S2L_LULC/non_urban/s2lam019_190428_2019-05-01_08-20.pkl,nature_S2L_LULC/non_urban,0,4
+235,../data/interim/youtube/NomadicAmbience_nature/V_vj7BMawAI_4596.pkl,nature_youtube/NomadicAmbience_nature,0,7
+236,../data/interim/SONYC/audio-10/05_007319.pkl,city_SONYC,1,9
+237,../data/interim/youtube/NatureSoundscapes/Aai30D_1CKM_285.pkl,nature_youtube/NatureSoundscapes,0,1
+238,../data/interim/S2L_LULC/non_urban/s2lam103_210410_2021-04-11_15-10.pkl,nature_S2L_LULC/non_urban,0,2
+239,../data/interim/SONYC/audio-9/25_013364.pkl,city_SONYC,1,0
+240,../data/interim/youtube/NatureSoundscapes/Qua_4pUG0EM_11570.pkl,nature_youtube/NatureSoundscapes,0,5
+241,"../data/interim/GoogleAudioSet/Outside, rural or natural/LhVooeKuLf0_490.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+242,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-17_10-00.pkl,nature_S2L_LULC/urban_0_25,0,5
+243,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-30_22-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+244,"../data/interim/GoogleAudioSet/Outside, urban or manmade/yEgpugnGvlw_320.pkl",city_GoogleAudioSet,1,5
+245,../data/interim/youtube/NatureSoundscapes/dPG2uFqNrGA_18567.pkl,nature_youtube/NatureSoundscapes,0,8
+246,../data/interim/SONYC/audio-14/35_007137.pkl,city_SONYC,1,5
+247,"../data/interim/GoogleAudioSet/Outside, urban or manmade/-mNbbwgUZtQ_140.pkl",city_GoogleAudioSet,1,0
+248,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-09_16-50.pkl,city_S2L_LULC,1,9
+249,../data/interim/S2L_LULC/urban_26_100/s2lam030_190527_2019-05-27_23-30.pkl,city_S2L_LULC,1,3
+250,../data/interim/SONYC/audio-5/13_005628.pkl,city_SONYC,1,8
+251,"../data/interim/GoogleAudioSet/Outside, rural or natural/kieLTFaCZFU_310.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+252,../data/interim/SONYC/audio-12/35_012403.pkl,city_SONYC,1,6
+253,"../data/interim/GoogleAudioSet/Outside, rural or natural/h8tLFIsA_MQ_70.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+254,../data/interim/SONYC/audio-7/21_011266.pkl,city_SONYC,1,4
+255,"../data/interim/GoogleAudioSet/Outside, urban or manmade/iOMF54wj2aA_70.pkl",city_GoogleAudioSet,1,5
+256,"../data/interim/GoogleAudioSet/Outside, rural or natural/2gkoNwdaBm8_370.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+257,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-22_15-40.pkl,city_S2L_LULC,1,7
+258,../data/interim/S2L_LULC/non_urban/s2llg003_170408_2017-04-08_21-00.pkl,nature_S2L_LULC/non_urban,0,2
+259,../data/interim/SONYC/audio-1/27_016573.pkl,city_SONYC,1,2
+260,../data/interim/SONYC/audio-8/24_018641.pkl,city_SONYC,1,5
+261,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-17_03-00.pkl,city_S2L_LULC,1,3
+262,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-23_23-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+263,../data/interim/SONYC/audio-8/41_009070.pkl,city_SONYC,1,5
+264,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-28_08-00.pkl,nature_S2L_LULC/urban_0_25,0,6
+265,../data/interim/S2L_LULC/non_urban/s2lam020_190529_2019-06-01_13-20.pkl,nature_S2L_LULC/non_urban,0,6
+266,../data/interim/S2L_LULC/non_urban/s2lam049_210515_2021-05-16_23-20.pkl,nature_S2L_LULC/non_urban,0,4
+267,../data/interim/S2L_LULC/non_urban/s2lam040_200522_2020-05-27_03-50.pkl,nature_S2L_LULC/non_urban,0,5
+268,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-20_01-40.pkl,nature_S2L_LULC/urban_0_25,0,9
+269,"../data/interim/GoogleAudioSet/Outside, rural or natural/9It3a2bN2Uw_90.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+270,../data/interim/SONYC/audio-10/29_006895.pkl,city_SONYC,1,8
+271,../data/interim/SONYC/audio-15/32_018847.pkl,city_SONYC,1,5
+272,../data/interim/S2L_LULC/non_urban/s2lam019_200710_2020-07-12_12-20.pkl,nature_S2L_LULC/non_urban,0,3
+273,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-17_21-00.pkl,nature_S2L_LULC/urban_0_25,0,3
+274,../data/interim/S2L_LULC/non_urban/s2lam003_210608_2021-06-09_19-10.pkl,nature_S2L_LULC/non_urban,0,5
+275,../data/interim/youtube/NomadicAmbience_city/LLCcs6RP4nE_631.pkl,city_youtube,1,1
+276,../data/interim/SONYC/audio-3/06_009977.pkl,city_SONYC,1,3
+277,"../data/interim/GoogleAudioSet/Outside, urban or manmade/cyi2WhHtCDw_40.pkl",city_GoogleAudioSet,1,1
+278,../data/interim/S2L_LULC/urban_0_25/s2llg009_170718_2017-07-19_04-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+279,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-09_15-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+280,../data/interim/S2L_LULC/urban_0_25/s2llg004_210628-2021-06-28_18-00.pkl,nature_S2L_LULC/urban_0_25,0,5
+281,../data/interim/S2L_LULC/urban_0_25/s2lam008_190611_2019-06-13_05-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+282,"../data/interim/GoogleAudioSet/Outside, urban or manmade/x1Wghs_aoNw_30.pkl",city_GoogleAudioSet,1,6
+283,../data/interim/S2L_LULC/non_urban/s2llg004_170606_2017-06-09_01-50.pkl,nature_S2L_LULC/non_urban,0,1
+284,../data/interim/SONYC/audio-2/16_008973.pkl,city_SONYC,1,9
+285,../data/interim/SONYC/audio-12/07_005224.pkl,city_SONYC,1,9
+286,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-03_21-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+287,"../data/interim/GoogleAudioSet/Outside, rural or natural/G69phlNIvmU_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+288,../data/interim/youtube/NatureSoundscapes/2ayjH_i9wls_14930.pkl,nature_youtube/NatureSoundscapes,0,7
+289,../data/interim/S2L_LULC/non_urban/s2lam042_210617_2021-07-01_03-20.pkl,nature_S2L_LULC/non_urban,0,8
+290,../data/interim/youtube/NomadicAmbience_city/L50QfXIItZM_360.pkl,city_youtube,1,2
+291,../data/interim/SONYC/audio-2/24_016368.pkl,city_SONYC,1,6
+292,"../data/interim/GoogleAudioSet/Outside, rural or natural/_Qv0bqnyNj8_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+293,../data/interim/S2L_LULC/non_urban/s2lam088_210420_2021-04-23_04-00.pkl,nature_S2L_LULC/non_urban,0,0
+294,../data/interim/youtube/NomadicAmbience_nature/-ABfI6Rnqq4_1476.pkl,nature_youtube/NomadicAmbience_nature,0,7
+295,../data/interim/youtube/NatureSoundscapes/aWaNjIAtLzU_24063.pkl,nature_youtube/NatureSoundscapes,0,7
+296,../data/interim/SONYC/audio-8/32_000080.pkl,city_SONYC,1,7
+297,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-06_03-10.pkl,city_S2L_LULC,1,3
+298,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-11_03-20.pkl,city_S2L_LULC,1,8
+299,../data/interim/S2L_LULC/urban_0_25/s2lam074_210528_2021-05-30_02-20.pkl,nature_S2L_LULC/urban_0_25,0,0
+300,../data/interim/S2L_LULC/non_urban/s2lam022_190527_2019-05-30_17-30.pkl,nature_S2L_LULC/non_urban,0,2
+301,../data/interim/SONYC/audio-12/29_011917.pkl,city_SONYC,1,2
+302,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-05-27_14-10.pkl,nature_S2L_LULC/urban_0_25,0,5
+303,../data/interim/youtube/NatureSoundscapes/hKFf8zPFoKQ_4331.pkl,nature_youtube/NatureSoundscapes,0,2
+304,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-06-02_19-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+305,../data/interim/SONYC/audio-16/33_011167.pkl,city_SONYC,1,9
+306,../data/interim/youtube/NatureSoundscapes/SehQZUC1Frk_25043.pkl,nature_youtube/NatureSoundscapes,0,7
+307,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HSvfQiXztLs_30.pkl",city_GoogleAudioSet,1,5
+308,"../data/interim/GoogleAudioSet/Outside, urban or manmade/VHxCzlTUM6I_30.pkl",city_GoogleAudioSet,1,7
+309,../data/interim/youtube/NatureSoundscapes/YCkNaiINjfA_15019.pkl,nature_youtube/NatureSoundscapes,0,3
+310,../data/interim/S2L_LULC/non_urban/s2lam046_190614_2019-06-16_13-50.pkl,nature_S2L_LULC/non_urban,0,3
+311,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-05-27_21-00.pkl,nature_S2L_LULC/urban_0_25,0,0
+312,../data/interim/youtube/NatureSoundscapes/eM-6SzO30Ag_12464.pkl,nature_youtube/NatureSoundscapes,0,6
+313,../data/interim/youtube/NomadicAmbience_city/KkXLEHqzYZk_29510.pkl,city_youtube,1,1
+314,"../data/interim/GoogleAudioSet/Outside, rural or natural/P-10IhHpXEM_70.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+315,../data/interim/SONYC/audio-5/01_008935.pkl,city_SONYC,1,5
+316,../data/interim/SONYC/audio-5/40_000029.pkl,city_SONYC,1,3
+317,../data/interim/S2L_LULC/non_urban/s2llg008_170415_2017-04-18_11-00.pkl,nature_S2L_LULC/non_urban,0,2
+318,../data/interim/S2L_LULC/non_urban/s2lam036_190530_2019-06-03_11-00.pkl,nature_S2L_LULC/non_urban,0,1
+319,../data/interim/youtube/NatureSoundscapes/OG3qR6ydOio_24790.pkl,nature_youtube/NatureSoundscapes,0,7
+320,../data/interim/SONYC/audio-17/06_010209.pkl,city_SONYC,1,7
+321,../data/interim/youtube/NatureSoundscapes/fAc78nFuezA_7246.pkl,nature_youtube/NatureSoundscapes,0,3
+322,../data/interim/youtube/NatureSoundscapes/k8xkQWRNv14_519.pkl,nature_youtube/NatureSoundscapes,0,4
+323,../data/interim/SONYC/audio-17/38_006402.pkl,city_SONYC,1,5
+324,../data/interim/S2L_LULC/non_urban/s2lam061_210614_2021-06-16_00-50.pkl,nature_S2L_LULC/non_urban,0,2
+325,../data/interim/SONYC/audio-2/41_010596.pkl,city_SONYC,1,2
+326,"../data/interim/GoogleAudioSet/Outside, urban or manmade/19DRe0cdeXQ_20.pkl",city_GoogleAudioSet,1,2
+327,../data/interim/S2L_LULC/non_urban/s2lam057_210430_2021-05-01_01-40.pkl,nature_S2L_LULC/non_urban,0,1
+328,"../data/interim/GoogleAudioSet/Outside, urban or manmade/FkzyzgpS-nU_0.pkl",city_GoogleAudioSet,1,4
+329,../data/interim/youtube/NatureSoundscapes/xjBy2a7K1G4_27195.pkl,nature_youtube/NatureSoundscapes,0,6
+330,../data/interim/youtube/NatureSoundscapes/Hv4hwXFKn4Y_18809.pkl,nature_youtube/NatureSoundscapes,0,9
+331,../data/interim/SONYC/audio-11/21_020114.pkl,city_SONYC,1,1
+332,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-28_11-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+333,../data/interim/SONYC/audio-12/35_004101.pkl,city_SONYC,1,2
+334,../data/interim/SONYC/audio-14/03_000782.pkl,city_SONYC,1,3
+335,../data/interim/youtube/NatureSoundscapes/uo0gsuSj9mA_13041.pkl,nature_youtube/NatureSoundscapes,0,2
+336,../data/interim/SONYC/audio-15/01_008591.pkl,city_SONYC,1,6
+337,../data/interim/SONYC/audio-9/41_011975.pkl,city_SONYC,1,7
+338,../data/interim/S2L_LULC/non_urban/s2lam074_210615_2021-06-17_17-20.pkl,nature_S2L_LULC/non_urban,0,8
+339,../data/interim/SONYC/audio-12/39_010494.pkl,city_SONYC,1,5
+340,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-29_10-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+341,../data/interim/SONYC/audio-1/36_005282.pkl,city_SONYC,1,2
+342,../data/interim/S2L_LULC/urban_0_25/s2lam058_190619_2019-06-20_20-20.pkl,nature_S2L_LULC/urban_0_25,0,5
+343,"../data/interim/GoogleAudioSet/Outside, rural or natural/q8XPuolEZ6Q_70.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+344,../data/interim/SONYC/audio-1/01_010512.pkl,city_SONYC,1,0
+345,../data/interim/S2L_LULC/urban_0_25/s2llg008_170711_2017-07-15_00-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+346,../data/interim/SONYC/audio-5/19_001012.pkl,city_SONYC,1,9
+347,../data/interim/S2L_LULC/urban_0_25/s2lam028_190421_2019-04-25_11-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+348,"../data/interim/GoogleAudioSet/Outside, rural or natural/rJmRUSucuSs_390.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+349,"../data/interim/GoogleAudioSet/Outside, urban or manmade/-RRi3QktLdc_500.pkl",city_GoogleAudioSet,1,9
+350,"../data/interim/GoogleAudioSet/Outside, urban or manmade/kGuKzWVGAGY_16.pkl",city_GoogleAudioSet,1,0
+351,../data/interim/S2L_LULC/urban_26_100/s2lam030_190527_2019-05-30_09-30.pkl,city_S2L_LULC,1,2
+352,../data/interim/SONYC/audio-3/48_026925.pkl,city_SONYC,1,6
+353,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-10_22-30.pkl,city_S2L_LULC,1,7
+354,../data/interim/S2L_LULC/non_urban/s2lam036_190513_2019-05-19_15-20.pkl,nature_S2L_LULC/non_urban,0,0
+355,../data/interim/S2L_LULC/urban_0_25/s2llg007_180414_2018-04-15_17-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+356,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-21_08-10.pkl,nature_S2L_LULC/urban_0_25,0,7
+357,../data/interim/SONYC/audio-11/40_003260.pkl,city_SONYC,1,7
+358,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-23_01-00.pkl,city_S2L_LULC,1,7
+359,../data/interim/SONYC/audio-14/07_009123.pkl,city_SONYC,1,3
+360,"../data/interim/GoogleAudioSet/Outside, rural or natural/Wy-PhjWxheo_200.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+361,../data/interim/SONYC/audio-8/18_007812.pkl,city_SONYC,1,0
+362,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-13_10-30.pkl,city_S2L_LULC,1,0
+363,../data/interim/youtube/NomadicAmbience_city/dVM_w_ByGSM_80.pkl,city_youtube,1,0
+364,../data/interim/youtube/NomadicAmbience_city/_xMzRNL5OWg_529.pkl,city_youtube,1,2
+365,../data/interim/SONYC/audio-12/32_027781.pkl,city_SONYC,1,3
+366,../data/interim/SONYC/audio-8/29_016929.pkl,city_SONYC,1,9
+367,../data/interim/S2L_LULC/non_urban/s2lam109_210420_2021-04-22_00-30.pkl,nature_S2L_LULC/non_urban,0,4
+368,../data/interim/SONYC/audio-14/40_001413.pkl,city_SONYC,1,5
+369,../data/interim/S2L_LULC/urban_0_25/s2lam025_190411_2019-04-13_12-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+370,../data/interim/SONYC/audio-7/04_010954.pkl,city_SONYC,1,9
+371,../data/interim/SONYC/audio-12/31_005510.pkl,city_SONYC,1,4
+372,../data/interim/youtube/NatureSoundscapes/_y_1VGCbzko_24511.pkl,nature_youtube/NatureSoundscapes,0,0
+373,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-06_23-30.pkl,city_S2L_LULC,1,1
+374,../data/interim/SONYC/audio-9/37_016748.pkl,city_SONYC,1,7
+375,../data/interim/youtube/NomadicAmbience_nature/SB_fEW1b1K8_1637.pkl,nature_youtube/NomadicAmbience_nature,0,7
+376,../data/interim/AmbisonicSoundLibrary/nature/Waterhole Frogs Day.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+377,../data/interim/SONYC/audio-0/07_009665.pkl,city_SONYC,1,1
+378,../data/interim/S2L_LULC/non_urban/s2llg010_170408_2017-04-10_19-20.pkl,nature_S2L_LULC/non_urban,0,7
+379,../data/interim/S2L_LULC/non_urban/s2lam045_190416_2019-04-17_14-10.pkl,nature_S2L_LULC/non_urban,0,4
+380,../data/interim/SONYC/audio-5/32_019516.pkl,city_SONYC,1,5
+381,../data/interim/SONYC/audio-15/46_017085.pkl,city_SONYC,1,1
+382,../data/interim/youtube/NatureSoundscapes/rnrZRa9xEb0_6730.pkl,nature_youtube/NatureSoundscapes,0,2
+383,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-19_14-20.pkl,city_S2L_LULC,1,4
+384,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-09_23-30.pkl,city_S2L_LULC,1,9
+385,../data/interim/SONYC/audio-16/32_007547.pkl,city_SONYC,1,7
+386,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-28_11-20.pkl,city_S2L_LULC,1,2
+387,../data/interim/youtube/NomadicAmbience_city/DK1pACuFpUw_505.pkl,city_youtube,1,5
+388,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-24_01-30.pkl,nature_S2L_LULC/urban_0_25,0,5
+389,../data/interim/SONYC/audio-6/17_001587.pkl,city_SONYC,1,6
+390,../data/interim/SONYC/audio-10/03_011821.pkl,city_SONYC,1,2
+391,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-19_07-30.pkl,city_S2L_LULC,1,2
+392,../data/interim/S2L_LULC/urban_0_25/s2lam052_190601_2019-06-03_16-10.pkl,nature_S2L_LULC/urban_0_25,0,3
+393,"../data/interim/GoogleAudioSet/Outside, urban or manmade/qGA5zexuFY0_160.pkl",city_GoogleAudioSet,1,1
+394,../data/interim/SONYC/audio-10/38_007355.pkl,city_SONYC,1,9
+395,"../data/interim/GoogleAudioSet/Outside, urban or manmade/xeRwsXC7hGs_20.pkl",city_GoogleAudioSet,1,6
+396,"../data/interim/GoogleAudioSet/Outside, urban or manmade/m3kb8GFAvtI_240.pkl",city_GoogleAudioSet,1,4
+397,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-25_01-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+398,../data/interim/S2L_LULC/non_urban/s2lam078_210514_2021-05-15_05-10.pkl,nature_S2L_LULC/non_urban,0,9
+399,../data/interim/SONYC/audio-16/01_001611.pkl,city_SONYC,1,4
+400,../data/interim/youtube/NatureSoundscapes/hJ-tl16RIyA_5609.pkl,nature_youtube/NatureSoundscapes,0,5
+401,../data/interim/youtube/NatureSoundscapes/qPev4bjvzQE_16099.pkl,nature_youtube/NatureSoundscapes,0,3
+402,../data/interim/S2L_LULC/non_urban/s2lam026_210527_2021-05-29_09-30.pkl,nature_S2L_LULC/non_urban,0,7
+403,../data/interim/S2L_LULC/urban_0_25/s2lam031_190411_2019-04-13_19-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+404,../data/interim/youtube/NomadicAmbience_city/pxnIOtDmO74_3496.pkl,city_youtube,1,5
+405,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-30_19-30.pkl,city_S2L_LULC,1,6
+406,../data/interim/youtube/NomadicAmbience_nature/-TBH1h-RdRY_4819.pkl,nature_youtube/NomadicAmbience_nature,0,8
+407,../data/interim/youtube/NomadicAmbience_nature/3raVUTPAd-w_1550.pkl,nature_youtube/NomadicAmbience_nature,0,2
+408,../data/interim/SONYC/audio-0/09_007902.pkl,city_SONYC,1,0
+409,../data/interim/S2L_LULC/non_urban/s2lam065_200528_2020-06-05_11-20.pkl,nature_S2L_LULC/non_urban,0,4
+410,../data/interim/SONYC/audio-18/04_009100.pkl,city_SONYC,1,4
+411,"../data/interim/GoogleAudioSet/Outside, urban or manmade/UelMinLIWSA_60.pkl",city_GoogleAudioSet,1,2
+412,../data/interim/youtube/NatureSoundscapes/MLfqZEUAVms_20693.pkl,nature_youtube/NatureSoundscapes,0,1
+413,"../data/interim/GoogleAudioSet/Outside, urban or manmade/b8AEdmKJebU_140.pkl",city_GoogleAudioSet,1,3
+414,../data/interim/SONYC/audio-1/06_008851.pkl,city_SONYC,1,8
+415,../data/interim/S2L_LULC/urban_26_100/s2lam003_190523_2019-05-26_23-20.pkl,city_S2L_LULC,1,3
+416,../data/interim/youtube/NatureSoundscapes/bHYcBRqs7go_13092.pkl,nature_youtube/NatureSoundscapes,0,7
+417,../data/interim/SONYC/audio-0/23_009201.pkl,city_SONYC,1,7
+418,../data/interim/S2L_LULC/urban_0_25/s2lam008_190611_2019-06-14_21-30.pkl,nature_S2L_LULC/urban_0_25,0,3
+419,../data/interim/youtube/NatureSoundscapes/Ee9CGZ88AaA_12936.pkl,nature_youtube/NatureSoundscapes,0,6
+420,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-15_00-10.pkl,city_S2L_LULC,1,2
+421,../data/interim/S2L_LULC/non_urban/s2lam041_210521_2021-05-22_00-00.pkl,nature_S2L_LULC/non_urban,0,0
+422,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-05-29_11-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+423,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-11_13-10.pkl,city_S2L_LULC,1,0
+424,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-10_03-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+425,../data/interim/S2L_LULC/non_urban/s2lam114_210614_2021-06-18_19-10.pkl,nature_S2L_LULC/non_urban,0,8
+426,../data/interim/SONYC/audio-4/17_008920.pkl,city_SONYC,1,2
+427,../data/interim/S2L_LULC/non_urban/s2lam026_190528_2019-05-28_18-40.pkl,nature_S2L_LULC/non_urban,0,1
+428,"../data/interim/GoogleAudioSet/Outside, rural or natural/2-1wY_Ndtgw_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+429,../data/interim/SONYC/audio-5/34_001025.pkl,city_SONYC,1,9
+430,../data/interim/SONYC/audio-5/06_003742.pkl,city_SONYC,1,4
+431,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-24_21-30.pkl,city_S2L_LULC,1,5
+432,../data/interim/youtube/NatureSoundscapes/aZDjflk5i6E_21711.pkl,nature_youtube/NatureSoundscapes,0,4
+433,../data/interim/SONYC/audio-4/05_000169.pkl,city_SONYC,1,3
+434,"../data/interim/GoogleAudioSet/Outside, rural or natural/1jokDJHu4_s_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+435,../data/interim/S2L_LULC/urban_0_25/s2lam010_180707_2018-07-15_05-20.pkl,nature_S2L_LULC/urban_0_25,0,0
+436,"../data/interim/GoogleAudioSet/Outside, urban or manmade/lGvrHKtXocU_30.pkl",city_GoogleAudioSet,1,8
+437,../data/interim/SONYC/audio-4/02_002434.pkl,city_SONYC,1,6
+438,../data/interim/youtube/NatureSoundscapes/qRcUP_f3QR0_10236.pkl,nature_youtube/NatureSoundscapes,0,6
+439,"../data/interim/GoogleAudioSet/Outside, urban or manmade/IPP2G8yOYEQ_0.pkl",city_GoogleAudioSet,1,6
+440,../data/interim/S2L_LULC/urban_0_25/s2lam074_210528_2021-05-30_12-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+441,../data/interim/SONYC/audio-3/24_018795.pkl,city_SONYC,1,6
+442,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-21_07-10.pkl,nature_S2L_LULC/urban_0_25,0,1
+443,../data/interim/S2L_LULC/urban_0_25/s2lam029_190612_2019-06-15_02-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+444,../data/interim/youtube/NatureSoundscapes/VeszQ4TyJWs_23049.pkl,nature_youtube/NatureSoundscapes,0,5
+445,../data/interim/S2L_LULC/non_urban/s2lam107_200522_2020-05-25_01-40.pkl,nature_S2L_LULC/non_urban,0,0
+446,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-30_06-20.pkl,city_S2L_LULC,1,3
+447,../data/interim/S2L_LULC/non_urban/s2lam033_190522_2019-05-22_17-30.pkl,nature_S2L_LULC/non_urban,0,7
+448,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-21_18-40.pkl,city_S2L_LULC,1,3
+449,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-29_23-50.pkl,city_S2L_LULC,1,8
+450,../data/interim/SONYC/audio-14/40_000679.pkl,city_SONYC,1,1
+451,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-14_15-20.pkl,city_S2L_LULC,1,0
+452,../data/interim/youtube/NomadicAmbience_nature/-f9UOL0XTAg_478.pkl,nature_youtube/NomadicAmbience_nature,0,5
+453,../data/interim/youtube/NatureSoundscapes/rFhrgg49Tr8_9564.pkl,nature_youtube/NatureSoundscapes,0,9
+454,../data/interim/SONYC/audio-15/27_008380.pkl,city_SONYC,1,3
+455,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Tib9q48R1GQ_30.pkl",city_GoogleAudioSet,1,4
+456,"../data/interim/GoogleAudioSet/Outside, rural or natural/mf7lZOWnUfs_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+457,../data/interim/youtube/NatureSoundscapes/P7E59tDSgK0_15698.pkl,nature_youtube/NatureSoundscapes,0,2
+458,../data/interim/SONYC/audio-14/18_010246.pkl,city_SONYC,1,0
+459,../data/interim/SONYC/audio-0/03_006927.pkl,city_SONYC,1,4
+460,../data/interim/S2L_LULC/urban_0_25/s2lam005_210702_2021-07-05_10-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+461,"../data/interim/GoogleAudioSet/Outside, rural or natural/yq84OepE8uw_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+462,../data/interim/youtube/NatureSoundscapes/vhRfoycmg68_7577.pkl,nature_youtube/NatureSoundscapes,0,6
+463,"../data/interim/GoogleAudioSet/Outside, rural or natural/fiZpOV40_Rg_180.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+464,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_09-30.pkl,city_S2L_LULC,1,5
+465,"../data/interim/GoogleAudioSet/Outside, rural or natural/e6Df7Ocuqcs_180.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+466,../data/interim/SONYC/audio-14/33_005107.pkl,city_SONYC,1,3
+467,../data/interim/SONYC/audio-0/07_020023.pkl,city_SONYC,1,2
+468,../data/interim/SONYC/audio-6/24_007389.pkl,city_SONYC,1,9
+469,../data/interim/SONYC/audio-1/24_001981.pkl,city_SONYC,1,3
+470,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-16_01-10.pkl,city_S2L_LULC,1,1
+471,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-17_10-00.pkl,city_S2L_LULC,1,6
+472,../data/interim/SONYC/audio-0/40_011153.pkl,city_SONYC,1,4
+473,../data/interim/S2L_LULC/non_urban/s2lam001_210530_2021-06-02_16-50.pkl,nature_S2L_LULC/non_urban,0,6
+474,"../data/interim/GoogleAudioSet/Outside, urban or manmade/88nxoLgi1sE_30.pkl",city_GoogleAudioSet,1,1
+475,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-23_22-50.pkl,nature_S2L_LULC/urban_0_25,0,7
+476,../data/interim/SONYC/audio-15/19_008711.pkl,city_SONYC,1,4
+477,../data/interim/SONYC/audio-7/21_010435.pkl,city_SONYC,1,7
+478,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-30_22-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+479,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Ve-RFG6nSsc_140.pkl",city_GoogleAudioSet,1,8
+480,../data/interim/S2L_LULC/non_urban/s2lam105_200528_2020-06-01_04-10.pkl,nature_S2L_LULC/non_urban,0,6
+481,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-06_22-30.pkl,nature_S2L_LULC/urban_0_25,0,8
+482,../data/interim/SONYC/audio-0/06_009423.pkl,city_SONYC,1,6
+483,../data/interim/SONYC/audio-14/20_008482.pkl,city_SONYC,1,9
+484,"../data/interim/GoogleAudioSet/Outside, urban or manmade/ur77tjswGMU_230.pkl",city_GoogleAudioSet,1,9
+485,../data/interim/youtube/NatureSoundscapes/x3hzzKV_Imo_27994.pkl,nature_youtube/NatureSoundscapes,0,5
+486,"../data/interim/GoogleAudioSet/Outside, urban or manmade/yw9sS3Oz5lk_30.pkl",city_GoogleAudioSet,1,3
+487,../data/interim/youtube/NatureSoundscapes/RUuTIx2gSM4_29521.pkl,nature_youtube/NatureSoundscapes,0,4
+488,../data/interim/SONYC/audio-15/32_008665.pkl,city_SONYC,1,8
+489,../data/interim/youtube/NomadicAmbience_nature/1iqSF12DMDY_799.pkl,nature_youtube/NomadicAmbience_nature,0,0
+490,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-19_00-20.pkl,city_S2L_LULC,1,8
+491,../data/interim/S2L_LULC/non_urban/s2lam022_210530_2021-06-03_07-50.pkl,nature_S2L_LULC/non_urban,0,9
+492,../data/interim/SONYC/audio-4/05_020246.pkl,city_SONYC,1,2
+493,../data/interim/SONYC/audio-17/18_010323.pkl,city_SONYC,1,7
+494,../data/interim/SONYC/audio-5/33_012349.pkl,city_SONYC,1,7
+495,../data/interim/youtube/NomadicAmbience_city/fh3EdeGNKus_33815.pkl,city_youtube,1,4
+496,"../data/interim/GoogleAudioSet/Outside, rural or natural/5B7lDpIYNj0_510.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+497,../data/interim/S2L_LULC/urban_0_25/s2lam044_190401_2019-04-03_19-30.pkl,nature_S2L_LULC/urban_0_25,0,2
+498,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-08_19-40.pkl,city_S2L_LULC,1,0
+499,../data/interim/SONYC/audio-3/03_012361.pkl,city_SONYC,1,5
+500,../data/interim/S2L_LULC/urban_0_25/s2lam007_190403_2019-04-05_04-10.pkl,nature_S2L_LULC/urban_0_25,0,3
+501,../data/interim/SONYC/audio-12/27_004734.pkl,city_SONYC,1,6
+502,../data/interim/SONYC/audio-17/00_001865.pkl,city_SONYC,1,9
+503,../data/interim/SONYC/audio-2/32_019017.pkl,city_SONYC,1,9
+504,../data/interim/S2L_LULC/non_urban/s2lam041_200622_2020-06-23_10-50.pkl,nature_S2L_LULC/non_urban,0,7
+505,"../data/interim/GoogleAudioSet/Outside, rural or natural/w-5nHvqT2_U_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+506,../data/interim/SONYC/audio-10/36_001265.pkl,city_SONYC,1,6
+507,../data/interim/S2L_LULC/urban_0_25/s2lam005_210702_2021-07-06_02-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+508,../data/interim/SONYC/audio-6/27_011693.pkl,city_SONYC,1,4
+509,../data/interim/S2L_LULC/non_urban/s2lam027_200630_2020-07-02_10-40.pkl,nature_S2L_LULC/non_urban,0,3
+510,../data/interim/youtube/NatureSoundscapes/SAb89naaJNg_5688.pkl,nature_youtube/NatureSoundscapes,0,7
+511,"../data/interim/GoogleAudioSet/Outside, urban or manmade/fK4n3IASsJQ_60.pkl",city_GoogleAudioSet,1,7
+512,../data/interim/SONYC/audio-8/29_002418.pkl,city_SONYC,1,1
+513,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-14_18-40.pkl,city_S2L_LULC,1,1
+514,../data/interim/youtube/NomadicAmbience_city/VZPNXxVh71M_345.pkl,city_youtube,1,8
+515,../data/interim/SONYC/audio-15/37_001644.pkl,city_SONYC,1,4
+516,"../data/interim/GoogleAudioSet/Outside, rural or natural/UjlMSYSx49k_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+517,"../data/interim/GoogleAudioSet/Outside, urban or manmade/s4snf62Y7Sg_160.pkl",city_GoogleAudioSet,1,6
+518,"../data/interim/GoogleAudioSet/Outside, rural or natural/3S9-pp9ijJU_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+519,"../data/interim/GoogleAudioSet/Outside, rural or natural/zuvd1uhmi88_190.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+520,../data/interim/youtube/NatureSoundscapes/J-BtXdamqrU_650.pkl,nature_youtube/NatureSoundscapes,0,3
+521,"../data/interim/GoogleAudioSet/Outside, rural or natural/w61ekNETEgc_320.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+522,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-20_18-30.pkl,city_S2L_LULC,1,8
+523,../data/interim/S2L_LULC/urban_0_25/s2lam034_210606_2021-06-07_18-40.pkl,nature_S2L_LULC/urban_0_25,0,4
+524,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-15_07-40.pkl,city_S2L_LULC,1,3
+525,../data/interim/S2L_LULC/non_urban/s2llg007_170728_2017-07-31_04-40.pkl,nature_S2L_LULC/non_urban,0,5
+526,../data/interim/youtube/NatureSoundscapes/Iwjfa1IYx4o_3441.pkl,nature_youtube/NatureSoundscapes,0,0
+527,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-11_00-40.pkl,nature_S2L_LULC/urban_0_25,0,0
+528,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-08_02-50.pkl,nature_S2L_LULC/urban_0_25,0,2
+529,../data/interim/SONYC/audio-8/39_003386.pkl,city_SONYC,1,8
+530,../data/interim/SONYC/audio-12/29_001483.pkl,city_SONYC,1,5
+531,../data/interim/SONYC/audio-12/41_013552.pkl,city_SONYC,1,2
+532,"../data/interim/GoogleAudioSet/Outside, urban or manmade/7wIOLRmm-kg_240.pkl",city_GoogleAudioSet,1,6
+533,../data/interim/S2L_LULC/urban_0_25/s2llg008_170711_2017-07-12_11-00.pkl,nature_S2L_LULC/urban_0_25,0,4
+534,../data/interim/youtube/NatureSoundscapes/GTih4wU7Cm4_5446.pkl,nature_youtube/NatureSoundscapes,0,9
+535,../data/interim/SONYC/audio-18/25_009159.pkl,city_SONYC,1,7
+536,../data/interim/SONYC/audio-6/40_002629.pkl,city_SONYC,1,4
+537,../data/interim/youtube/NatureSoundscapes/MWi-Gbz1jMc_18018.pkl,nature_youtube/NatureSoundscapes,0,4
+538,../data/interim/AmbisonicSoundLibrary/nature/30 Feet from Shore.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+539,../data/interim/S2L_LULC/urban_0_25/s2llg007_180414_2018-04-18_08-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+540,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-14_10-30.pkl,city_S2L_LULC,1,7
+541,"../data/interim/GoogleAudioSet/Outside, urban or manmade/jYTg7dmsrpo_220.pkl",city_GoogleAudioSet,1,1
+542,../data/interim/youtube/NomadicAmbience_city/F5t-G50wnCo_4233.pkl,city_youtube,1,6
+543,../data/interim/SONYC/audio-7/17_008014.pkl,city_SONYC,1,5
+544,../data/interim/S2L_LULC/urban_0_25/s2lam103_200522_2020-05-24_14-00.pkl,nature_S2L_LULC/urban_0_25,0,5
+545,../data/interim/youtube/NomadicAmbience_city/Vg1mpD1BICI_4809.pkl,city_youtube,1,9
+546,"../data/interim/GoogleAudioSet/Outside, rural or natural/hdfwwx27mtY_180.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+547,../data/interim/youtube/NomadicAmbience_city/ByQY7_9FN4w_2481.pkl,city_youtube,1,4
+548,../data/interim/AmbisonicSoundLibrary/nature/Daylesford Spillway.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+549,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-09_23-10.pkl,city_S2L_LULC,1,1
+550,../data/interim/youtube/NatureSoundscapes/_ZzVAFZBeCA_6439.pkl,nature_youtube/NatureSoundscapes,0,0
+551,"../data/interim/GoogleAudioSet/Outside, rural or natural/F9qxvpX7ndI_330.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+552,../data/interim/youtube/NatureSoundscapes/V3JMqZZiNIg_28229.pkl,nature_youtube/NatureSoundscapes,0,2
+553,../data/interim/S2L_LULC/non_urban/s2lam103_200616_2020-06-21_07-50.pkl,nature_S2L_LULC/non_urban,0,2
+554,../data/interim/SONYC/audio-15/40_000860.pkl,city_SONYC,1,0
+555,"../data/interim/GoogleAudioSet/Outside, urban or manmade/4mcBRIgb8-E_130.pkl",city_GoogleAudioSet,1,1
+556,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-17_22-30.pkl,city_S2L_LULC,1,1
+557,../data/interim/SONYC/audio-8/27_007752.pkl,city_SONYC,1,2
+558,../data/interim/SONYC/audio-16/27_017918.pkl,city_SONYC,1,2
+559,../data/interim/S2L_LULC/non_urban/s2lam013_180707_2018-07-11_02-00.pkl,nature_S2L_LULC/non_urban,0,4
+560,../data/interim/AmbisonicSoundLibrary/nature/Tin Shed Drip.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+561,../data/interim/S2L_LULC/non_urban/s2lam015_200603_2020-06-08_02-20.pkl,nature_S2L_LULC/non_urban,0,2
+562,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HNyHIF8bXJw_280.pkl",city_GoogleAudioSet,1,9
+563,../data/interim/S2L_LULC/non_urban/s2lam083_210507_2021-05-11_10-00.pkl,nature_S2L_LULC/non_urban,0,7
+564,../data/interim/S2L_LULC/non_urban/s2lam015_200522_2020-05-22_17-00.pkl,nature_S2L_LULC/non_urban,0,3
+565,../data/interim/SONYC/audio-5/02_001854.pkl,city_SONYC,1,2
+566,../data/interim/youtube/NatureSoundscapes/aEH1YZt0Ki4_8307.pkl,nature_youtube/NatureSoundscapes,0,5
+567,../data/interim/S2L_LULC/non_urban/s2lam032_190505_2019-05-09_08-30.pkl,nature_S2L_LULC/non_urban,0,3
+568,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Wrfvo1eFRFk_70.pkl",city_GoogleAudioSet,1,6
+569,"../data/interim/GoogleAudioSet/Outside, rural or natural/1TpuuM-CRfE_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+570,"../data/interim/GoogleAudioSet/Outside, rural or natural/RAomqDWTVuA_23.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+571,../data/interim/SONYC/audio-3/40_003419.pkl,city_SONYC,1,9
+572,../data/interim/SONYC/audio-13/02_011727.pkl,city_SONYC,1,5
+573,../data/interim/SONYC/audio-10/01_010222.pkl,city_SONYC,1,7
+574,../data/interim/S2L_LULC/urban_0_25/s2llg007_180414_2018-04-17_21-00.pkl,nature_S2L_LULC/urban_0_25,0,7
+575,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-09_10-30.pkl,city_S2L_LULC,1,5
+576,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-12_16-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+577,../data/interim/S2L_LULC/non_urban/s2llg002_170627_2017-07-05_01-40.pkl,nature_S2L_LULC/non_urban,0,3
+578,../data/interim/SONYC/audio-13/06_000050.pkl,city_SONYC,1,1
+579,../data/interim/SONYC/audio-14/40_000057.pkl,city_SONYC,1,5
+580,"../data/interim/GoogleAudioSet/Outside, rural or natural/fyUd2i0UWWk_310.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+581,../data/interim/youtube/NatureSoundscapes/vjamWi9hSaI_466.pkl,nature_youtube/NatureSoundscapes,0,3
+582,../data/interim/youtube/NatureSoundscapes/BccsMvJjrLo_7953.pkl,nature_youtube/NatureSoundscapes,0,4
+583,../data/interim/SONYC/audio-5/06_012288.pkl,city_SONYC,1,4
+584,"../data/interim/GoogleAudioSet/Outside, rural or natural/aEbYdJCy9GI_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+585,../data/interim/youtube/NatureSoundscapes/mDOIwoZNgT0_22463.pkl,nature_youtube/NatureSoundscapes,0,3
+586,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-24_17-00.pkl,city_S2L_LULC,1,3
+587,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-07_02-30.pkl,city_S2L_LULC,1,4
+588,../data/interim/youtube/NomadicAmbience_city/2PHFCZjZdj8_9231.pkl,city_youtube,1,9
+589,"../data/interim/GoogleAudioSet/Outside, urban or manmade/cO6NJ_lcxZI_40.pkl",city_GoogleAudioSet,1,9
+590,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-11_23-00.pkl,city_S2L_LULC,1,5
+591,"../data/interim/GoogleAudioSet/Outside, rural or natural/Jhp7vwvAic4_220.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+592,../data/interim/SONYC/audio-0/40_003973.pkl,city_SONYC,1,0
+593,"../data/interim/GoogleAudioSet/Outside, rural or natural/gc6s9fopyg8_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+594,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-27_10-10.pkl,city_S2L_LULC,1,9
+595,../data/interim/SONYC/audio-16/45_009129.pkl,city_SONYC,1,2
+596,../data/interim/S2L_LULC/urban_26_100/s2lam003_190523_2019-05-25_11-10.pkl,city_S2L_LULC,1,8
+597,"../data/interim/GoogleAudioSet/Outside, urban or manmade/t7uMx5EU-Rg_450.pkl",city_GoogleAudioSet,1,7
+598,../data/interim/youtube/NomadicAmbience_nature/3gyZqijcYY8_875.pkl,nature_youtube/NomadicAmbience_nature,0,9
+599,../data/interim/SONYC/audio-0/18_018438.pkl,city_SONYC,1,0
+600,"../data/interim/GoogleAudioSet/Outside, urban or manmade/3FkzbBjncD8_290.pkl",city_GoogleAudioSet,1,9
+601,../data/interim/youtube/NomadicAmbience_city/jS3lwTn5gfM_478.pkl,city_youtube,1,6
+602,../data/interim/youtube/NatureSoundscapes/W8pBpStV-JQ_1687.pkl,nature_youtube/NatureSoundscapes,0,4
+603,../data/interim/SONYC/audio-15/37_000764.pkl,city_SONYC,1,9
+604,../data/interim/SONYC/audio-3/06_017340.pkl,city_SONYC,1,0
+605,../data/interim/youtube/NomadicAmbience_city/AGklk5jnMUw_27811.pkl,city_youtube,1,0
+606,../data/interim/S2L_LULC/urban_0_25/s2lam044_190401_2019-04-01_17-30.pkl,nature_S2L_LULC/urban_0_25,0,0
+607,../data/interim/youtube/NatureSoundscapes/5hnNwBHUYhg_2895.pkl,nature_youtube/NatureSoundscapes,0,2
+608,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-20_00-00.pkl,city_S2L_LULC,1,9
+609,../data/interim/youtube/NatureSoundscapes/NFCkxxvcpw4_10129.pkl,nature_youtube/NatureSoundscapes,0,6
+610,"../data/interim/GoogleAudioSet/Outside, rural or natural/P8O7pnjJfkM_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+611,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-26_16-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+612,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-17_08-30.pkl,nature_S2L_LULC/urban_0_25,0,0
+613,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-11_23-00.pkl,city_S2L_LULC,1,4
+614,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-29_22-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+615,"../data/interim/GoogleAudioSet/Outside, urban or manmade/JXbMV5CqLkc_20.pkl",city_GoogleAudioSet,1,3
+616,../data/interim/youtube/NatureSoundscapes/c17HoVALYno_20856.pkl,nature_youtube/NatureSoundscapes,0,4
+617,"../data/interim/GoogleAudioSet/Outside, urban or manmade/uNPUAFx8tyg_30.pkl",city_GoogleAudioSet,1,4
+618,../data/interim/youtube/NatureSoundscapes/sOkzzyDNEro_12072.pkl,nature_youtube/NatureSoundscapes,0,1
+619,"../data/interim/GoogleAudioSet/Outside, rural or natural/lt-jiIXkOmY_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+620,"../data/interim/GoogleAudioSet/Outside, urban or manmade/bqPkbvp8PK4_260.pkl",city_GoogleAudioSet,1,3
+621,../data/interim/SONYC/audio-5/03_011544.pkl,city_SONYC,1,6
+622,../data/interim/AmbisonicSoundLibrary/nature/Waterfall Two Feet Above.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+623,../data/interim/SONYC/audio-2/16_003167.pkl,city_SONYC,1,6
+624,../data/interim/SONYC/audio-11/00_009736.pkl,city_SONYC,1,3
+625,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-27_06-40.pkl,nature_S2L_LULC/urban_0_25,0,3
+626,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-02-04_16-00.pkl,nature_S2L_LULC/urban_0_25,0,3
+627,"../data/interim/GoogleAudioSet/Outside, rural or natural/dfzk2tlX4co_110.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+628,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-08_16-20.pkl,nature_S2L_LULC/urban_0_25,0,5
+629,../data/interim/youtube/NatureSoundscapes/7-iEXHAkAIM_6752.pkl,nature_youtube/NatureSoundscapes,0,8
+630,"../data/interim/GoogleAudioSet/Outside, rural or natural/CSfJWw9cM2s_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+631,../data/interim/S2L_LULC/non_urban/s2lam058_210507_2021-05-08_21-10.pkl,nature_S2L_LULC/non_urban,0,8
+632,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-16_06-50.pkl,city_S2L_LULC,1,7
+633,../data/interim/S2L_LULC/urban_0_25/s2lam105_210511_2021-05-12_04-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+634,../data/interim/SONYC/audio-1/40_000060.pkl,city_SONYC,1,7
+635,../data/interim/AmbisonicSoundLibrary/nature/Rural Road.pkl,nature_AmbisonicSoundLibrary/nature,0,5
+636,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-08_17-30.pkl,city_S2L_LULC,1,7
+637,../data/interim/SONYC/audio-4/03_007905.pkl,city_SONYC,1,4
+638,../data/interim/youtube/NomadicAmbience_nature/0QMt8iHtbDI_1263.pkl,nature_youtube/NomadicAmbience_nature,0,6
+639,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Qf92597YNAo_100.pkl",city_GoogleAudioSet,1,7
+640,"../data/interim/GoogleAudioSet/Outside, urban or manmade/MOlzKn1akHc_90.pkl",city_GoogleAudioSet,1,8
+641,../data/interim/SONYC/audio-14/24_020429.pkl,city_SONYC,1,1
+642,../data/interim/SONYC/audio-8/03_017483.pkl,city_SONYC,1,6
+643,"../data/interim/GoogleAudioSet/Outside, urban or manmade/lsrlvha5Z_M_10.pkl",city_GoogleAudioSet,1,1
+644,../data/interim/S2L_LULC/non_urban/s2lam078_210514_2021-05-17_11-10.pkl,nature_S2L_LULC/non_urban,0,9
+645,../data/interim/S2L_LULC/urban_0_25/s2lam052_210417_2021-04-17_23-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+646,../data/interim/S2L_LULC/non_urban/s2lam013_210622_2021-07-02_13-30.pkl,nature_S2L_LULC/non_urban,0,8
+647,"../data/interim/GoogleAudioSet/Outside, rural or natural/ZQ0WfE3nAEU_230.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+648,../data/interim/SONYC/audio-14/10_006224.pkl,city_SONYC,1,6
+649,../data/interim/SONYC/audio-17/16_005655.pkl,city_SONYC,1,2
+650,../data/interim/SONYC/audio-8/25_000937.pkl,city_SONYC,1,5
+651,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-23_03-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+652,../data/interim/S2L_LULC/non_urban/s2lam059_200607_2020-06-07_14-20.pkl,nature_S2L_LULC/non_urban,0,8
+653,../data/interim/SONYC/audio-17/25_012342.pkl,city_SONYC,1,6
+654,../data/interim/S2L_LULC/urban_0_25/s2lam025_190411_2019-04-12_23-30.pkl,nature_S2L_LULC/urban_0_25,0,5
+655,../data/interim/SONYC/audio-13/32_011218.pkl,city_SONYC,1,3
+656,../data/interim/S2L_LULC/urban_0_25/s2llg004_210604-2021-06-06_10-40.pkl,nature_S2L_LULC/urban_0_25,0,5
+657,../data/interim/youtube/NatureSoundscapes/OfLjC71UOL0_21578.pkl,nature_youtube/NatureSoundscapes,0,3
+658,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-07_20-00.pkl,city_S2L_LULC,1,4
+659,../data/interim/S2L_LULC/non_urban/s2lam087_210410_2021-04-10_16-50.pkl,nature_S2L_LULC/non_urban,0,3
+660,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-23_03-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+661,../data/interim/SONYC/audio-18/41_007341.pkl,city_SONYC,1,8
+662,"../data/interim/GoogleAudioSet/Outside, rural or natural/1hizec7Ei2Y_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+663,../data/interim/S2L_LULC/urban_0_25/s2lam029_190612_2019-06-13_04-10.pkl,nature_S2L_LULC/urban_0_25,0,5
+664,../data/interim/youtube/NatureSoundscapes/az7CAx8XrM8_3015.pkl,nature_youtube/NatureSoundscapes,0,2
+665,../data/interim/S2L_LULC/non_urban/s2lam016_210514_2021-05-16_15-30.pkl,nature_S2L_LULC/non_urban,0,8
+666,../data/interim/youtube/NatureSoundscapes/eO4ipqJt6FE_14052.pkl,nature_youtube/NatureSoundscapes,0,4
+667,../data/interim/S2L_LULC/non_urban/s2llg005_170401_2017-04-03_18-20.pkl,nature_S2L_LULC/non_urban,0,4
+668,"../data/interim/GoogleAudioSet/Outside, urban or manmade/OoQzhhWFfz4_60.pkl",city_GoogleAudioSet,1,7
+669,../data/interim/SONYC/audio-9/36_007371.pkl,city_SONYC,1,1
+670,../data/interim/S2L_LULC/non_urban/s2llg009_170415_2017-04-17_17-40.pkl,nature_S2L_LULC/non_urban,0,8
+671,../data/interim/youtube/NomadicAmbience_nature/VDWBP89MAxQ_992.pkl,nature_youtube/NomadicAmbience_nature,0,8
+672,../data/interim/S2L_LULC/non_urban/s2lam006_200522_2020-05-23_05-20.pkl,nature_S2L_LULC/non_urban,0,7
+673,../data/interim/S2L_LULC/non_urban/s2lam101_200616_2020-06-20_22-40.pkl,nature_S2L_LULC/non_urban,0,0
+674,"../data/interim/GoogleAudioSet/Outside, rural or natural/jiqEmXrsVAw_210.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+675,../data/interim/SONYC/audio-7/05_018008.pkl,city_SONYC,1,3
+676,../data/interim/S2L_LULC/non_urban/s2lam030_210614_2021-06-15_00-20.pkl,nature_S2L_LULC/non_urban,0,9
+677,../data/interim/SONYC/audio-15/27_006756.pkl,city_SONYC,1,4
+678,../data/interim/AmbisonicSoundLibrary/nature/Small Running Creek.pkl,nature_AmbisonicSoundLibrary/nature,0,5
+679,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-15_04-30.pkl,city_S2L_LULC,1,8
+680,../data/interim/SONYC/audio-3/20_003257.pkl,city_SONYC,1,4
+681,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-11_19-30.pkl,nature_S2L_LULC/urban_0_25,0,3
+682,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-10_07-30.pkl,city_S2L_LULC,1,0
+683,../data/interim/SONYC/audio-10/13_001487.pkl,city_SONYC,1,0
+684,"../data/interim/GoogleAudioSet/Outside, rural or natural/gwD_19w--Bo_420.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+685,"../data/interim/GoogleAudioSet/Outside, urban or manmade/pOPg5gfWwTs_30.pkl",city_GoogleAudioSet,1,5
+686,../data/interim/youtube/NatureSoundscapes/Xg8nWt4ZAGs_8951.pkl,nature_youtube/NatureSoundscapes,0,3
+687,../data/interim/S2L_LULC/non_urban/s2lam043_190422_2019-04-23_15-50.pkl,nature_S2L_LULC/non_urban,0,0
+688,../data/interim/SONYC/audio-10/12_009115.pkl,city_SONYC,1,6
+689,../data/interim/youtube/NatureSoundscapes/kRMyIZZ80OE_397.pkl,nature_youtube/NatureSoundscapes,0,9
+690,../data/interim/S2L_LULC/urban_26_100/s2lam035_190524_2019-05-27_04-10.pkl,city_S2L_LULC,1,8
+691,../data/interim/SONYC/audio-2/02_018623.pkl,city_SONYC,1,2
+692,../data/interim/S2L_LULC/non_urban/s2lam046_200602_2020-06-10_14-20.pkl,nature_S2L_LULC/non_urban,0,6
+693,../data/interim/S2L_LULC/urban_0_25/s2lam103_200522_2020-05-23_15-50.pkl,nature_S2L_LULC/urban_0_25,0,2
+694,../data/interim/SONYC/audio-3/06_009778.pkl,city_SONYC,1,5
+695,../data/interim/SONYC/audio-8/09_020712.pkl,city_SONYC,1,5
+696,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-13_19-30.pkl,city_S2L_LULC,1,6
+697,"../data/interim/GoogleAudioSet/Outside, rural or natural/ViIQZ6_728g_330.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+698,../data/interim/SONYC/audio-4/38_020587.pkl,city_SONYC,1,8
+699,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-28_00-50.pkl,city_S2L_LULC,1,2
+700,../data/interim/SONYC/audio-9/32_018371.pkl,city_SONYC,1,5
+701,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-17_18-40.pkl,city_S2L_LULC,1,9
+702,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-09_09-20.pkl,city_S2L_LULC,1,0
+703,../data/interim/S2L_LULC/non_urban/s2lam023_210609_2021-06-11_01-50.pkl,nature_S2L_LULC/non_urban,0,1
+704,../data/interim/youtube/NatureSoundscapes/vPbARqR7B6E_26105.pkl,nature_youtube/NatureSoundscapes,0,5
+705,../data/interim/SONYC/audio-15/13_016403.pkl,city_SONYC,1,9
+706,../data/interim/SONYC/audio-17/25_012154.pkl,city_SONYC,1,1
+707,../data/interim/youtube/NatureSoundscapes/iaciZbYFOg0_15756.pkl,nature_youtube/NatureSoundscapes,0,4
+708,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-12_07-50.pkl,city_S2L_LULC,1,0
+709,"../data/interim/GoogleAudioSet/Outside, urban or manmade/XPyCWnbii9Y_180.pkl",city_GoogleAudioSet,1,8
+710,../data/interim/AmbisonicSoundLibrary/nature/Torquay Seagulls and Tourists.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+711,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-23_22-10.pkl,city_S2L_LULC,1,2
+712,../data/interim/SONYC/audio-13/29_001870.pkl,city_SONYC,1,0
+713,../data/interim/youtube/NomadicAmbience_nature/dkY8PTXniG4_477.pkl,nature_youtube/NomadicAmbience_nature,0,1
+714,../data/interim/S2L_LULC/non_urban/s2llg008_210420-2021-04-23_01-50.pkl,nature_S2L_LULC/non_urban,0,2
+715,../data/interim/S2L_LULC/urban_0_25/s2lam105_210511_2021-05-11_18-40.pkl,nature_S2L_LULC/urban_0_25,0,5
+716,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-17_09-50.pkl,city_S2L_LULC,1,9
+717,../data/interim/SONYC/audio-0/02_004027.pkl,city_SONYC,1,0
+718,../data/interim/S2L_LULC/non_urban/s2llg003_170422_2017-04-23_02-40.pkl,nature_S2L_LULC/non_urban,0,4
+719,../data/interim/SONYC/audio-2/26_013289.pkl,city_SONYC,1,9
+720,../data/interim/SONYC/audio-13/25_001994.pkl,city_SONYC,1,5
+721,../data/interim/youtube/NatureSoundscapes/t8pZalZvc3Y_7688.pkl,nature_youtube/NatureSoundscapes,0,7
+722,../data/interim/youtube/NomadicAmbience_nature/sIbJ3aQPo2Y_2700.pkl,nature_youtube/NomadicAmbience_nature,0,0
+723,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-05-30_11-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+724,../data/interim/youtube/NatureSoundscapes/fFKHCEKkcr0_15318.pkl,nature_youtube/NatureSoundscapes,0,4
+725,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-15_01-50.pkl,city_S2L_LULC,1,1
+726,../data/interim/youtube/NomadicAmbience_city/yEodM8OFX10_2865.pkl,city_youtube,1,6
+727,../data/interim/S2L_LULC/non_urban/s2lam063_200606_2020-06-10_13-40.pkl,nature_S2L_LULC/non_urban,0,9
+728,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-04_01-30.pkl,city_S2L_LULC,1,1
+729,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-10_05-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+730,../data/interim/SONYC/audio-3/04_009068.pkl,city_SONYC,1,2
+731,../data/interim/SONYC/audio-10/18_011850.pkl,city_SONYC,1,9
+732,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-21_14-10.pkl,city_S2L_LULC,1,4
+733,../data/interim/youtube/NomadicAmbience_city/Ao76fNgyK8Q_642.pkl,city_youtube,1,7
+734,"../data/interim/GoogleAudioSet/Outside, rural or natural/zaJ09VUP5io_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+735,../data/interim/youtube/NomadicAmbience_city/PZ3MKh-p4jc_868.pkl,city_youtube,1,0
+736,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-06_03-40.pkl,nature_S2L_LULC/urban_0_25,0,4
+737,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-13_16-00.pkl,city_S2L_LULC,1,9
+738,../data/interim/S2L_LULC/urban_0_25/s2lam028_190623_2019-06-25_07-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+739,../data/interim/S2L_LULC/non_urban/s2lam016_200610_2020-06-10_19-40.pkl,nature_S2L_LULC/non_urban,0,6
+740,../data/interim/youtube/NatureSoundscapes/QNHKDuyrz8s_21056.pkl,nature_youtube/NatureSoundscapes,0,8
+741,"../data/interim/GoogleAudioSet/Outside, urban or manmade/qDc1zsftnAs_50.pkl",city_GoogleAudioSet,1,4
+742,../data/interim/SONYC/audio-14/40_002133.pkl,city_SONYC,1,2
+743,../data/interim/S2L_LULC/non_urban/s2lam115_200708_2020-07-09_22-50.pkl,nature_S2L_LULC/non_urban,0,4
+744,../data/interim/AmbisonicSoundLibrary/nature/Windows Closed Wind.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+745,../data/interim/youtube/NomadicAmbience_city/6yiRQSAjQgM_1808.pkl,city_youtube,1,4
+746,../data/interim/SONYC/audio-2/01_027147.pkl,city_SONYC,1,8
+747,../data/interim/S2L_LULC/non_urban/s2lam020_210528_2021-05-30_08-10.pkl,nature_S2L_LULC/non_urban,0,5
+748,../data/interim/S2L_LULC/non_urban/s2lam034_210502_2021-05-05_10-50.pkl,nature_S2L_LULC/non_urban,0,4
+749,../data/interim/S2L_LULC/urban_0_25/s2lam096_200505_2020-05-06_06-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+750,"../data/interim/GoogleAudioSet/Outside, rural or natural/o76baydsjDU_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+751,../data/interim/youtube/NatureSoundscapes/-W2GRdfCbVY_24211.pkl,nature_youtube/NatureSoundscapes,0,7
+752,../data/interim/youtube/NatureSoundscapes/2_edhf-tHr0_2279.pkl,nature_youtube/NatureSoundscapes,0,4
+753,../data/interim/SONYC/audio-4/29_018768.pkl,city_SONYC,1,4
+754,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-27_01-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+755,../data/interim/S2L_LULC/non_urban/s2lam045_190617_2019-06-17_18-20.pkl,nature_S2L_LULC/non_urban,0,2
+756,../data/interim/SONYC/audio-9/40_002781.pkl,city_SONYC,1,6
+757,../data/interim/S2L_LULC/non_urban/s2lam013_200522_2020-05-24_23-40.pkl,nature_S2L_LULC/non_urban,0,5
+758,../data/interim/youtube/NomadicAmbience_city/eommxlR6xFk_257.pkl,city_youtube,1,3
+759,../data/interim/SONYC/audio-6/27_003446.pkl,city_SONYC,1,8
+760,../data/interim/AmbisonicSoundLibrary/nature/Summer Night Insects.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+761,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-09_13-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+762,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-05-29_14-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+763,../data/interim/S2L_LULC/non_urban/s2lam112_210627_2021-06-27_19-20.pkl,nature_S2L_LULC/non_urban,0,4
+764,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-26_08-20.pkl,city_S2L_LULC,1,2
+765,../data/interim/SONYC/audio-8/18_016706.pkl,city_SONYC,1,2
+766,../data/interim/SONYC/audio-14/40_018817.pkl,city_SONYC,1,2
+767,../data/interim/youtube/NomadicAmbience_nature/wlCrnlQ5ofE_155.pkl,nature_youtube/NomadicAmbience_nature,0,5
+768,../data/interim/SONYC/audio-8/27_003079.pkl,city_SONYC,1,8
+769,../data/interim/youtube/NomadicAmbience_city/Wym4G2yYgcU_4885.pkl,city_youtube,1,4
+770,"../data/interim/GoogleAudioSet/Outside, rural or natural/QSYttHIqWBQ_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+771,../data/interim/S2L_LULC/urban_0_25/s2llg009_170718_2017-07-20_19-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+772,"../data/interim/GoogleAudioSet/Outside, rural or natural/RMjmuLRyyKE_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+773,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-18_00-10.pkl,city_S2L_LULC,1,9
+774,../data/interim/S2L_LULC/urban_0_25/s2lam058_190619_2019-06-22_02-30.pkl,nature_S2L_LULC/urban_0_25,0,8
+775,../data/interim/SONYC/audio-17/31_001885.pkl,city_SONYC,1,3
+776,../data/interim/SONYC/audio-13/01_010033.pkl,city_SONYC,1,8
+777,../data/interim/youtube/NatureSoundscapes/k_K61eE4Nhw_21726.pkl,nature_youtube/NatureSoundscapes,0,2
+778,../data/interim/SONYC/audio-5/37_007329.pkl,city_SONYC,1,1
+779,../data/interim/youtube/NomadicAmbience_nature/0YvUFAYD8lo_1883.pkl,nature_youtube/NomadicAmbience_nature,0,9
+780,../data/interim/SONYC/audio-8/29_020041.pkl,city_SONYC,1,1
+781,../data/interim/youtube/NomadicAmbience_nature/R2dvlzuc6uY_780.pkl,nature_youtube/NomadicAmbience_nature,0,5
+782,"../data/interim/GoogleAudioSet/Outside, rural or natural/91J13TaWA54_480.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+783,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-23_22-10.pkl,city_S2L_LULC,1,0
+784,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-24_23-30.pkl,city_S2L_LULC,1,3
+785,../data/interim/youtube/NatureSoundscapes/lrwrfHzKU4Q_27462.pkl,nature_youtube/NatureSoundscapes,0,0
+786,"../data/interim/GoogleAudioSet/Outside, rural or natural/-MfaG0whPJc_130.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+787,../data/interim/SONYC/audio-8/35_006911.pkl,city_SONYC,1,5
+788,../data/interim/S2L_LULC/non_urban/s2lam039_190513_2019-05-14_16-40.pkl,nature_S2L_LULC/non_urban,0,3
+789,../data/interim/S2L_LULC/non_urban/s2lam013_210502_2021-05-04_11-20.pkl,nature_S2L_LULC/non_urban,0,9
+790,../data/interim/S2L_LULC/urban_26_100/s2lam002_190329_2019-03-31_20-40.pkl,city_S2L_LULC,1,2
+791,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-25_14-40.pkl,city_S2L_LULC,1,2
+792,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-12_07-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+793,"../data/interim/GoogleAudioSet/Outside, rural or natural/klshjoyXTkw_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+794,"../data/interim/GoogleAudioSet/Outside, urban or manmade/pjm2rNsIvps_10.pkl",city_GoogleAudioSet,1,5
+795,"../data/interim/GoogleAudioSet/Outside, rural or natural/hO_wcYLXrIo_280.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+796,../data/interim/youtube/NatureSoundscapes/pN6nPkwT_oM_7361.pkl,nature_youtube/NatureSoundscapes,0,8
+797,../data/interim/SONYC/audio-11/20_018544.pkl,city_SONYC,1,4
+798,../data/interim/S2L_LULC/urban_0_25/s2llg007_170613_2017-06-15_02-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+799,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-18_15-10.pkl,city_S2L_LULC,1,6
+800,../data/interim/youtube/NatureSoundscapes/IpVyia504Dc_25122.pkl,nature_youtube/NatureSoundscapes,0,7
+801,../data/interim/youtube/NatureSoundscapes/0MrM22I13uI_13191.pkl,nature_youtube/NatureSoundscapes,0,4
+802,../data/interim/AmbisonicSoundLibrary/nature/Werribee Wetlands.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+803,../data/interim/SONYC/audio-4/01_002572.pkl,city_SONYC,1,1
+804,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-11_12-10.pkl,city_S2L_LULC,1,8
+805,"../data/interim/GoogleAudioSet/Outside, urban or manmade/NAldsczqsy0_0.pkl",city_GoogleAudioSet,1,2
+806,"../data/interim/GoogleAudioSet/Outside, rural or natural/-EFS2mihxs0_240.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+807,../data/interim/youtube/NatureSoundscapes/YVwx7YTmRbM_15160.pkl,nature_youtube/NatureSoundscapes,0,0
+808,../data/interim/S2L_LULC/non_urban/s2lam025_210527_2021-05-29_03-40.pkl,nature_S2L_LULC/non_urban,0,0
+809,../data/interim/SONYC/audio-0/36_018429.pkl,city_SONYC,1,5
+810,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-26_10-30.pkl,city_S2L_LULC,1,8
+811,../data/interim/SONYC/audio-16/27_011824.pkl,city_SONYC,1,4
+812,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-23_16-50.pkl,city_S2L_LULC,1,1
+813,"../data/interim/GoogleAudioSet/Outside, urban or manmade/9BzZvj5W09s_60.pkl",city_GoogleAudioSet,1,2
+814,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-20_08-40.pkl,city_S2L_LULC,1,6
+815,"../data/interim/GoogleAudioSet/Outside, urban or manmade/GQd7VWjX67E_0.pkl",city_GoogleAudioSet,1,4
+816,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-08_03-00.pkl,city_S2L_LULC,1,3
+817,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-07_17-40.pkl,city_S2L_LULC,1,6
+818,../data/interim/youtube/NatureSoundscapes/GuYLFAIcPtc_2930.pkl,nature_youtube/NatureSoundscapes,0,1
+819,../data/interim/SONYC/audio-15/40_004811.pkl,city_SONYC,1,9
+820,../data/interim/SONYC/audio-13/07_003468.pkl,city_SONYC,1,5
+821,../data/interim/S2L_LULC/non_urban/s2lam113_210410_2021-04-14_05-10.pkl,nature_S2L_LULC/non_urban,0,0
+822,../data/interim/youtube/NomadicAmbience_city/adQPQwXG6AM_1106.pkl,city_youtube,1,7
+823,../data/interim/SONYC/audio-3/01_009090.pkl,city_SONYC,1,8
+824,"../data/interim/GoogleAudioSet/Outside, urban or manmade/lTAUV1Yj4NE_170.pkl",city_GoogleAudioSet,1,0
+825,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-25_20-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+826,../data/interim/youtube/NatureSoundscapes/Vzi0ropAcCg_10625.pkl,nature_youtube/NatureSoundscapes,0,1
+827,../data/interim/SONYC/audio-9/22_013699.pkl,city_SONYC,1,5
+828,"../data/interim/GoogleAudioSet/Outside, urban or manmade/JWGrOPsU6W0_110.pkl",city_GoogleAudioSet,1,2
+829,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-24_01-00.pkl,city_S2L_LULC,1,1
+830,../data/interim/SONYC/audio-7/04_018272.pkl,city_SONYC,1,4
+831,../data/interim/S2L_LULC/non_urban/s2lam038_190318_2019-03-20_11-00.pkl,nature_S2L_LULC/non_urban,0,0
+832,../data/interim/youtube/NatureSoundscapes/euuZzMYA2-c_139.pkl,nature_youtube/NatureSoundscapes,0,2
+833,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Z0oM4laQgfg_17.pkl",city_GoogleAudioSet,1,4
+834,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-23_01-00.pkl,city_S2L_LULC,1,0
+835,../data/interim/SONYC/audio-16/40_019845.pkl,city_SONYC,1,4
+836,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-08_13-40.pkl,city_S2L_LULC,1,5
+837,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-20_17-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+838,../data/interim/SONYC/audio-15/06_016508.pkl,city_SONYC,1,0
+839,../data/interim/S2L_LULC/urban_0_25/s2llg008_170711_2017-07-12_17-00.pkl,nature_S2L_LULC/urban_0_25,0,8
+840,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-19_18-40.pkl,nature_S2L_LULC/urban_0_25,0,8
+841,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-16_02-50.pkl,city_S2L_LULC,1,0
+842,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-13_23-40.pkl,city_S2L_LULC,1,2
+843,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Cjem1GlpQ5w_10.pkl",city_GoogleAudioSet,1,0
+844,../data/interim/SONYC/audio-11/40_003112.pkl,city_SONYC,1,3
+845,../data/interim/SONYC/audio-14/37_003247.pkl,city_SONYC,1,3
+846,../data/interim/youtube/NomadicAmbience_city/PWyQdRqNbGI_747.pkl,city_youtube,1,4
+847,"../data/interim/GoogleAudioSet/Outside, rural or natural/0MJPqGKIbZg_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+848,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-06_02-20.pkl,city_S2L_LULC,1,6
+849,"../data/interim/GoogleAudioSet/Outside, rural or natural/z6evA_Zskqk_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+850,../data/interim/SONYC/audio-5/05_020816.pkl,city_SONYC,1,1
+851,../data/interim/S2L_LULC/non_urban/s2lam015_200603_2020-06-04_04-40.pkl,nature_S2L_LULC/non_urban,0,2
+852,../data/interim/SONYC/audio-13/08_004010.pkl,city_SONYC,1,6
+853,../data/interim/SONYC/audio-0/18_027178.pkl,city_SONYC,1,7
+854,../data/interim/S2L_LULC/urban_0_25/s2llg008_170711_2017-07-13_23-40.pkl,nature_S2L_LULC/urban_0_25,0,4
+855,../data/interim/SONYC/audio-18/40_027566.pkl,city_SONYC,1,0
+856,../data/interim/SONYC/audio-9/22_016470.pkl,city_SONYC,1,1
+857,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-04_03-10.pkl,nature_S2L_LULC/urban_0_25,0,8
+858,"../data/interim/GoogleAudioSet/Outside, urban or manmade/6KknUgdsPxw_160.pkl",city_GoogleAudioSet,1,2
+859,../data/interim/SONYC/audio-2/25_006675.pkl,city_SONYC,1,3
+860,../data/interim/SONYC/audio-9/38_003085.pkl,city_SONYC,1,2
+861,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-10_22-10.pkl,city_S2L_LULC,1,2
+862,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-07_17-20.pkl,nature_S2L_LULC/urban_0_25,0,1
+863,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-14_15-20.pkl,city_S2L_LULC,1,8
+864,"../data/interim/GoogleAudioSet/Outside, rural or natural/Ndc4lN9GoGk_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+865,../data/interim/SONYC/audio-5/01_010349.pkl,city_SONYC,1,8
+866,"../data/interim/GoogleAudioSet/Outside, rural or natural/G344XaqIv54_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+867,../data/interim/SONYC/audio-1/24_011789.pkl,city_SONYC,1,2
+868,../data/interim/SONYC/audio-12/01_017398.pkl,city_SONYC,1,1
+869,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-28_22-30.pkl,city_S2L_LULC,1,0
+870,../data/interim/SONYC/audio-10/09_005950.pkl,city_SONYC,1,3
+871,../data/interim/SONYC/audio-5/06_012513.pkl,city_SONYC,1,6
+872,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-08_17-50.pkl,city_S2L_LULC,1,0
+873,../data/interim/SONYC/audio-7/33_000560.pkl,city_SONYC,1,7
+874,../data/interim/S2L_LULC/non_urban/s2lam019_190513_2019-05-17_15-00.pkl,nature_S2L_LULC/non_urban,0,6
+875,../data/interim/youtube/NatureSoundscapes/FP8-JwNaV_8_6453.pkl,nature_youtube/NatureSoundscapes,0,0
+876,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-24_08-10.pkl,city_S2L_LULC,1,8
+877,../data/interim/SONYC/audio-5/37_002319.pkl,city_SONYC,1,0
+878,../data/interim/SONYC/audio-1/07_027015.pkl,city_SONYC,1,4
+879,../data/interim/SONYC/audio-8/34_018001.pkl,city_SONYC,1,8
+880,../data/interim/S2L_LULC/non_urban/s2lam027_200616_2020-06-18_23-40.pkl,nature_S2L_LULC/non_urban,0,6
+881,../data/interim/youtube/NatureSoundscapes/VOwwjCIYSBo_19081.pkl,nature_youtube/NatureSoundscapes,0,9
+882,../data/interim/SONYC/audio-17/02_008000.pkl,city_SONYC,1,6
+883,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-04_07-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+884,../data/interim/S2L_LULC/non_urban/s2lam045_190527_2019-05-31_05-20.pkl,nature_S2L_LULC/non_urban,0,9
+885,../data/interim/SONYC/audio-11/16_009545.pkl,city_SONYC,1,8
+886,../data/interim/youtube/NatureSoundscapes/KDCNcoWPBYE_3871.pkl,nature_youtube/NatureSoundscapes,0,8
+887,"../data/interim/GoogleAudioSet/Outside, rural or natural/1JEa_q6nHOE_90.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+888,../data/interim/youtube/NomadicAmbience_city/tJjxqan1ln8_1492.pkl,city_youtube,1,1
+889,"../data/interim/GoogleAudioSet/Outside, urban or manmade/_hi0fw2p5Gs_440.pkl",city_GoogleAudioSet,1,9
+890,../data/interim/SONYC/audio-10/06_010084.pkl,city_SONYC,1,7
+891,"../data/interim/GoogleAudioSet/Outside, rural or natural/usjxOxDQYHI_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+892,../data/interim/youtube/NatureSoundscapes/pGFT2vAdm2A_24012.pkl,nature_youtube/NatureSoundscapes,0,9
+893,../data/interim/S2L_LULC/non_urban/s2lam056_190528_2019-05-30_05-00.pkl,nature_S2L_LULC/non_urban,0,5
+894,"../data/interim/GoogleAudioSet/Outside, rural or natural/j_ZwYJNu5mE_130.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+895,"../data/interim/GoogleAudioSet/Outside, urban or manmade/99w08FiKJXE_420.pkl",city_GoogleAudioSet,1,3
+896,"../data/interim/GoogleAudioSet/Outside, rural or natural/U7pc2A42FFI_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+897,../data/interim/S2L_LULC/urban_26_100/s2llg010_180422_2018-04-23_20-30.pkl,city_S2L_LULC,1,5
+898,../data/interim/SONYC/audio-0/01_002470.pkl,city_SONYC,1,7
+899,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-30_22-50.pkl,city_S2L_LULC,1,6
+900,"../data/interim/GoogleAudioSet/Outside, urban or manmade/sig0oUL7FVI_120.pkl",city_GoogleAudioSet,1,8
+901,../data/interim/S2L_LULC/non_urban/s2lam075_210410_2021-04-13_22-40.pkl,nature_S2L_LULC/non_urban,0,9
+902,../data/interim/S2L_LULC/non_urban/s2llg003_190503_2019-05-06_01-46.pkl,nature_S2L_LULC/non_urban,0,3
+903,"../data/interim/GoogleAudioSet/Outside, urban or manmade/1qAvaKlkJis_30.pkl",city_GoogleAudioSet,1,2
+904,"../data/interim/GoogleAudioSet/Outside, urban or manmade/g6hEiX4XTcw_340.pkl",city_GoogleAudioSet,1,6
+905,../data/interim/SONYC/audio-18/27_006426.pkl,city_SONYC,1,7
+906,../data/interim/youtube/NatureSoundscapes/jXDiDBq56Pw_17774.pkl,nature_youtube/NatureSoundscapes,0,8
+907,../data/interim/SONYC/audio-8/06_018399.pkl,city_SONYC,1,3
+908,"../data/interim/GoogleAudioSet/Outside, urban or manmade/wYgGpTFY2No_560.pkl",city_GoogleAudioSet,1,0
+909,"../data/interim/GoogleAudioSet/Outside, urban or manmade/hk4NfsX_1Ek_10.pkl",city_GoogleAudioSet,1,4
+910,../data/interim/S2L_LULC/urban_0_25/s2lam103_200522_2020-05-24_02-20.pkl,nature_S2L_LULC/urban_0_25,0,8
+911,../data/interim/S2L_LULC/urban_0_25/s2lam034_210606_2021-06-07_12-30.pkl,nature_S2L_LULC/urban_0_25,0,3
+912,"../data/interim/GoogleAudioSet/Outside, urban or manmade/B9GItZg1U_o_70.pkl",city_GoogleAudioSet,1,9
+913,../data/interim/SONYC/audio-3/07_004634.pkl,city_SONYC,1,1
+914,../data/interim/SONYC/audio-9/31_010840.pkl,city_SONYC,1,8
+915,"../data/interim/GoogleAudioSet/Outside, rural or natural/9s1FsAilsEo_200.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+916,../data/interim/AmbisonicSoundLibrary/nature/Olinda Arboretum.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+917,../data/interim/SONYC/audio-16/27_001612.pkl,city_SONYC,1,3
+918,../data/interim/S2L_LULC/non_urban/s2lam052_200522_2020-05-25_15-10.pkl,nature_S2L_LULC/non_urban,0,3
+919,"../data/interim/GoogleAudioSet/Outside, rural or natural/8DvUWo9Zxzk_160.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+920,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-15_10-30.pkl,city_S2L_LULC,1,6
+921,"../data/interim/GoogleAudioSet/Outside, rural or natural/0pxApm5Y6eM_140.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+922,../data/interim/SONYC/audio-4/11_013660.pkl,city_SONYC,1,9
+923,../data/interim/S2L_LULC/urban_0_25/s2lam105_210511_2021-05-14_05-20.pkl,nature_S2L_LULC/urban_0_25,0,1
+924,../data/interim/SONYC/audio-0/31_009595.pkl,city_SONYC,1,4
+925,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-23_10-00.pkl,nature_S2L_LULC/urban_0_25,0,2
+926,../data/interim/youtube/NatureSoundscapes/-xm1Fadu_Yc_11142.pkl,nature_youtube/NatureSoundscapes,0,5
+927,../data/interim/S2L_LULC/non_urban/s2lam036_200528_2020-05-28_22-10.pkl,nature_S2L_LULC/non_urban,0,7
+928,../data/interim/youtube/NatureSoundscapes/0CJfI-RJS5U_1547.pkl,nature_youtube/NatureSoundscapes,0,1
+929,"../data/interim/GoogleAudioSet/Outside, rural or natural/l4P7f1VgSSU_380.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+930,"../data/interim/GoogleAudioSet/Outside, rural or natural/JMxLzd_RYDI_170.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+931,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-25_13-10.pkl,city_S2L_LULC,1,4
+932,"../data/interim/GoogleAudioSet/Outside, urban or manmade/WQNJDWRsG3s_250.pkl",city_GoogleAudioSet,1,4
+933,../data/interim/SONYC/audio-5/38_008287.pkl,city_SONYC,1,9
+934,../data/interim/AmbisonicSoundLibrary/nature/Hepburn Blowhole.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+935,"../data/interim/GoogleAudioSet/Outside, rural or natural/6WX4cEj7sTc_400.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+936,../data/interim/SONYC/audio-12/24_005989.pkl,city_SONYC,1,4
+937,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-22_20-00.pkl,nature_S2L_LULC/urban_0_25,0,7
+938,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-22_20-20.pkl,nature_S2L_LULC/urban_0_25,0,7
+939,"../data/interim/GoogleAudioSet/Outside, urban or manmade/GCYra4Z6wmc_30.pkl",city_GoogleAudioSet,1,3
+940,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-09_17-20.pkl,city_S2L_LULC,1,4
+941,../data/interim/SONYC/audio-11/24_017395.pkl,city_SONYC,1,2
+942,"../data/interim/GoogleAudioSet/Outside, rural or natural/Fdmeo7qIDI0_490.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+943,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-09_18-20.pkl,city_S2L_LULC,1,5
+944,../data/interim/youtube/NatureSoundscapes/vUzmmjaMyiI_19940.pkl,nature_youtube/NatureSoundscapes,0,3
+945,"../data/interim/GoogleAudioSet/Outside, urban or manmade/PIFEQzXscRE_10.pkl",city_GoogleAudioSet,1,0
+946,../data/interim/S2L_LULC/non_urban/s2llg004_180414_2018-04-15_21-50.pkl,nature_S2L_LULC/non_urban,0,6
+947,../data/interim/SONYC/audio-5/00_008557.pkl,city_SONYC,1,9
+948,"../data/interim/GoogleAudioSet/Outside, rural or natural/MStyPWh3La4_120.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+949,../data/interim/SONYC/audio-11/01_010155.pkl,city_SONYC,1,8
+950,../data/interim/AmbisonicSoundLibrary/nature/Whistling Wind.pkl,nature_AmbisonicSoundLibrary/nature,0,5
+951,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-14_08-10.pkl,city_S2L_LULC,1,5
+952,../data/interim/S2L_LULC/non_urban/s2lam092_210624_2021-06-27_03-30.pkl,nature_S2L_LULC/non_urban,0,2
+953,../data/interim/S2L_LULC/non_urban/s2lam042_200603_2020-06-08_20-30.pkl,nature_S2L_LULC/non_urban,0,1
+954,../data/interim/SONYC/audio-5/05_019072.pkl,city_SONYC,1,0
+955,"../data/interim/GoogleAudioSet/Outside, urban or manmade/4ZOnkn4XnOM_200.pkl",city_GoogleAudioSet,1,0
+956,../data/interim/youtube/NatureSoundscapes/aiNZ_s3TRtM_27957.pkl,nature_youtube/NatureSoundscapes,0,0
+957,../data/interim/youtube/NatureSoundscapes/wXv8A6PH-Kk_12027.pkl,nature_youtube/NatureSoundscapes,0,0
+958,"../data/interim/GoogleAudioSet/Outside, urban or manmade/oy2iqv6kNNw_240.pkl",city_GoogleAudioSet,1,6
+959,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-29_01-20.pkl,city_S2L_LULC,1,0
+960,../data/interim/S2L_LULC/non_urban/s2lam089_210328_2021-03-30_03-30.pkl,nature_S2L_LULC/non_urban,0,0
+961,../data/interim/youtube/NatureSoundscapes/jgIbPJO9GSk_9287.pkl,nature_youtube/NatureSoundscapes,0,6
+962,"../data/interim/GoogleAudioSet/Outside, rural or natural/QLNn3qg1RAE_110.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+963,../data/interim/S2L_LULC/non_urban/s2lam002_190621_2019-06-23_23-50.pkl,nature_S2L_LULC/non_urban,0,1
+964,../data/interim/SONYC/audio-12/18_019575.pkl,city_SONYC,1,9
+965,../data/interim/youtube/NomadicAmbience_city/PZJaxmN89F4_854.pkl,city_youtube,1,7
+966,../data/interim/SONYC/audio-3/40_002317.pkl,city_SONYC,1,4
+967,../data/interim/youtube/NatureSoundscapes/0ENprUkWsMc_27681.pkl,nature_youtube/NatureSoundscapes,0,0
+968,../data/interim/SONYC/audio-5/32_020142.pkl,city_SONYC,1,7
+969,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-26_06-20.pkl,city_S2L_LULC,1,3
+970,"../data/interim/GoogleAudioSet/Outside, rural or natural/HGtnqoU1kdc_90.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+971,../data/interim/S2L_LULC/non_urban/s2lam025_190513_2019-05-19_00-30.pkl,nature_S2L_LULC/non_urban,0,8
+972,../data/interim/S2L_LULC/non_urban/s2lam026_200616_2020-06-17_01-20.pkl,nature_S2L_LULC/non_urban,0,6
+973,../data/interim/youtube/NomadicAmbience_nature/3cxyYOXiJss_1225.pkl,nature_youtube/NomadicAmbience_nature,0,1
+974,../data/interim/S2L_LULC/non_urban/s2lam049_210702_2021-07-07_04-10.pkl,nature_S2L_LULC/non_urban,0,9
+975,../data/interim/AmbisonicSoundLibrary/nature/10 Feet from Shore.pkl,nature_AmbisonicSoundLibrary/nature,0,9
+976,"../data/interim/GoogleAudioSet/Outside, urban or manmade/PdbSJW03FpQ_6.pkl",city_GoogleAudioSet,1,2
+977,../data/interim/S2L_LULC/urban_0_25/s2llg007_170613_2017-06-14_16-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+978,../data/interim/S2L_LULC/non_urban/s2lam031_190603_2019-06-05_10-20.pkl,nature_S2L_LULC/non_urban,0,3
+979,../data/interim/S2L_LULC/urban_0_25/s2lam028_190421_2019-04-26_11-30.pkl,nature_S2L_LULC/urban_0_25,0,1
+980,../data/interim/S2L_LULC/non_urban/s2lam085_210508_2021-05-11_13-40.pkl,nature_S2L_LULC/non_urban,0,4
+981,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-28_19-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+982,../data/interim/SONYC/audio-14/29_005052.pkl,city_SONYC,1,5
+983,../data/interim/SONYC/audio-9/28_013039.pkl,city_SONYC,1,9
+984,../data/interim/S2L_LULC/non_urban/s2llg001_170613_2017-06-13_15-00.pkl,nature_S2L_LULC/non_urban,0,8
+985,../data/interim/S2L_LULC/urban_0_25/s2llg004_210628-2021-06-29_05-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+986,../data/interim/youtube/NatureSoundscapes/vfcPxHuSEwI_4083.pkl,nature_youtube/NatureSoundscapes,0,4
+987,../data/interim/AmbisonicSoundLibrary/nature/Horse Stable 3.pkl,nature_AmbisonicSoundLibrary/nature,0,5
+988,../data/interim/youtube/NatureSoundscapes/Q6BW39pO1Xs_77.pkl,nature_youtube/NatureSoundscapes,0,0
+989,"../data/interim/GoogleAudioSet/Outside, rural or natural/dohLSefRWxg_9.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+990,../data/interim/S2L_LULC/non_urban/s2lam055_210425_2021-04-27_04-10.pkl,nature_S2L_LULC/non_urban,0,7
+991,../data/interim/youtube/NatureSoundscapes/eRbdshbJyn8_28478.pkl,nature_youtube/NatureSoundscapes,0,8
+992,../data/interim/S2L_LULC/non_urban/s2lam045_210615_2021-06-16_14-40.pkl,nature_S2L_LULC/non_urban,0,7
+993,../data/interim/SONYC/audio-9/02_011079.pkl,city_SONYC,1,9
+994,../data/interim/S2L_LULC/urban_26_100/s2lam003_190523_2019-05-24_04-10.pkl,city_S2L_LULC,1,1
+995,../data/interim/S2L_LULC/non_urban/s2lam112_200710_2020-07-12_12-50.pkl,nature_S2L_LULC/non_urban,0,9
+996,../data/interim/AmbisonicSoundLibrary/nature/Guildford Cicadas.pkl,nature_AmbisonicSoundLibrary/nature,0,9
+997,../data/interim/youtube/NomadicAmbience_city/RZhVFFdhhkg_3097.pkl,city_youtube,1,9
+998,"../data/interim/GoogleAudioSet/Outside, rural or natural/x_SdET0hB7A_590.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+999,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-02-01_15-30.pkl,nature_S2L_LULC/urban_0_25,0,6
+1000,../data/interim/youtube/NatureSoundscapes/Pb9zW7RIYDQ_11453.pkl,nature_youtube/NatureSoundscapes,0,2
+1001,../data/interim/S2L_LULC/non_urban/s2lam011_190407_2019-04-07_20-50.pkl,nature_S2L_LULC/non_urban,0,3
+1002,../data/interim/SONYC/audio-14/14_008664.pkl,city_SONYC,1,3
+1003,../data/interim/SONYC/audio-5/16_001663.pkl,city_SONYC,1,8
+1004,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-22_21-40.pkl,nature_S2L_LULC/urban_0_25,0,3
+1005,../data/interim/youtube/NomadicAmbience_city/zVieRYQNsXY_1678.pkl,city_youtube,1,7
+1006,../data/interim/youtube/NatureSoundscapes/2yZis7wb_b4_19225.pkl,nature_youtube/NatureSoundscapes,0,1
+1007,../data/interim/youtube/NomadicAmbience_city/YF3pj_3mdMc_30408.pkl,city_youtube,1,5
+1008,../data/interim/youtube/NatureSoundscapes/qIQqGFLAPJM_24880.pkl,nature_youtube/NatureSoundscapes,0,4
+1009,"../data/interim/GoogleAudioSet/Outside, rural or natural/L52FAJDaa48_170.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1010,../data/interim/SONYC/audio-18/40_000708.pkl,city_SONYC,1,0
+1011,../data/interim/youtube/NomadicAmbience_city/KTmVPmatH5w_3256.pkl,city_youtube,1,2
+1012,../data/interim/S2L_LULC/urban_0_25/s2lam074_210528_2021-05-31_05-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+1013,../data/interim/S2L_LULC/urban_0_25/s2lam051_210628_2021-06-29_09-40.pkl,nature_S2L_LULC/urban_0_25,0,4
+1014,../data/interim/youtube/NomadicAmbience_nature/NAVj5h0A070_1808.pkl,nature_youtube/NomadicAmbience_nature,0,8
+1015,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-22_23-20.pkl,nature_S2L_LULC/urban_0_25,0,5
+1016,"../data/interim/GoogleAudioSet/Outside, rural or natural/xXFyAC2KscM_550.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1017,../data/interim/SONYC/audio-7/01_016461.pkl,city_SONYC,1,8
+1018,../data/interim/AmbisonicSoundLibrary/nature/Anna Bay Waves.pkl,nature_AmbisonicSoundLibrary/nature,0,8
+1019,../data/interim/S2L_LULC/urban_0_25/s2lam031_190411_2019-04-12_23-20.pkl,nature_S2L_LULC/urban_0_25,0,6
+1020,"../data/interim/GoogleAudioSet/Outside, rural or natural/Gi2q0XWyAs4_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1021,"../data/interim/GoogleAudioSet/Outside, rural or natural/70ia88_c-rU_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1022,../data/interim/youtube/NomadicAmbience_nature/ynLpZGegiJE_885.pkl,nature_youtube/NomadicAmbience_nature,0,6
+1023,../data/interim/AmbisonicSoundLibrary/nature/Hurricane Sea Wall.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+1024,../data/interim/SONYC/audio-7/32_027206.pkl,city_SONYC,1,3
+1025,../data/interim/youtube/NatureSoundscapes/pIEcaQ9BXBE_25914.pkl,nature_youtube/NatureSoundscapes,0,5
+1026,"../data/interim/GoogleAudioSet/Outside, rural or natural/iEgERcuzwOo_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1027,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-25_01-30.pkl,nature_S2L_LULC/urban_0_25,0,2
+1028,../data/interim/S2L_LULC/non_urban/s2llg008_180330_2018-04-01_03-20.pkl,nature_S2L_LULC/non_urban,0,9
+1029,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-21_03-10.pkl,nature_S2L_LULC/urban_0_25,0,1
+1030,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-04-01_07-40.pkl,city_S2L_LULC,1,7
+1031,../data/interim/SONYC/audio-13/19_020403.pkl,city_SONYC,1,7
+1032,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-14_16-30.pkl,city_S2L_LULC,1,5
+1033,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-03_05-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+1034,"../data/interim/GoogleAudioSet/Outside, rural or natural/jOSDrTDoB0o_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1035,../data/interim/S2L_LULC/non_urban/s2lam079_210530_2021-06-02_08-30.pkl,nature_S2L_LULC/non_urban,0,9
+1036,../data/interim/S2L_LULC/non_urban/s2lam009_180707_2018-07-13_17-50.pkl,nature_S2L_LULC/non_urban,0,5
+1037,../data/interim/SONYC/audio-17/27_004608.pkl,city_SONYC,1,0
+1038,../data/interim/youtube/NomadicAmbience_city/rkchc7YYl-o_6223.pkl,city_youtube,1,3
+1039,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-25_00-50.pkl,city_S2L_LULC,1,8
+1040,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-27_10-50.pkl,nature_S2L_LULC/urban_0_25,0,5
+1041,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-14_05-20.pkl,city_S2L_LULC,1,8
+1042,"../data/interim/GoogleAudioSet/Outside, rural or natural/qYZo8SyvCzU_210.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1043,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-29_14-30.pkl,nature_S2L_LULC/urban_0_25,0,6
+1044,../data/interim/SONYC/audio-15/33_002245.pkl,city_SONYC,1,2
+1045,../data/interim/SONYC/audio-14/06_004090.pkl,city_SONYC,1,8
+1046,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-08_07-30.pkl,city_S2L_LULC,1,0
+1047,../data/interim/S2L_LULC/urban_0_25/s2llg007_170613_2017-06-14_11-50.pkl,nature_S2L_LULC/urban_0_25,0,7
+1048,../data/interim/SONYC/audio-13/40_001064.pkl,city_SONYC,1,9
+1049,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-19_22-10.pkl,nature_S2L_LULC/urban_0_25,0,1
+1050,"../data/interim/GoogleAudioSet/Outside, urban or manmade/pi5IzVbCJhc_30.pkl",city_GoogleAudioSet,1,5
+1051,../data/interim/youtube/NatureSoundscapes/uOmmMERBcw4_6064.pkl,nature_youtube/NatureSoundscapes,0,8
+1052,../data/interim/youtube/NomadicAmbience_nature/ECSIkIC6RZw_3252.pkl,nature_youtube/NomadicAmbience_nature,0,9
+1053,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-19_08-40.pkl,city_S2L_LULC,1,2
+1054,../data/interim/SONYC/audio-2/55_027843.pkl,city_SONYC,1,5
+1055,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-16_13-10.pkl,city_S2L_LULC,1,2
+1056,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-25_01-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+1057,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-31_13-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+1058,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-13_21-20.pkl,city_S2L_LULC,1,7
+1059,../data/interim/youtube/NomadicAmbience_city/n_vLXJaggX8_1243.pkl,city_youtube,1,5
+1060,../data/interim/S2L_LULC/non_urban/s2lam052_190521_2019-05-21_21-40.pkl,nature_S2L_LULC/non_urban,0,1
+1061,../data/interim/SONYC/audio-5/05_012721.pkl,city_SONYC,1,1
+1062,../data/interim/S2L_LULC/non_urban/s2lam067_210425_2021-04-27_09-40.pkl,nature_S2L_LULC/non_urban,0,5
+1063,../data/interim/S2L_LULC/urban_0_25/s2llg009_170718_2017-07-21_07-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+1064,../data/interim/youtube/NatureSoundscapes/j5cf3Ie-o_U_23993.pkl,nature_youtube/NatureSoundscapes,0,8
+1065,../data/interim/youtube/NatureSoundscapes/N1Bsh1n68yg_14225.pkl,nature_youtube/NatureSoundscapes,0,6
+1066,"../data/interim/GoogleAudioSet/Outside, rural or natural/tuZYdoic2lk_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1067,../data/interim/youtube/NatureSoundscapes/8OVw_QgV7wo_14258.pkl,nature_youtube/NatureSoundscapes,0,3
+1068,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_10-20.pkl,city_S2L_LULC,1,1
+1069,../data/interim/SONYC/audio-15/17_005577.pkl,city_SONYC,1,1
+1070,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-15_16-50.pkl,city_S2L_LULC,1,0
+1071,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-12_10-50.pkl,city_S2L_LULC,1,9
+1072,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-12_21-10.pkl,city_S2L_LULC,1,7
+1073,../data/interim/youtube/NomadicAmbience_city/ADLQsNEhUfg_18791.pkl,city_youtube,1,2
+1074,"../data/interim/GoogleAudioSet/Outside, rural or natural/C5QxHyI1GBc_520.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1075,../data/interim/S2L_LULC/non_urban/s2lam023_210407_2021-04-09_01-00.pkl,nature_S2L_LULC/non_urban,0,0
+1076,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-03_23-50.pkl,nature_S2L_LULC/urban_0_25,0,6
+1077,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-17_10-30.pkl,city_S2L_LULC,1,4
+1078,../data/interim/SONYC/audio-3/07_005072.pkl,city_SONYC,1,7
+1079,../data/interim/SONYC/audio-5/18_005018.pkl,city_SONYC,1,2
+1080,../data/interim/SONYC/audio-16/27_017115.pkl,city_SONYC,1,0
+1081,../data/interim/SONYC/audio-7/11_000522.pkl,city_SONYC,1,3
+1082,../data/interim/SONYC/audio-3/23_001880.pkl,city_SONYC,1,8
+1083,../data/interim/SONYC/audio-3/19_012586.pkl,city_SONYC,1,8
+1084,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-04_16-50.pkl,city_S2L_LULC,1,9
+1085,../data/interim/youtube/NomadicAmbience_nature/4aM_AgHh8xc_1596.pkl,nature_youtube/NomadicAmbience_nature,0,3
+1086,../data/interim/S2L_LULC/urban_26_100/s2lam046_190318_2019-03-19_11-20.pkl,city_S2L_LULC,1,0
+1087,../data/interim/youtube/NatureSoundscapes/1EYSUtAEm3M_2138.pkl,nature_youtube/NatureSoundscapes,0,9
+1088,../data/interim/youtube/NatureSoundscapes/cJIyWxLUq54_20454.pkl,nature_youtube/NatureSoundscapes,0,1
+1089,../data/interim/S2L_LULC/non_urban/s2lam066_200622_2020-06-25_05-00.pkl,nature_S2L_LULC/non_urban,0,3
+1090,../data/interim/youtube/NomadicAmbience_city/-veiV1hHEbA_15472.pkl,city_youtube,1,1
+1091,../data/interim/S2L_LULC/non_urban/s2lam056_190528_2019-05-28_15-40.pkl,nature_S2L_LULC/non_urban,0,0
+1092,"../data/interim/GoogleAudioSet/Outside, rural or natural/ADnh2FcZwLg_230.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1093,"../data/interim/GoogleAudioSet/Outside, urban or manmade/zj0wawtfZsA_10.pkl",city_GoogleAudioSet,1,2
+1094,../data/interim/youtube/NatureSoundscapes/wafAVYN76fk_4567.pkl,nature_youtube/NatureSoundscapes,0,9
+1095,../data/interim/youtube/NatureSoundscapes/wB_fDxlwrIk_9376.pkl,nature_youtube/NatureSoundscapes,0,8
+1096,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-22_06-50.pkl,city_S2L_LULC,1,2
+1097,../data/interim/SONYC/audio-9/40_004074.pkl,city_SONYC,1,0
+1098,../data/interim/SONYC/audio-16/31_010182.pkl,city_SONYC,1,7
+1099,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-20_14-30.pkl,city_S2L_LULC,1,0
+1100,../data/interim/S2L_LULC/urban_0_25/s2lam023_200701_2020-07-04_08-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+1101,../data/interim/SONYC/audio-8/11_013165.pkl,city_SONYC,1,8
+1102,"../data/interim/GoogleAudioSet/Outside, rural or natural/0pgG7Rk_eqM_140.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1103,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_16-00.pkl,city_S2L_LULC,1,1
+1104,"../data/interim/GoogleAudioSet/Outside, rural or natural/8ofrO5oTmu4_280.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1105,../data/interim/S2L_LULC/non_urban/s2lam059_200607_2020-06-07_17-40.pkl,nature_S2L_LULC/non_urban,0,1
+1106,"../data/interim/GoogleAudioSet/Outside, urban or manmade/7lyqru6t1SQ_280.pkl",city_GoogleAudioSet,1,0
+1107,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-05_12-00.pkl,city_S2L_LULC,1,9
+1108,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-19_22-20.pkl,nature_S2L_LULC/urban_0_25,0,0
+1109,../data/interim/S2L_LULC/non_urban/s2lam044_210502_2021-05-06_07-20.pkl,nature_S2L_LULC/non_urban,0,1
+1110,../data/interim/S2L_LULC/non_urban/s2llg005_180517_2018-05-19_13-30.pkl,nature_S2L_LULC/non_urban,0,5
+1111,../data/interim/youtube/NatureSoundscapes/IauzioQxfMY_14566.pkl,nature_youtube/NatureSoundscapes,0,1
+1112,../data/interim/S2L_LULC/non_urban/s2lam023_190627_2019-06-28_01-00.pkl,nature_S2L_LULC/non_urban,0,3
+1113,../data/interim/SONYC/audio-5/35_013466.pkl,city_SONYC,1,2
+1114,../data/interim/SONYC/audio-8/06_003222.pkl,city_SONYC,1,0
+1115,../data/interim/SONYC/audio-4/40_002843.pkl,city_SONYC,1,1
+1116,"../data/interim/GoogleAudioSet/Outside, rural or natural/T8cnEXIwjWA_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1117,../data/interim/youtube/NatureSoundscapes/MiHqOqAIUuU_22713.pkl,nature_youtube/NatureSoundscapes,0,6
+1118,../data/interim/youtube/NomadicAmbience_nature/iTNfxPGn_l4_2407.pkl,nature_youtube/NomadicAmbience_nature,0,2
+1119,../data/interim/SONYC/audio-5/06_007650.pkl,city_SONYC,1,9
+1120,"../data/interim/GoogleAudioSet/Outside, rural or natural/_k2FMiR9B9o_430.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1121,../data/interim/SONYC/audio-4/06_018099.pkl,city_SONYC,1,6
+1122,../data/interim/SONYC/audio-3/40_000674.pkl,city_SONYC,1,5
+1123,"../data/interim/GoogleAudioSet/Outside, rural or natural/VPp9ArDokWY_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1124,../data/interim/S2L_LULC/urban_0_25/s2lam029_200701_2020-07-02_13-10.pkl,nature_S2L_LULC/urban_0_25,0,8
+1125,../data/interim/S2L_LULC/urban_0_25/s2lam105_210511_2021-05-14_15-50.pkl,nature_S2L_LULC/urban_0_25,0,6
+1126,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-18_07-10.pkl,city_S2L_LULC,1,3
+1127,../data/interim/S2L_LULC/non_urban/s2lam104_200528_2020-05-30_10-20.pkl,nature_S2L_LULC/non_urban,0,8
+1128,../data/interim/AmbisonicSoundLibrary/nature/Strong Winds in a Forest.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+1129,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-02-05_22-20.pkl,nature_S2L_LULC/urban_0_25,0,3
+1130,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-09_06-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+1131,../data/interim/SONYC/audio-13/20_008553.pkl,city_SONYC,1,6
+1132,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-17_07-50.pkl,city_S2L_LULC,1,2
+1133,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Creek.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+1134,../data/interim/SONYC/audio-9/45_027128.pkl,city_SONYC,1,6
+1135,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-06_21-00.pkl,nature_S2L_LULC/urban_0_25,0,7
+1136,"../data/interim/GoogleAudioSet/Outside, rural or natural/ArIES6ScYzo_330.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1137,"../data/interim/GoogleAudioSet/Outside, urban or manmade/nFA1TD9ySXU_0.pkl",city_GoogleAudioSet,1,4
+1138,"../data/interim/GoogleAudioSet/Outside, rural or natural/cwgGYQBCt5A_180.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1139,../data/interim/AmbisonicSoundLibrary/nature/Rural Garden.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+1140,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-09_10-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+1141,../data/interim/S2L_LULC/non_urban/s2lam089_210624_2021-06-28_09-30.pkl,nature_S2L_LULC/non_urban,0,8
+1142,"../data/interim/GoogleAudioSet/Outside, urban or manmade/nkxjWOM2ryw_80.pkl",city_GoogleAudioSet,1,4
+1143,../data/interim/S2L_LULC/non_urban/s2lam015_210502_2021-05-07_06-20.pkl,nature_S2L_LULC/non_urban,0,2
+1144,../data/interim/S2L_LULC/urban_0_25/s2lam052_190601_2019-06-03_02-30.pkl,nature_S2L_LULC/urban_0_25,0,2
+1145,"../data/interim/GoogleAudioSet/Outside, urban or manmade/QM4qxOYDwHo_90.pkl",city_GoogleAudioSet,1,8
+1146,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-02-02_04-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+1147,"../data/interim/GoogleAudioSet/Outside, urban or manmade/gJZUyOycu28_10.pkl",city_GoogleAudioSet,1,8
+1148,../data/interim/S2L_LULC/non_urban/s2lam019_180707_2018-07-10_20-10.pkl,nature_S2L_LULC/non_urban,0,1
+1149,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-17_11-40.pkl,city_S2L_LULC,1,9
+1150,../data/interim/youtube/NatureSoundscapes/fVcjaq8szSQ_20679.pkl,nature_youtube/NatureSoundscapes,0,8
+1151,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-16_18-10.pkl,city_S2L_LULC,1,9
+1152,../data/interim/SONYC/audio-4/04_011424.pkl,city_SONYC,1,0
+1153,"../data/interim/GoogleAudioSet/Outside, urban or manmade/QqitTNF_I3g_30.pkl",city_GoogleAudioSet,1,0
+1154,../data/interim/SONYC/audio-0/01_006005.pkl,city_SONYC,1,1
+1155,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-30_03-30.pkl,city_S2L_LULC,1,3
+1156,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-14_22-00.pkl,city_S2L_LULC,1,5
+1157,../data/interim/S2L_LULC/non_urban/s2llg008_180330_2018-04-03_07-00.pkl,nature_S2L_LULC/non_urban,0,6
+1158,../data/interim/youtube/NatureSoundscapes/ra9d6Vc8D8Y_12787.pkl,nature_youtube/NatureSoundscapes,0,4
+1159,"../data/interim/GoogleAudioSet/Outside, urban or manmade/3eqHT6u_52M_160.pkl",city_GoogleAudioSet,1,7
+1160,../data/interim/SONYC/audio-15/16_008188.pkl,city_SONYC,1,0
+1161,../data/interim/S2L_LULC/urban_26_100/s2lam111_200501_2020-05-03_05-10.pkl,city_S2L_LULC,1,4
+1162,../data/interim/SONYC/audio-6/32_012131.pkl,city_SONYC,1,6
+1163,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-14_16-00.pkl,city_S2L_LULC,1,7
+1164,../data/interim/youtube/NatureSoundscapes/6Mq1Njgrxgs_13962.pkl,nature_youtube/NatureSoundscapes,0,1
+1165,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-04_01-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+1166,../data/interim/youtube/NatureSoundscapes/5__dl-0A34E_12034.pkl,nature_youtube/NatureSoundscapes,0,2
+1167,../data/interim/S2L_LULC/non_urban/s2llg007_180614_2018-06-17_00-00.pkl,nature_S2L_LULC/non_urban,0,2
+1168,../data/interim/S2L_LULC/urban_26_100/s2lam111_200501_2020-05-03_00-20.pkl,city_S2L_LULC,1,2
+1169,../data/interim/youtube/NatureSoundscapes/oRFsGcZGiX8_8195.pkl,nature_youtube/NatureSoundscapes,0,0
+1170,../data/interim/S2L_LULC/urban_0_25/s2llg004_210628-2021-07-01_10-10.pkl,nature_S2L_LULC/urban_0_25,0,1
+1171,../data/interim/SONYC/audio-11/06_020624.pkl,city_SONYC,1,0
+1172,../data/interim/S2L_LULC/non_urban/s2lam034_200701_2020-07-03_04-50.pkl,nature_S2L_LULC/non_urban,0,3
+1173,../data/interim/S2L_LULC/urban_0_25/s2lam044_190401_2019-04-02_11-30.pkl,nature_S2L_LULC/urban_0_25,0,8
+1174,../data/interim/youtube/NatureSoundscapes/Ky0B5YuzqD8_12863.pkl,nature_youtube/NatureSoundscapes,0,6
+1175,../data/interim/youtube/NatureSoundscapes/W_PdU1Usy2w_7265.pkl,nature_youtube/NatureSoundscapes,0,5
+1176,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-14_07-10.pkl,city_S2L_LULC,1,4
+1177,../data/interim/youtube/NatureSoundscapes/uFizQK_7zGI_25076.pkl,nature_youtube/NatureSoundscapes,0,9
+1178,"../data/interim/GoogleAudioSet/Outside, rural or natural/nQyRAHc7uhw_230.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1179,../data/interim/youtube/NatureSoundscapes/7kLzyZ9gBa0_6487.pkl,nature_youtube/NatureSoundscapes,0,0
+1180,"../data/interim/GoogleAudioSet/Outside, rural or natural/jjJgbpw0QmA_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1181,../data/interim/S2L_LULC/urban_0_25/s2lam023_200701_2020-07-02_19-00.pkl,nature_S2L_LULC/urban_0_25,0,7
+1182,../data/interim/youtube/NatureSoundscapes/fQRNsr9pdGU_19785.pkl,nature_youtube/NatureSoundscapes,0,5
+1183,../data/interim/SONYC/audio-7/35_002195.pkl,city_SONYC,1,5
+1184,../data/interim/S2L_LULC/non_urban/s2lam040_200624_2020-06-27_05-30.pkl,nature_S2L_LULC/non_urban,0,5
+1185,../data/interim/S2L_LULC/non_urban/s2lam019_210501_2021-05-02_12-50.pkl,nature_S2L_LULC/non_urban,0,5
+1186,../data/interim/SONYC/audio-7/30_009827.pkl,city_SONYC,1,1
+1187,../data/interim/SONYC/audio-1/15_018149.pkl,city_SONYC,1,1
+1188,../data/interim/youtube/NatureSoundscapes/QM54FR9Rods_18114.pkl,nature_youtube/NatureSoundscapes,0,3
+1189,../data/interim/youtube/NatureSoundscapes/o10k9AsVDEc_27206.pkl,nature_youtube/NatureSoundscapes,0,2
+1190,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-02_19-20.pkl,city_S2L_LULC,1,5
+1191,../data/interim/youtube/NatureSoundscapes/QQwyRqmIbzc_23693.pkl,nature_youtube/NatureSoundscapes,0,5
+1192,../data/interim/SONYC/audio-4/04_004884.pkl,city_SONYC,1,2
+1193,../data/interim/S2L_LULC/urban_0_25/s2lam029_190612_2019-06-12_15-00.pkl,nature_S2L_LULC/urban_0_25,0,4
+1194,../data/interim/youtube/NatureSoundscapes/dOAWP06Yybk_12243.pkl,nature_youtube/NatureSoundscapes,0,7
+1195,../data/interim/S2L_LULC/non_urban/s2lam017_180702_2018-07-02_16-30.pkl,nature_S2L_LULC/non_urban,0,5
+1196,../data/interim/S2L_LULC/non_urban/s2lam021_210404_2021-04-05_21-50.pkl,nature_S2L_LULC/non_urban,0,7
+1197,../data/interim/S2L_LULC/non_urban/s2lam019_190522_2019-05-27_00-20.pkl,nature_S2L_LULC/non_urban,0,7
+1198,../data/interim/S2L_LULC/urban_0_25/s2llg009_170718_2017-07-19_07-20.pkl,nature_S2L_LULC/urban_0_25,0,2
+1199,"../data/interim/GoogleAudioSet/Outside, rural or natural/8sqewUGPr-w_300.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1200,../data/interim/youtube/NatureSoundscapes/Ryk0N3NW1ic_1440.pkl,nature_youtube/NatureSoundscapes,0,0
+1201,../data/interim/youtube/NatureSoundscapes/fCRTDGQviwE_14726.pkl,nature_youtube/NatureSoundscapes,0,1
+1202,../data/interim/SONYC/audio-7/11_005466.pkl,city_SONYC,1,1
+1203,../data/interim/S2L_LULC/non_urban/s2lam007_190304_2019-03-05_20-10.pkl,nature_S2L_LULC/non_urban,0,8
+1204,../data/interim/SONYC/audio-4/30_002126.pkl,city_SONYC,1,7
+1205,../data/interim/SONYC/audio-2/06_019030.pkl,city_SONYC,1,4
+1206,../data/interim/SONYC/audio-7/40_001244.pkl,city_SONYC,1,2
+1207,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-16_11-50.pkl,city_S2L_LULC,1,0
+1208,"../data/interim/GoogleAudioSet/Outside, urban or manmade/7KLcXpyuexo_400.pkl",city_GoogleAudioSet,1,5
+1209,../data/interim/S2L_LULC/non_urban/s2lam027_200616_2020-06-20_00-10.pkl,nature_S2L_LULC/non_urban,0,1
+1210,../data/interim/youtube/NomadicAmbience_city/YNAdzvW-ZTc_1686.pkl,city_youtube,1,3
+1211,"../data/interim/GoogleAudioSet/Outside, rural or natural/bE2KZveD5Q4_60.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1212,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-20_18-00.pkl,city_S2L_LULC,1,3
+1213,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-27_19-30.pkl,city_S2L_LULC,1,2
+1214,"../data/interim/GoogleAudioSet/Outside, rural or natural/YskxakrmawA_50.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1215,../data/interim/SONYC/audio-2/39_020462.pkl,city_SONYC,1,8
+1216,../data/interim/SONYC/audio-6/06_017293.pkl,city_SONYC,1,3
+1217,../data/interim/youtube/NatureSoundscapes/WF5n1EdGNpo_14221.pkl,nature_youtube/NatureSoundscapes,0,5
+1218,../data/interim/S2L_LULC/non_urban/s2lam095_200708_2020-07-08_21-50.pkl,nature_S2L_LULC/non_urban,0,0
+1219,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-13_18-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+1220,../data/interim/SONYC/audio-15/20_012036.pkl,city_SONYC,1,7
+1221,"../data/interim/GoogleAudioSet/Outside, urban or manmade/hyBnFl57dwA_30.pkl",city_GoogleAudioSet,1,1
+1222,../data/interim/SONYC/audio-3/00_018939.pkl,city_SONYC,1,9
+1223,../data/interim/AmbisonicSoundLibrary/nature/Summer Rain Shower.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+1224,../data/interim/SONYC/audio-2/33_008375.pkl,city_SONYC,1,4
+1225,../data/interim/youtube/NatureSoundscapes/GiNcEQhe-pc_11852.pkl,nature_youtube/NatureSoundscapes,0,6
+1226,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-23_13-00.pkl,city_S2L_LULC,1,7
+1227,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-11_02-20.pkl,city_S2L_LULC,1,7
+1228,../data/interim/S2L_LULC/non_urban/s2lam011_210508_2021-05-10_09-50.pkl,nature_S2L_LULC/non_urban,0,5
+1229,../data/interim/SONYC/audio-0/36_019939.pkl,city_SONYC,1,9
+1230,../data/interim/S2L_LULC/non_urban/s2lam112_210413_2021-04-14_10-50.pkl,nature_S2L_LULC/non_urban,0,9
+1231,"../data/interim/GoogleAudioSet/Outside, rural or natural/rBjPObr45eM_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1232,../data/interim/SONYC/audio-17/18_006582.pkl,city_SONYC,1,1
+1233,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-14_14-00.pkl,city_S2L_LULC,1,4
+1234,../data/interim/SONYC/audio-7/05_007897.pkl,city_SONYC,1,8
+1235,../data/interim/youtube/NomadicAmbience_city/FvmdCHgDbts_2488.pkl,city_youtube,1,0
+1236,../data/interim/SONYC/audio-0/18_005858.pkl,city_SONYC,1,9
+1237,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-26_09-00.pkl,city_S2L_LULC,1,4
+1238,"../data/interim/GoogleAudioSet/Outside, rural or natural/t60XU3HolYo_160.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1239,../data/interim/S2L_LULC/non_urban/s2lam070_210501_2021-05-05_00-30.pkl,nature_S2L_LULC/non_urban,0,6
+1240,../data/interim/SONYC/audio-13/37_001378.pkl,city_SONYC,1,8
+1241,../data/interim/SONYC/audio-10/05_007696.pkl,city_SONYC,1,7
+1242,../data/interim/S2L_LULC/non_urban/s2llg001_170509_2017-05-18_09-30.pkl,nature_S2L_LULC/non_urban,0,2
+1243,../data/interim/S2L_LULC/urban_0_25/s2lam050_190411_2019-04-14_10-30.pkl,nature_S2L_LULC/urban_0_25,0,9
+1244,"../data/interim/GoogleAudioSet/Outside, rural or natural/3GI2lANcVEY_290.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1245,"../data/interim/GoogleAudioSet/Outside, urban or manmade/hF8WIKLNZSI_120.pkl",city_GoogleAudioSet,1,3
+1246,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Uvm0jskoh6w_570.pkl",city_GoogleAudioSet,1,1
+1247,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-15_18-10.pkl,city_S2L_LULC,1,1
+1248,../data/interim/youtube/NatureSoundscapes/ldsdr20nGEo_15837.pkl,nature_youtube/NatureSoundscapes,0,3
+1249,../data/interim/youtube/NatureSoundscapes/OBjIM6C8ms4_10950.pkl,nature_youtube/NatureSoundscapes,0,0
+1250,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-06_17-00.pkl,city_S2L_LULC,1,0
+1251,../data/interim/SONYC/audio-12/18_003288.pkl,city_SONYC,1,3
+1252,"../data/interim/GoogleAudioSet/Outside, urban or manmade/97PvmmLm0MQ_20.pkl",city_GoogleAudioSet,1,6
+1253,../data/interim/SONYC/audio-17/11_017142.pkl,city_SONYC,1,3
+1254,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+1255,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-24_21-30.pkl,city_S2L_LULC,1,7
+1256,../data/interim/SONYC/audio-7/29_006873.pkl,city_SONYC,1,6
+1257,../data/interim/youtube/NatureSoundscapes/XkWID-6tRCU_23767.pkl,nature_youtube/NatureSoundscapes,0,9
+1258,../data/interim/S2L_LULC/non_urban/s2llg008_170616_2017-06-17_00-40.pkl,nature_S2L_LULC/non_urban,0,3
+1259,../data/interim/SONYC/audio-8/06_019130.pkl,city_SONYC,1,2
+1260,"../data/interim/GoogleAudioSet/Outside, urban or manmade/hQGF6bi1t6w_20.pkl",city_GoogleAudioSet,1,8
+1261,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-18_22-40.pkl,city_S2L_LULC,1,8
+1262,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-23_01-50.pkl,nature_S2L_LULC/urban_0_25,0,8
+1263,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HZywXtkSiCE_10.pkl",city_GoogleAudioSet,1,3
+1264,../data/interim/youtube/NatureSoundscapes/oOVlOMlZjEQ_9852.pkl,nature_youtube/NatureSoundscapes,0,2
+1265,"../data/interim/GoogleAudioSet/Outside, urban or manmade/SGFs2YlHYwg_30.pkl",city_GoogleAudioSet,1,1
+1266,"../data/interim/GoogleAudioSet/Outside, urban or manmade/-LBl0UeKNyU_430.pkl",city_GoogleAudioSet,1,4
+1267,"../data/interim/GoogleAudioSet/Outside, urban or manmade/f24GI12Moe4_0.pkl",city_GoogleAudioSet,1,9
+1268,../data/interim/SONYC/audio-4/14_009464.pkl,city_SONYC,1,8
+1269,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-10_06-20.pkl,city_S2L_LULC,1,6
+1270,../data/interim/S2L_LULC/non_urban/s2llg006_170430_2017-05-01_02-10.pkl,nature_S2L_LULC/non_urban,0,0
+1271,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-09_17-00.pkl,city_S2L_LULC,1,5
+1272,"../data/interim/GoogleAudioSet/Outside, rural or natural/irutvIeDEVs_440.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+1273,../data/interim/SONYC/audio-5/16_001926.pkl,city_SONYC,1,5
+1274,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-10_02-30.pkl,city_S2L_LULC,1,3
+1275,"../data/interim/GoogleAudioSet/Outside, rural or natural/fdt3_-KXOhE_330.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1276,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-07_03-00.pkl,city_S2L_LULC,1,0
+1277,"../data/interim/GoogleAudioSet/Outside, rural or natural/sj238FA4c3s_0.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1278,../data/interim/SONYC/audio-8/01_008648.pkl,city_SONYC,1,1
+1279,../data/interim/SONYC/audio-13/01_016913.pkl,city_SONYC,1,6
+1280,../data/interim/SONYC/audio-16/41_003253.pkl,city_SONYC,1,5
+1281,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-26_10-20.pkl,city_S2L_LULC,1,7
+1282,../data/interim/youtube/NatureSoundscapes/jmsqH-y4Rvw_2876.pkl,nature_youtube/NatureSoundscapes,0,8
+1283,"../data/interim/GoogleAudioSet/Outside, rural or natural/smgPntD7sv0_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+1284,../data/interim/SONYC/audio-2/29_020420.pkl,city_SONYC,1,6
+1285,"../data/interim/GoogleAudioSet/Outside, urban or manmade/NJ9MpvYoZHA_0.pkl",city_GoogleAudioSet,1,0
+1286,../data/interim/S2L_LULC/urban_0_25/s2lam024_190411_2019-04-11_20-50.pkl,nature_S2L_LULC/urban_0_25,0,6
+1287,../data/interim/SONYC/audio-16/35_017726.pkl,city_SONYC,1,6
+1288,../data/interim/SONYC/audio-7/17_013569.pkl,city_SONYC,1,1
+1289,../data/interim/youtube/NomadicAmbience_nature/qFP-nBwxWd4_3013.pkl,nature_youtube/NomadicAmbience_nature,0,0
+1290,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-06-02_11-40.pkl,nature_S2L_LULC/urban_0_25,0,9
+1291,../data/interim/SONYC/audio-0/01_012851.pkl,city_SONYC,1,0
+1292,../data/interim/SONYC/audio-0/01_001435.pkl,city_SONYC,1,4
+1293,"../data/interim/GoogleAudioSet/Outside, urban or manmade/5P3aq2BJYa0_480.pkl",city_GoogleAudioSet,1,3
+1294,../data/interim/SONYC/audio-15/40_002125.pkl,city_SONYC,1,1
+1295,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-13_10-00.pkl,city_S2L_LULC,1,3
+1296,../data/interim/SONYC/audio-4/06_007768.pkl,city_SONYC,1,0
+1297,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-12_16-50.pkl,city_S2L_LULC,1,5
+1298,../data/interim/youtube/NomadicAmbience_nature/B0mtZyMMhZI_5684.pkl,nature_youtube/NomadicAmbience_nature,0,2
+1299,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-28_05-40.pkl,nature_S2L_LULC/urban_0_25,0,5
+1300,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-13_15-30.pkl,city_S2L_LULC,1,1
+1301,../data/interim/SONYC/audio-9/29_007944.pkl,city_SONYC,1,7
+1302,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-30_15-20.pkl,nature_S2L_LULC/urban_0_25,0,9
+1303,../data/interim/SONYC/audio-11/34_012278.pkl,city_SONYC,1,5
+1304,../data/interim/S2L_LULC/non_urban/s2lam012_190326_2019-03-29_21-00.pkl,nature_S2L_LULC/non_urban,0,0
+1305,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-19_01-20.pkl,nature_S2L_LULC/urban_0_25,0,5
+1306,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-26_11-00.pkl,city_S2L_LULC,1,3
+1307,../data/interim/SONYC/audio-15/37_004502.pkl,city_SONYC,1,5
+1308,../data/interim/SONYC/audio-5/27_007743.pkl,city_SONYC,1,4
+1309,../data/interim/S2L_LULC/urban_0_25/s2lam052_210417_2021-04-18_11-50.pkl,nature_S2L_LULC/urban_0_25,0,3
+1310,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_16-20.pkl,city_S2L_LULC,1,6
+1311,../data/interim/SONYC/audio-10/19_017057.pkl,city_SONYC,1,7
+1312,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HJc-cKmD100_370.pkl",city_GoogleAudioSet,1,2
+1313,../data/interim/youtube/NatureSoundscapes/QzGLLkddlBQ_6987.pkl,nature_youtube/NatureSoundscapes,0,9
+1314,../data/interim/SONYC/audio-10/31_019274.pkl,city_SONYC,1,8
+1315,"../data/interim/GoogleAudioSet/Outside, urban or manmade/E9MhfMjq6FI_90.pkl",city_GoogleAudioSet,1,5
+1316,../data/interim/youtube/NatureSoundscapes/u2Ac6S8ZPMM_18205.pkl,nature_youtube/NatureSoundscapes,0,5
+1317,../data/interim/youtube/NatureSoundscapes/6uVx29dElx8_19040.pkl,nature_youtube/NatureSoundscapes,0,3
+1318,../data/interim/youtube/NatureSoundscapes/DzfPEQCnW8M_6230.pkl,nature_youtube/NatureSoundscapes,0,2
+1319,"../data/interim/GoogleAudioSet/Outside, urban or manmade/t0YCaoQ9XPQ_10.pkl",city_GoogleAudioSet,1,5
+1320,../data/interim/S2L_LULC/non_urban/s2lam046_190505_2019-05-08_20-50.pkl,nature_S2L_LULC/non_urban,0,6
+1321,../data/interim/S2L_LULC/non_urban/s2lam042_210617_2021-06-26_12-00.pkl,nature_S2L_LULC/non_urban,0,1
+1322,../data/interim/youtube/NatureSoundscapes/yHLA_ID6_aw_16348.pkl,nature_youtube/NatureSoundscapes,0,7
+1323,"../data/interim/GoogleAudioSet/Outside, rural or natural/g0K_MKLP660_340.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1324,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-29_23-20.pkl,nature_S2L_LULC/urban_0_25,0,0
+1325,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-28_06-00.pkl,city_S2L_LULC,1,8
+1326,../data/interim/youtube/NatureSoundscapes/T1EpTnNTqIo_23729.pkl,nature_youtube/NatureSoundscapes,0,8
+1327,../data/interim/youtube/NatureSoundscapes/ExJBKsAcVAY_9379.pkl,nature_youtube/NatureSoundscapes,0,3
+1328,../data/interim/SONYC/audio-9/28_004790.pkl,city_SONYC,1,7
+1329,../data/interim/SONYC/audio-0/18_027838.pkl,city_SONYC,1,6
+1330,../data/interim/AmbisonicSoundLibrary/nature/Waterfall Three Feet Above.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+1331,../data/interim/SONYC/audio-16/01_000917.pkl,city_SONYC,1,2
+1332,../data/interim/SONYC/audio-17/20_011262.pkl,city_SONYC,1,4
+1333,"../data/interim/GoogleAudioSet/Outside, urban or manmade/m50hi3spgZ4_140.pkl",city_GoogleAudioSet,1,6
+1334,../data/interim/S2L_LULC/non_urban/s2llg003_190530_2019-06-01_14-40.pkl,nature_S2L_LULC/non_urban,0,4
+1335,"../data/interim/GoogleAudioSet/Outside, urban or manmade/R-0tRRcXmpE_0.pkl",city_GoogleAudioSet,1,1
+1336,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-20_00-50.pkl,nature_S2L_LULC/urban_0_25,0,6
+1337,../data/interim/AmbisonicSoundLibrary/nature/Hurricane On Boat Deck.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+1338,../data/interim/S2L_LULC/non_urban/s2lam017_210521_2021-05-23_18-00.pkl,nature_S2L_LULC/non_urban,0,2
+1339,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-15_12-40.pkl,city_S2L_LULC,1,7
+1340,../data/interim/SONYC/audio-5/32_008802.pkl,city_SONYC,1,5
+1341,../data/interim/SONYC/audio-3/38_002876.pkl,city_SONYC,1,5
+1342,"../data/interim/GoogleAudioSet/Outside, urban or manmade/aq7axBA11pE_510.pkl",city_GoogleAudioSet,1,7
+1343,../data/interim/SONYC/audio-14/04_012121.pkl,city_SONYC,1,2
+1344,../data/interim/S2L_LULC/non_urban/s2lam089_210624_2021-06-25_00-00.pkl,nature_S2L_LULC/non_urban,0,9
+1345,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-16_02-20.pkl,city_S2L_LULC,1,8
+1346,../data/interim/youtube/NatureSoundscapes/hPcjnmQdnk4_24174.pkl,nature_youtube/NatureSoundscapes,0,9
+1347,../data/interim/S2L_LULC/non_urban/s2lam115_210327_2021-03-28_07-40.pkl,nature_S2L_LULC/non_urban,0,9
+1348,../data/interim/youtube/NomadicAmbience_nature/_OQ2n6-ABl8_789.pkl,nature_youtube/NomadicAmbience_nature,0,9
+1349,../data/interim/SONYC/audio-9/00_020205.pkl,city_SONYC,1,0
+1350,"../data/interim/GoogleAudioSet/Outside, urban or manmade/zYlOfvuzbBo_290.pkl",city_GoogleAudioSet,1,3
+1351,../data/interim/SONYC/audio-8/19_019473.pkl,city_SONYC,1,4
+1352,../data/interim/youtube/NatureSoundscapes/8vMsd6lMmQk_23912.pkl,nature_youtube/NatureSoundscapes,0,5
+1353,../data/interim/AmbisonicSoundLibrary/nature/Torquay Surf.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+1354,../data/interim/SONYC/audio-15/16_016764.pkl,city_SONYC,1,1
+1355,"../data/interim/GoogleAudioSet/Outside, urban or manmade/nITNA5-2Dc8_380.pkl",city_GoogleAudioSet,1,1
+1356,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-14_02-00.pkl,city_S2L_LULC,1,3
+1357,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-12_08-50.pkl,city_S2L_LULC,1,9
+1358,"../data/interim/GoogleAudioSet/Outside, rural or natural/Pj6G2P59vdQ_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1359,../data/interim/SONYC/audio-15/23_012616.pkl,city_SONYC,1,7
+1360,"../data/interim/GoogleAudioSet/Outside, urban or manmade/mwA_Z3AgWxw_500.pkl",city_GoogleAudioSet,1,0
+1361,../data/interim/SONYC/audio-6/31_009318.pkl,city_SONYC,1,7
+1362,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-19_20-20.pkl,city_S2L_LULC,1,6
+1363,../data/interim/SONYC/audio-1/23_005606.pkl,city_SONYC,1,9
+1364,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_04-10.pkl,city_S2L_LULC,1,7
+1365,../data/interim/S2L_LULC/non_urban/s2lam001_180526_2018-05-27_05-40.pkl,nature_S2L_LULC/non_urban,0,6
+1366,../data/interim/S2L_LULC/non_urban/s2llg009_180526_2018-05-26_17-00.pkl,nature_S2L_LULC/non_urban,0,4
+1367,../data/interim/SONYC/audio-3/24_006805.pkl,city_SONYC,1,1
+1368,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-16_19-00.pkl,city_S2L_LULC,1,6
+1369,../data/interim/S2L_LULC/urban_26_100/s2lam060_210716_2021-07-18_18-30.pkl,city_S2L_LULC,1,5
+1370,"../data/interim/GoogleAudioSet/Outside, urban or manmade/vqVsEaMWYJQ_360.pkl",city_GoogleAudioSet,1,7
+1371,../data/interim/S2L_LULC/non_urban/s2lam112_210507_2021-05-10_00-50.pkl,nature_S2L_LULC/non_urban,0,1
+1372,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-17_17-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+1373,../data/interim/youtube/NatureSoundscapes/yZB9UO3uzKc_10376.pkl,nature_youtube/NatureSoundscapes,0,0
+1374,"../data/interim/GoogleAudioSet/Outside, rural or natural/yVXgN1Sp0TI_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1375,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-28_16-40.pkl,city_S2L_LULC,1,6
+1376,"../data/interim/GoogleAudioSet/Outside, rural or natural/YXY1d7vHcQE_310.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1377,../data/interim/S2L_LULC/non_urban/s2lam085_210326_2021-03-28_18-40.pkl,nature_S2L_LULC/non_urban,0,5
+1378,../data/interim/SONYC/audio-5/37_002119.pkl,city_SONYC,1,6
+1379,"../data/interim/GoogleAudioSet/Outside, urban or manmade/iypvbe6J6Qs_40.pkl",city_GoogleAudioSet,1,3
+1380,../data/interim/SONYC/audio-14/00_018075.pkl,city_SONYC,1,7
+1381,../data/interim/S2L_LULC/non_urban/s2lam107_210506_2021-05-07_21-20.pkl,nature_S2L_LULC/non_urban,0,4
+1382,../data/interim/SONYC/audio-16/06_011470.pkl,city_SONYC,1,4
+1383,../data/interim/youtube/NomadicAmbience_city/unfmzc0opk4_3613.pkl,city_youtube,1,3
+1384,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-28_08-40.pkl,nature_S2L_LULC/urban_0_25,0,8
+1385,../data/interim/AmbisonicSoundLibrary/nature/Victoria Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,8
+1386,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-16_16-40.pkl,city_S2L_LULC,1,7
+1387,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-19_14-00.pkl,city_S2L_LULC,1,2
+1388,"../data/interim/GoogleAudioSet/Outside, rural or natural/N3zMQvVkpBo_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1389,"../data/interim/GoogleAudioSet/Outside, rural or natural/nGa9YKv6SCw_470.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+1390,../data/interim/SONYC/audio-0/40_002271.pkl,city_SONYC,1,2
+1391,../data/interim/SONYC/audio-2/00_000436.pkl,city_SONYC,1,3
+1392,../data/interim/youtube/NatureSoundscapes/CgpvJRpNWA0_6236.pkl,nature_youtube/NatureSoundscapes,0,9
+1393,../data/interim/SONYC/audio-11/03_009116.pkl,city_SONYC,1,8
+1394,../data/interim/SONYC/audio-12/23_013624.pkl,city_SONYC,1,2
+1395,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-13_00-30.pkl,city_S2L_LULC,1,1
+1396,../data/interim/S2L_LULC/urban_0_25/s2lam049_190630_2019-06-30_13-40.pkl,nature_S2L_LULC/urban_0_25,0,9
+1397,../data/interim/youtube/NomadicAmbience_city/7z2ByLiz0IM_967.pkl,city_youtube,1,2
+1398,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-06_16-50.pkl,city_S2L_LULC,1,3
+1399,../data/interim/S2L_LULC/urban_0_25/s2lam033_190511_2019-05-13_11-30.pkl,nature_S2L_LULC/urban_0_25,0,6
+1400,../data/interim/youtube/NatureSoundscapes/PJ2nSADO5jI_7057.pkl,nature_youtube/NatureSoundscapes,0,8
+1401,../data/interim/SONYC/audio-18/14_013268.pkl,city_SONYC,1,2
+1402,../data/interim/S2L_LULC/non_urban/s2lam091_210418_2021-04-20_10-10.pkl,nature_S2L_LULC/non_urban,0,5
+1403,../data/interim/youtube/NatureSoundscapes/IpuNd8ezovo_24693.pkl,nature_youtube/NatureSoundscapes,0,1
+1404,../data/interim/SONYC/audio-1/04_009244.pkl,city_SONYC,1,7
+1405,"../data/interim/GoogleAudioSet/Outside, rural or natural/6kEVmrfasFE_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1406,../data/interim/S2L_LULC/non_urban/s2llg004_170606_2017-06-06_19-20.pkl,nature_S2L_LULC/non_urban,0,9
+1407,../data/interim/S2L_LULC/non_urban/s2lam056_210424_2021-04-26_13-30.pkl,nature_S2L_LULC/non_urban,0,9
+1408,../data/interim/SONYC/audio-1/00_012234.pkl,city_SONYC,1,6
+1409,../data/interim/youtube/NomadicAmbience_city/OPL7rPrObjM_1925.pkl,city_youtube,1,8
+1410,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Thunderstorm.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+1411,../data/interim/youtube/NatureSoundscapes/xjfqbskHscs_11790.pkl,nature_youtube/NatureSoundscapes,0,1
+1412,../data/interim/SONYC/audio-16/04_012491.pkl,city_SONYC,1,2
+1413,"../data/interim/GoogleAudioSet/Outside, urban or manmade/nIHcAyP3ReQ_270.pkl",city_GoogleAudioSet,1,8
+1414,../data/interim/SONYC/audio-3/31_012199.pkl,city_SONYC,1,1
+1415,../data/interim/S2L_LULC/non_urban/s2lam055_210425_2021-04-27_08-20.pkl,nature_S2L_LULC/non_urban,0,1
+1416,../data/interim/SONYC/audio-9/34_019139.pkl,city_SONYC,1,8
+1417,../data/interim/youtube/NomadicAmbience_city/yKvu63qXSp8_393.pkl,city_youtube,1,3
+1418,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-05_00-20.pkl,city_S2L_LULC,1,4
+1419,../data/interim/youtube/NatureSoundscapes/n3KzB-_9A8k_3646.pkl,nature_youtube/NatureSoundscapes,0,6
+1420,"../data/interim/GoogleAudioSet/Outside, urban or manmade/wD6XJvKARTE_30.pkl",city_GoogleAudioSet,1,1
+1421,../data/interim/SONYC/audio-10/40_016656.pkl,city_SONYC,1,6
+1422,"../data/interim/GoogleAudioSet/Outside, rural or natural/845X9JEGzsU_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,2
+1423,../data/interim/SONYC/audio-13/35_009035.pkl,city_SONYC,1,8
+1424,../data/interim/SONYC/audio-17/05_010416.pkl,city_SONYC,1,7
+1425,../data/interim/AmbisonicSoundLibrary/nature/Waves at the Beach.pkl,nature_AmbisonicSoundLibrary/nature,0,9
+1426,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-16_03-40.pkl,city_S2L_LULC,1,5
+1427,../data/interim/S2L_LULC/non_urban/s2llg009_180502_2018-05-05_16-20.pkl,nature_S2L_LULC/non_urban,0,2
+1428,../data/interim/S2L_LULC/non_urban/s2lam016_190312_2019-03-13_09-30.pkl,nature_S2L_LULC/non_urban,0,1
+1429,../data/interim/youtube/NatureSoundscapes/RXk-P5NrROg_26281.pkl,nature_youtube/NatureSoundscapes,0,7
+1430,../data/interim/youtube/NatureSoundscapes/F1gK85IEeDI_19167.pkl,nature_youtube/NatureSoundscapes,0,5
+1431,../data/interim/youtube/NomadicAmbience_city/4z8NaRG7pPY_28472.pkl,city_youtube,1,6
+1432,"../data/interim/GoogleAudioSet/Outside, rural or natural/1_PQvsAw110_70.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1433,"../data/interim/GoogleAudioSet/Outside, rural or natural/FIXuC8uQyig_60.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1434,../data/interim/SONYC/audio-14/01_007058.pkl,city_SONYC,1,5
+1435,../data/interim/SONYC/audio-8/37_027215.pkl,city_SONYC,1,3
+1436,../data/interim/S2L_LULC/urban_0_25/s2lam074_210528_2021-05-30_05-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+1437,"../data/interim/GoogleAudioSet/Outside, rural or natural/mmRtJhecp14_520.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1438,../data/interim/SONYC/audio-14/15_006778.pkl,city_SONYC,1,9
+1439,../data/interim/youtube/NomadicAmbience_city/7dfpryACUV4_209.pkl,city_youtube,1,9
+1440,../data/interim/SONYC/audio-9/32_009847.pkl,city_SONYC,1,5
+1441,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-26_17-40.pkl,city_S2L_LULC,1,6
+1442,"../data/interim/GoogleAudioSet/Outside, urban or manmade/wXM1D0qJP3Q_50.pkl",city_GoogleAudioSet,1,6
+1443,"../data/interim/GoogleAudioSet/Outside, rural or natural/6eqjdgiGAsE_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1444,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-21_01-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+1445,../data/interim/SONYC/audio-7/25_005521.pkl,city_SONYC,1,1
+1446,../data/interim/S2L_LULC/non_urban/s2llg007_190619_2019-06-22_06-50.pkl,nature_S2L_LULC/non_urban,0,7
+1447,../data/interim/SONYC/audio-8/31_020014.pkl,city_SONYC,1,4
+1448,../data/interim/SONYC/audio-17/00_027530.pkl,city_SONYC,1,3
+1449,../data/interim/SONYC/audio-3/16_012650.pkl,city_SONYC,1,8
+1450,../data/interim/SONYC/audio-16/16_005084.pkl,city_SONYC,1,9
+1451,../data/interim/SONYC/audio-12/29_018675.pkl,city_SONYC,1,2
+1452,../data/interim/youtube/NomadicAmbience_city/GyUTUUf2CWw_1690.pkl,city_youtube,1,9
+1453,../data/interim/youtube/NatureSoundscapes/W9XTHtj43H8_25598.pkl,nature_youtube/NatureSoundscapes,0,9
+1454,../data/interim/youtube/NatureSoundscapes/RfPPPhYuq7I_14184.pkl,nature_youtube/NatureSoundscapes,0,1
+1455,../data/interim/S2L_LULC/non_urban/s2lam034_190413_2019-04-17_00-10.pkl,nature_S2L_LULC/non_urban,0,9
+1456,"../data/interim/GoogleAudioSet/Outside, urban or manmade/dWOhJNBRv40_590.pkl",city_GoogleAudioSet,1,9
+1457,../data/interim/SONYC/audio-9/34_009114.pkl,city_SONYC,1,0
+1458,../data/interim/S2L_LULC/urban_26_100/s2lam030_190527_2019-05-31_12-00.pkl,city_S2L_LULC,1,8
+1459,../data/interim/S2L_LULC/non_urban/s2lam083_210410_2021-04-14_13-30.pkl,nature_S2L_LULC/non_urban,0,2
+1460,../data/interim/S2L_LULC/non_urban/s2lam092_210404_2021-04-06_02-00.pkl,nature_S2L_LULC/non_urban,0,4
+1461,../data/interim/S2L_LULC/non_urban/s2lam040_210623_2021-06-24_10-20.pkl,nature_S2L_LULC/non_urban,0,8
+1462,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-10_09-50.pkl,city_S2L_LULC,1,9
+1463,../data/interim/S2L_LULC/urban_26_100/s2lam035_190524_2019-05-26_19-50.pkl,city_S2L_LULC,1,4
+1464,../data/interim/AmbisonicSoundLibrary/nature/Waterfall Medium.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+1465,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-17_01-40.pkl,city_S2L_LULC,1,4
+1466,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-16_17-00.pkl,city_S2L_LULC,1,9
+1467,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-26_05-10.pkl,nature_S2L_LULC/urban_0_25,0,5
+1468,"../data/interim/GoogleAudioSet/Outside, urban or manmade/OVpk1u5ZweE_30.pkl",city_GoogleAudioSet,1,3
+1469,../data/interim/SONYC/audio-6/06_017324.pkl,city_SONYC,1,9
+1470,../data/interim/youtube/NatureSoundscapes/LKt7JjC3Nks_4434.pkl,nature_youtube/NatureSoundscapes,0,7
+1471,../data/interim/S2L_LULC/urban_0_25/s2lam105_210323_2021-03-24_22-20.pkl,nature_S2L_LULC/urban_0_25,0,1
+1472,../data/interim/SONYC/audio-16/29_018763.pkl,city_SONYC,1,0
+1473,../data/interim/S2L_LULC/urban_26_100/s2lam111_200501_2020-05-02_08-40.pkl,city_S2L_LULC,1,6
+1474,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-25_10-40.pkl,nature_S2L_LULC/urban_0_25,0,5
+1475,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-22_11-40.pkl,city_S2L_LULC,1,0
+1476,../data/interim/S2L_LULC/urban_0_25/s2lam005_210702_2021-07-05_22-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+1477,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-03_14-50.pkl,nature_S2L_LULC/urban_0_25,0,2
+1478,../data/interim/youtube/NatureSoundscapes/aRZxuZDmEGs_18965.pkl,nature_youtube/NatureSoundscapes,0,5
+1479,../data/interim/S2L_LULC/non_urban/s2lam019_190402_2019-04-06_11-20.pkl,nature_S2L_LULC/non_urban,0,6
+1480,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-20_04-50.pkl,nature_S2L_LULC/urban_0_25,0,9
+1481,../data/interim/SONYC/audio-12/06_007846.pkl,city_SONYC,1,0
+1482,../data/interim/S2L_LULC/non_urban/s2lam041_210521_2021-05-22_11-30.pkl,nature_S2L_LULC/non_urban,0,7
+1483,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-09_01-40.pkl,city_S2L_LULC,1,8
+1484,../data/interim/SONYC/audio-0/04_003352.pkl,city_SONYC,1,0
+1485,../data/interim/SONYC/audio-11/29_011308.pkl,city_SONYC,1,2
+1486,"../data/interim/GoogleAudioSet/Outside, urban or manmade/UtLhLL6w_SI_250.pkl",city_GoogleAudioSet,1,6
+1487,../data/interim/SONYC/audio-6/16_010197.pkl,city_SONYC,1,4
+1488,../data/interim/youtube/NatureSoundscapes/H232PEY0ihI_23791.pkl,nature_youtube/NatureSoundscapes,0,8
+1489,"../data/interim/GoogleAudioSet/Outside, rural or natural/trc7uRpZGrI_280.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1490,../data/interim/SONYC/audio-11/06_004962.pkl,city_SONYC,1,7
+1491,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-24_13-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+1492,../data/interim/S2L_LULC/non_urban/s2lam108_210328_2021-03-31_00-50.pkl,nature_S2L_LULC/non_urban,0,6
+1493,../data/interim/SONYC/audio-0/01_007657.pkl,city_SONYC,1,4
+1494,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-10_09-50.pkl,nature_S2L_LULC/urban_0_25,0,4
+1495,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-12_20-50.pkl,city_S2L_LULC,1,7
+1496,../data/interim/SONYC/audio-8/00_005249.pkl,city_SONYC,1,9
+1497,../data/interim/youtube/NatureSoundscapes/CfXTZ94qMtU_21381.pkl,nature_youtube/NatureSoundscapes,0,1
+1498,../data/interim/S2L_LULC/non_urban/s2lam024_190603_2019-06-06_02-30.pkl,nature_S2L_LULC/non_urban,0,8
+1499,../data/interim/youtube/NatureSoundscapes/Peh43AelHUg_21903.pkl,nature_youtube/NatureSoundscapes,0,3
+1500,../data/interim/S2L_LULC/urban_0_25/s2lam052_190601_2019-06-02_19-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+1501,../data/interim/youtube/NatureSoundscapes/_Yca4SJR6AQ_21076.pkl,nature_youtube/NatureSoundscapes,0,4
+1502,../data/interim/youtube/NomadicAmbience_nature/On_o9K0PBAs_212.pkl,nature_youtube/NomadicAmbience_nature,0,6
+1503,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-13_03-50.pkl,city_S2L_LULC,1,9
+1504,"../data/interim/GoogleAudioSet/Outside, rural or natural/wiWxg1qAqJ4_190.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+1505,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-10_18-00.pkl,city_S2L_LULC,1,4
+1506,../data/interim/SONYC/audio-9/01_012350.pkl,city_SONYC,1,3
+1507,../data/interim/S2L_LULC/non_urban/s2lam089_210609_2021-06-10_00-10.pkl,nature_S2L_LULC/non_urban,0,8
+1508,../data/interim/SONYC/audio-3/16_011629.pkl,city_SONYC,1,9
+1509,../data/interim/youtube/NatureSoundscapes/86dKvO5cqwg_7142.pkl,nature_youtube/NatureSoundscapes,0,6
+1510,../data/interim/SONYC/audio-10/16_019810.pkl,city_SONYC,1,8
+1511,"../data/interim/GoogleAudioSet/Outside, urban or manmade/zEhhAGhUYjE_110.pkl",city_GoogleAudioSet,1,3
+1512,../data/interim/S2L_LULC/non_urban/s2lam055_190528_2019-05-31_01-30.pkl,nature_S2L_LULC/non_urban,0,3
+1513,../data/interim/S2L_LULC/non_urban/s2llg006_170708_2017-07-12_12-40.pkl,nature_S2L_LULC/non_urban,0,4
+1514,../data/interim/S2L_LULC/urban_0_25/s2lam015_180707_2018-07-11_23-10.pkl,nature_S2L_LULC/urban_0_25,0,8
+1515,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-19_15-30.pkl,nature_S2L_LULC/urban_0_25,0,8
+1516,../data/interim/S2L_LULC/non_urban/s2lam054_210511_2021-05-13_02-00.pkl,nature_S2L_LULC/non_urban,0,3
+1517,../data/interim/S2L_LULC/non_urban/s2lam021_210526_2021-05-27_13-40.pkl,nature_S2L_LULC/non_urban,0,2
+1518,../data/interim/AmbisonicSoundLibrary/nature/Victoria Garden Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+1519,../data/interim/S2L_LULC/urban_0_25/s2lam044_190401_2019-04-01_14-20.pkl,nature_S2L_LULC/urban_0_25,0,4
+1520,../data/interim/S2L_LULC/urban_0_25/s2lam052_210417_2021-04-18_04-50.pkl,nature_S2L_LULC/urban_0_25,0,7
+1521,../data/interim/youtube/NatureSoundscapes/__jVsrng2WI_12256.pkl,nature_youtube/NatureSoundscapes,0,8
+1522,"../data/interim/GoogleAudioSet/Outside, urban or manmade/pSKQUtkea-k_240.pkl",city_GoogleAudioSet,1,9
+1523,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Fbxs3CnA5OY_70.pkl",city_GoogleAudioSet,1,7
+1524,"../data/interim/GoogleAudioSet/Outside, urban or manmade/ygF_XLMN52A_50.pkl",city_GoogleAudioSet,1,0
+1525,../data/interim/SONYC/audio-17/28_016669.pkl,city_SONYC,1,9
+1526,../data/interim/SONYC/audio-8/09_016882.pkl,city_SONYC,1,8
+1527,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Cicadas.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+1528,../data/interim/S2L_LULC/non_urban/s2lam026_200522_2020-05-23_17-20.pkl,nature_S2L_LULC/non_urban,0,7
+1529,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-19_21-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+1530,../data/interim/SONYC/audio-1/29_027400.pkl,city_SONYC,1,3
+1531,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-26_11-40.pkl,nature_S2L_LULC/urban_0_25,0,3
+1532,../data/interim/youtube/NatureSoundscapes/BBGohKW2jZ0_2161.pkl,nature_youtube/NatureSoundscapes,0,8
+1533,"../data/interim/GoogleAudioSet/Outside, urban or manmade/9yY9mjvbHEg_240.pkl",city_GoogleAudioSet,1,9
+1534,../data/interim/S2L_LULC/urban_26_100/s2lam052_190612_2019-06-16_23-10.pkl,city_S2L_LULC,1,1
+1535,../data/interim/S2L_LULC/urban_0_25/s2lam093_210609_2021-06-11_13-20.pkl,nature_S2L_LULC/urban_0_25,0,2
+1536,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Kookaburras.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+1537,../data/interim/S2L_LULC/non_urban/s2lam029_190529_2019-05-30_11-20.pkl,nature_S2L_LULC/non_urban,0,8
+1538,../data/interim/S2L_LULC/non_urban/s2llg003_170415_2017-04-17_23-30.pkl,nature_S2L_LULC/non_urban,0,6
+1539,"../data/interim/GoogleAudioSet/Outside, urban or manmade/AqwOCxkhrjI_230.pkl",city_GoogleAudioSet,1,0
+1540,"../data/interim/GoogleAudioSet/Outside, rural or natural/Jp2ksI9t_2E_440.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1541,../data/interim/S2L_LULC/urban_26_100/s2lam038_190527_2019-05-28_13-50.pkl,city_S2L_LULC,1,9
+1542,../data/interim/AmbisonicSoundLibrary/nature/Mountain River.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+1543,"../data/interim/GoogleAudioSet/Outside, rural or natural/u4LLeLpIVjg_400.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1544,"../data/interim/GoogleAudioSet/Outside, urban or manmade/xLxm-zMMXPM_260.pkl",city_GoogleAudioSet,1,1
+1545,"../data/interim/GoogleAudioSet/Outside, urban or manmade/qogFRsecYSw_90.pkl",city_GoogleAudioSet,1,1
+1546,../data/interim/SONYC/audio-15/13_018567.pkl,city_SONYC,1,5
+1547,../data/interim/SONYC/audio-10/35_019591.pkl,city_SONYC,1,3
+1548,../data/interim/S2L_LULC/urban_26_100/s2lam038_190527_2019-05-27_21-10.pkl,city_S2L_LULC,1,5
+1549,../data/interim/S2L_LULC/non_urban/s2llg009_180502_2018-05-06_21-10.pkl,nature_S2L_LULC/non_urban,0,9
+1550,../data/interim/SONYC/audio-13/32_019485.pkl,city_SONYC,1,6
+1551,../data/interim/SONYC/audio-12/31_011983.pkl,city_SONYC,1,6
+1552,../data/interim/youtube/NatureSoundscapes/63gzRZZO1RY_14930.pkl,nature_youtube/NatureSoundscapes,0,0
+1553,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-11_11-40.pkl,city_S2L_LULC,1,1
+1554,../data/interim/S2L_LULC/non_urban/s2lam060_200507_2020-05-10_18-10.pkl,nature_S2L_LULC/non_urban,0,3
+1555,../data/interim/AmbisonicSoundLibrary/nature/Farm.pkl,nature_AmbisonicSoundLibrary/nature,0,2
+1556,../data/interim/youtube/NatureSoundscapes/eTsA-d0x3w4_18721.pkl,nature_youtube/NatureSoundscapes,0,1
+1557,../data/interim/SONYC/audio-10/35_012613.pkl,city_SONYC,1,7
+1558,"../data/interim/GoogleAudioSet/Outside, urban or manmade/ZoQtR0puIPE_130.pkl",city_GoogleAudioSet,1,2
+1559,../data/interim/S2L_LULC/non_urban/s2llg003_190503_2019-05-05_09-08.pkl,nature_S2L_LULC/non_urban,0,5
+1560,../data/interim/S2L_LULC/non_urban/s2llg006_190521_2019-05-23_03-00.pkl,nature_S2L_LULC/non_urban,0,2
+1561,../data/interim/youtube/NatureSoundscapes/-UcRZtVFy5E_9807.pkl,nature_youtube/NatureSoundscapes,0,6
+1562,../data/interim/SONYC/audio-4/09_005526.pkl,city_SONYC,1,6
+1563,../data/interim/S2L_LULC/urban_0_25/s2lam049_190630_2019-07-03_12-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+1564,../data/interim/youtube/NatureSoundscapes/CmkS6Bfmcfs_19287.pkl,nature_youtube/NatureSoundscapes,0,9
+1565,../data/interim/SONYC/audio-0/01_003425.pkl,city_SONYC,1,9
+1566,../data/interim/S2L_LULC/non_urban/s2lam081_200707_2020-07-10_06-20.pkl,nature_S2L_LULC/non_urban,0,6
+1567,../data/interim/S2L_LULC/urban_0_25/s2lam090_200515_2020-05-24_23-10.pkl,nature_S2L_LULC/urban_0_25,0,4
+1568,../data/interim/SONYC/audio-4/27_003225.pkl,city_SONYC,1,0
+1569,../data/interim/S2L_LULC/non_urban/s2lam021_210404_2021-04-07_00-10.pkl,nature_S2L_LULC/non_urban,0,3
+1570,"../data/interim/GoogleAudioSet/Outside, urban or manmade/in2AUO_Pb_I_50.pkl",city_GoogleAudioSet,1,6
+1571,../data/interim/S2L_LULC/non_urban/s2lam091_210621_2021-06-24_14-10.pkl,nature_S2L_LULC/non_urban,0,7
+1572,../data/interim/SONYC/audio-7/37_001978.pkl,city_SONYC,1,6
+1573,"../data/interim/GoogleAudioSet/Outside, rural or natural/m160FX9Sln8_120.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1574,"../data/interim/GoogleAudioSet/Outside, urban or manmade/SiVfjH0rseg_540.pkl",city_GoogleAudioSet,1,9
+1575,../data/interim/youtube/NatureSoundscapes/-XSX1rrP7e8_26347.pkl,nature_youtube/NatureSoundscapes,0,9
+1576,../data/interim/SONYC/audio-5/02_003488.pkl,city_SONYC,1,7
+1577,../data/interim/SONYC/audio-9/34_003781.pkl,city_SONYC,1,7
+1578,../data/interim/SONYC/audio-10/02_012029.pkl,city_SONYC,1,1
+1579,../data/interim/AmbisonicSoundLibrary/nature/Cicadas at Dusk.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+1580,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-29_03-40.pkl,nature_S2L_LULC/urban_0_25,0,0
+1581,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-18_15-00.pkl,nature_S2L_LULC/urban_0_25,0,6
+1582,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-15_14-10.pkl,city_S2L_LULC,1,5
+1583,../data/interim/SONYC/audio-8/19_012241.pkl,city_SONYC,1,5
+1584,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-17_14-00.pkl,nature_S2L_LULC/urban_0_25,0,4
+1585,"../data/interim/GoogleAudioSet/Outside, urban or manmade/pEwS6giexfg_20.pkl",city_GoogleAudioSet,1,7
+1586,../data/interim/SONYC/audio-8/20_019697.pkl,city_SONYC,1,9
+1587,../data/interim/youtube/NatureSoundscapes/5_gWpkCGhGM_20642.pkl,nature_youtube/NatureSoundscapes,0,3
+1588,"../data/interim/GoogleAudioSet/Outside, rural or natural/ERCi_E0b55E_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+1589,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-30_09-40.pkl,city_S2L_LULC,1,1
+1590,../data/interim/youtube/NatureSoundscapes/UU7VkJe1WhY_25366.pkl,nature_youtube/NatureSoundscapes,0,8
+1591,../data/interim/S2L_LULC/non_urban/s2lam078_210623_2021-06-25_19-00.pkl,nature_S2L_LULC/non_urban,0,7
+1592,../data/interim/S2L_LULC/urban_0_25/s2lam058_190619_2019-06-22_03-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+1593,"../data/interim/GoogleAudioSet/Outside, urban or manmade/KOgBlhR57tk_90.pkl",city_GoogleAudioSet,1,8
+1594,../data/interim/S2L_LULC/non_urban/s2lam033_190603_2019-06-04_08-30.pkl,nature_S2L_LULC/non_urban,0,7
+1595,../data/interim/youtube/NomadicAmbience_city/YqYuvp_19KI_9102.pkl,city_youtube,1,0
+1596,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-19_08-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+1597,../data/interim/S2L_LULC/urban_0_25/s2lam028_190623_2019-06-25_22-30.pkl,nature_S2L_LULC/urban_0_25,0,3
+1598,../data/interim/S2L_LULC/non_urban/s2lam010_190406_2019-04-09_08-10.pkl,nature_S2L_LULC/non_urban,0,2
+1599,../data/interim/S2L_LULC/non_urban/s2lam015_200522_2020-05-24_00-50.pkl,nature_S2L_LULC/non_urban,0,8
+1600,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-06_14-10.pkl,city_S2L_LULC,1,3
+1601,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-07_18-40.pkl,nature_S2L_LULC/urban_0_25,0,7
+1602,../data/interim/SONYC/audio-7/02_009349.pkl,city_SONYC,1,0
+1603,../data/interim/S2L_LULC/non_urban/s2lam054_210617_2021-06-17_11-40.pkl,nature_S2L_LULC/non_urban,0,0
+1604,../data/interim/SONYC/audio-6/00_010285.pkl,city_SONYC,1,6
+1605,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-19_04-30.pkl,nature_S2L_LULC/urban_0_25,0,0
+1606,../data/interim/S2L_LULC/non_urban/s2lam044_210416_2021-04-19_04-40.pkl,nature_S2L_LULC/non_urban,0,7
+1607,../data/interim/S2L_LULC/non_urban/s2lam020_190607_2019-06-09_10-10.pkl,nature_S2L_LULC/non_urban,0,9
+1608,"../data/interim/GoogleAudioSet/Outside, rural or natural/nv0TV4MOvxE_470.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1609,"../data/interim/GoogleAudioSet/Outside, rural or natural/XrLmM8bZTZA_310.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+1610,../data/interim/SONYC/audio-5/18_001040.pkl,city_SONYC,1,0
+1611,../data/interim/SONYC/audio-2/01_003967.pkl,city_SONYC,1,4
+1612,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-16_10-00.pkl,nature_S2L_LULC/urban_0_25,0,8
+1613,"../data/interim/GoogleAudioSet/Outside, rural or natural/pE4ckWU11NA_560.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+1614,../data/interim/S2L_LULC/urban_26_100/s2lam111_200514_2020-05-15_19-40.pkl,city_S2L_LULC,1,4
+1615,../data/interim/S2L_LULC/non_urban/s2lam055_200528_2020-05-29_15-10.pkl,nature_S2L_LULC/non_urban,0,5
+1616,../data/interim/youtube/NatureSoundscapes/ktdnFp4-KEQ_1297.pkl,nature_youtube/NatureSoundscapes,0,8
+1617,../data/interim/S2L_LULC/urban_26_100/s2lam006_190421_2019-04-22_01-20.pkl,city_S2L_LULC,1,6
+1618,../data/interim/youtube/NomadicAmbience_nature/f3lVkdM3fGQ_116.pkl,nature_youtube/NomadicAmbience_nature,0,4
+1619,../data/interim/SONYC/audio-4/04_009733.pkl,city_SONYC,1,6
+1620,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-22_20-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+1621,../data/interim/S2L_LULC/urban_0_25/s2lam050_190411_2019-04-12_17-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+1622,../data/interim/youtube/NatureSoundscapes/yNrNXL_OgyA_24464.pkl,nature_youtube/NatureSoundscapes,0,3
+1623,"../data/interim/GoogleAudioSet/Outside, rural or natural/N8oL33zAKGo_380.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1624,../data/interim/SONYC/audio-10/34_006191.pkl,city_SONYC,1,3
+1625,../data/interim/SONYC/audio-11/40_000631.pkl,city_SONYC,1,0
+1626,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-08_23-40.pkl,nature_S2L_LULC/urban_0_25,0,0
+1627,"../data/interim/GoogleAudioSet/Outside, rural or natural/-pjK2u3Qtxc_230.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1628,../data/interim/SONYC/audio-7/04_008882.pkl,city_SONYC,1,8
+1629,../data/interim/S2L_LULC/urban_0_25/s2lam103_200522_2020-05-27_11-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+1630,../data/interim/youtube/NomadicAmbience_nature/UYjVvplvYrk_1727.pkl,nature_youtube/NomadicAmbience_nature,0,0
+1631,../data/interim/S2L_LULC/non_urban/s2llg010_170418_2017-04-21_02-20.pkl,nature_S2L_LULC/non_urban,0,4
+1632,../data/interim/SONYC/audio-2/06_001290.pkl,city_SONYC,1,2
+1633,../data/interim/SONYC/audio-3/06_008060.pkl,city_SONYC,1,2
+1634,../data/interim/S2L_LULC/non_urban/s2llg004_180523_2018-05-30_13-20.pkl,nature_S2L_LULC/non_urban,0,4
+1635,../data/interim/SONYC/audio-8/23_019857.pkl,city_SONYC,1,0
+1636,../data/interim/youtube/NatureSoundscapes/6UQhGeUXrXo_7434.pkl,nature_youtube/NatureSoundscapes,0,5
+1637,../data/interim/SONYC/audio-1/29_017449.pkl,city_SONYC,1,9
+1638,../data/interim/S2L_LULC/non_urban/s2llg002_170627_2017-06-27_10-40.pkl,nature_S2L_LULC/non_urban,0,4
+1639,"../data/interim/GoogleAudioSet/Outside, urban or manmade/cMFacOIgiRU_60.pkl",city_GoogleAudioSet,1,4
+1640,../data/interim/SONYC/audio-17/34_004126.pkl,city_SONYC,1,2
+1641,../data/interim/SONYC/audio-7/31_010922.pkl,city_SONYC,1,3
+1642,"../data/interim/GoogleAudioSet/Outside, urban or manmade/VTjV4KRePRQ_100.pkl",city_GoogleAudioSet,1,8
+1643,../data/interim/SONYC/audio-6/31_009085.pkl,city_SONYC,1,9
+1644,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-05-20_18-20.pkl,nature_S2L_LULC/urban_0_25,0,7
+1645,../data/interim/youtube/NatureSoundscapes/XYB8RZH4CW0_26966.pkl,nature_youtube/NatureSoundscapes,0,5
+1646,"../data/interim/GoogleAudioSet/Outside, rural or natural/lp34OPr-9AY_100.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1647,"../data/interim/GoogleAudioSet/Outside, urban or manmade/0jaaX-we-8g_0.pkl",city_GoogleAudioSet,1,6
+1648,../data/interim/S2L_LULC/non_urban/s2lam068_210501_2021-05-02_03-50.pkl,nature_S2L_LULC/non_urban,0,0
+1649,../data/interim/youtube/NatureSoundscapes/MxwewD7lqAo_20335.pkl,nature_youtube/NatureSoundscapes,0,2
+1650,../data/interim/youtube/NatureSoundscapes/1fCOWfFxzuI_15032.pkl,nature_youtube/NatureSoundscapes,0,6
+1651,../data/interim/SONYC/audio-8/18_001291.pkl,city_SONYC,1,1
+1652,../data/interim/SONYC/audio-16/04_018231.pkl,city_SONYC,1,7
+1653,../data/interim/youtube/NatureSoundscapes/OCDWoBwvoUk_898.pkl,nature_youtube/NatureSoundscapes,0,0
+1654,../data/interim/S2L_LULC/urban_0_25/s2lam050_190411_2019-04-13_01-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+1655,"../data/interim/GoogleAudioSet/Outside, urban or manmade/HgDZJ5h33SI_40.pkl",city_GoogleAudioSet,1,7
+1656,../data/interim/youtube/NatureSoundscapes/hAZGUDmuTdA_22646.pkl,nature_youtube/NatureSoundscapes,0,1
+1657,../data/interim/SONYC/audio-0/09_009913.pkl,city_SONYC,1,3
+1658,../data/interim/S2L_LULC/urban_0_25/s2llg004_210628-2021-06-30_07-30.pkl,nature_S2L_LULC/urban_0_25,0,3
+1659,../data/interim/youtube/NatureSoundscapes/IITAYlwbMHE_5518.pkl,nature_youtube/NatureSoundscapes,0,5
+1660,../data/interim/SONYC/audio-12/31_007700.pkl,city_SONYC,1,5
+1661,../data/interim/S2L_LULC/urban_26_100/s2lam038_190527_2019-05-30_22-40.pkl,city_S2L_LULC,1,4
+1662,../data/interim/S2L_LULC/non_urban/s2lam027_210430_2021-05-03_04-00.pkl,nature_S2L_LULC/non_urban,0,1
+1663,../data/interim/SONYC/audio-4/06_019121.pkl,city_SONYC,1,3
+1664,../data/interim/S2L_LULC/non_urban/s2lam006_210411_2021-04-11_21-40.pkl,nature_S2L_LULC/non_urban,0,1
+1665,../data/interim/S2L_LULC/urban_26_100/s2lam038_190527_2019-05-31_04-20.pkl,city_S2L_LULC,1,2
+1666,"../data/interim/GoogleAudioSet/Outside, urban or manmade/A1yf7Q7uQkY_30.pkl",city_GoogleAudioSet,1,5
+1667,../data/interim/SONYC/audio-2/37_004452.pkl,city_SONYC,1,1
+1668,../data/interim/S2L_LULC/non_urban/s2lam040_190506_2019-05-07_11-50.pkl,nature_S2L_LULC/non_urban,0,4
+1669,../data/interim/SONYC/audio-12/27_003474.pkl,city_SONYC,1,2
+1670,../data/interim/SONYC/audio-7/25_003233.pkl,city_SONYC,1,6
+1671,../data/interim/SONYC/audio-10/40_002345.pkl,city_SONYC,1,7
+1672,../data/interim/SONYC/audio-1/40_003150.pkl,city_SONYC,1,0
+1673,../data/interim/S2L_LULC/urban_0_25/s2lam105_210323_2021-03-26_02-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+1674,"../data/interim/GoogleAudioSet/Outside, rural or natural/raQkEDa3xc4_140.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1675,../data/interim/SONYC/audio-6/31_000328.pkl,city_SONYC,1,4
+1676,../data/interim/SONYC/audio-4/06_019082.pkl,city_SONYC,1,4
+1677,"../data/interim/GoogleAudioSet/Outside, rural or natural/C1O7V0jiiNw_290.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+1678,../data/interim/SONYC/audio-18/40_004585.pkl,city_SONYC,1,5
+1679,../data/interim/SONYC/audio-4/00_017389.pkl,city_SONYC,1,9
+1680,../data/interim/youtube/NatureSoundscapes/eorko36vXnk_11678.pkl,nature_youtube/NatureSoundscapes,0,0
+1681,../data/interim/S2L_LULC/urban_26_100/s2lam003_190523_2019-05-26_17-50.pkl,city_S2L_LULC,1,1
+1682,../data/interim/S2L_LULC/non_urban/s2lam089_210328_2021-04-02_04-00.pkl,nature_S2L_LULC/non_urban,0,8
+1683,../data/interim/SONYC/audio-10/40_020643.pkl,city_SONYC,1,0
+1684,../data/interim/S2L_LULC/urban_26_100/s2lam035_190524_2019-05-25_01-00.pkl,city_S2L_LULC,1,6
+1685,../data/interim/SONYC/audio-2/05_003660.pkl,city_SONYC,1,8
+1686,../data/interim/youtube/NatureSoundscapes/mOCChZXwEA4_3547.pkl,nature_youtube/NatureSoundscapes,0,6
+1687,../data/interim/S2L_LULC/non_urban/s2lam071_210521_2021-05-21_13-30.pkl,nature_S2L_LULC/non_urban,0,4
+1688,../data/interim/SONYC/audio-5/18_019585.pkl,city_SONYC,1,9
+1689,"../data/interim/GoogleAudioSet/Outside, urban or manmade/cfLA0hYf-nk_140.pkl",city_GoogleAudioSet,1,5
+1690,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-31_03-10.pkl,city_S2L_LULC,1,9
+1691,"../data/interim/GoogleAudioSet/Outside, rural or natural/YOlATZrF6EA_420.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1692,../data/interim/S2L_LULC/non_urban/s2llg001_210628-2021-06-29_19-20.pkl,nature_S2L_LULC/non_urban,0,9
+1693,"../data/interim/GoogleAudioSet/Outside, rural or natural/0HVlzmjFe7k_20.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,0
+1694,../data/interim/SONYC/audio-5/25_004176.pkl,city_SONYC,1,1
+1695,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-13_15-40.pkl,city_S2L_LULC,1,6
+1696,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-10_03-50.pkl,city_S2L_LULC,1,5
+1697,../data/interim/SONYC/audio-2/34_019168.pkl,city_SONYC,1,0
+1698,../data/interim/S2L_LULC/non_urban/s2lam074_210514_2021-05-18_09-30.pkl,nature_S2L_LULC/non_urban,0,9
+1699,"../data/interim/GoogleAudioSet/Outside, urban or manmade/5ftfKerE6s0_490.pkl",city_GoogleAudioSet,1,2
+1700,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-17_09-00.pkl,city_S2L_LULC,1,1
+1701,"../data/interim/GoogleAudioSet/Outside, urban or manmade/iNtTKSQqld0_0.pkl",city_GoogleAudioSet,1,2
+1702,../data/interim/S2L_LULC/urban_26_100/s2llg005_170811_2017-08-14_04-10.pkl,city_S2L_LULC,1,0
+1703,../data/interim/S2L_LULC/non_urban/s2lam013_200616_2020-06-18_22-50.pkl,nature_S2L_LULC/non_urban,0,8
+1704,../data/interim/SONYC/audio-0/01_006366.pkl,city_SONYC,1,0
+1705,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-22_10-10.pkl,nature_S2L_LULC/urban_0_25,0,9
+1706,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-09_20-40.pkl,city_S2L_LULC,1,7
+1707,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-25_16-40.pkl,city_S2L_LULC,1,9
+1708,../data/interim/SONYC/audio-1/38_005847.pkl,city_SONYC,1,8
+1709,../data/interim/S2L_LULC/urban_26_100/s2lam083_210613_2021-06-14_19-50.pkl,city_S2L_LULC,1,4
+1710,../data/interim/youtube/NatureSoundscapes/EXnBmQ_kH30_19235.pkl,nature_youtube/NatureSoundscapes,0,0
+1711,../data/interim/S2L_LULC/non_urban/s2lam060_210506_2021-05-06_18-50.pkl,nature_S2L_LULC/non_urban,0,9
+1712,../data/interim/youtube/NomadicAmbience_city/CmgglGTnZ6o_2996.pkl,city_youtube,1,7
+1713,../data/interim/SONYC/audio-3/40_001622.pkl,city_SONYC,1,3
+1714,../data/interim/S2L_LULC/non_urban/s2lam024_190522_2019-05-26_06-20.pkl,nature_S2L_LULC/non_urban,0,3
+1715,../data/interim/youtube/NomadicAmbience_nature/G6PatkQaOc8_1354.pkl,nature_youtube/NomadicAmbience_nature,0,4
+1716,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-13_02-30.pkl,city_S2L_LULC,1,4
+1717,../data/interim/S2L_LULC/urban_0_25/s2lam050_190411_2019-04-14_03-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+1718,../data/interim/SONYC/audio-3/28_011457.pkl,city_SONYC,1,7
+1719,../data/interim/S2L_LULC/non_urban/s2lam090_210413_2021-04-15_10-50.pkl,nature_S2L_LULC/non_urban,0,0
+1720,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-11_10-40.pkl,city_S2L_LULC,1,5
+1721,../data/interim/SONYC/audio-9/03_010652.pkl,city_SONYC,1,6
+1722,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-22_03-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+1723,../data/interim/S2L_LULC/non_urban/s2lam013_180707_2018-07-11_00-10.pkl,nature_S2L_LULC/non_urban,0,8
+1724,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-11_20-50.pkl,nature_S2L_LULC/urban_0_25,0,3
+1725,../data/interim/youtube/NatureSoundscapes/r41audDt1OI_18115.pkl,nature_youtube/NatureSoundscapes,0,8
+1726,../data/interim/S2L_LULC/non_urban/s2lam042_190405_2019-04-06_01-30.pkl,nature_S2L_LULC/non_urban,0,1
+1727,../data/interim/youtube/NatureSoundscapes/JEd3k8i1qXM_22230.pkl,nature_youtube/NatureSoundscapes,0,0
+1728,../data/interim/SONYC/audio-18/13_013623.pkl,city_SONYC,1,4
+1729,"../data/interim/GoogleAudioSet/Outside, urban or manmade/w4iWAkxhBVw_90.pkl",city_GoogleAudioSet,1,3
+1730,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-23_19-00.pkl,city_S2L_LULC,1,9
+1731,"../data/interim/GoogleAudioSet/Outside, rural or natural/EnI-eQFpyzo_280.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,3
+1732,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-19_06-10.pkl,nature_S2L_LULC/urban_0_25,0,7
+1733,../data/interim/S2L_LULC/urban_0_25/s2lam025_210716_2021-07-19_08-40.pkl,nature_S2L_LULC/urban_0_25,0,2
+1734,../data/interim/youtube/NatureSoundscapes/u85YypCzE2E_8283.pkl,nature_youtube/NatureSoundscapes,0,1
+1735,../data/interim/SONYC/audio-17/00_019543.pkl,city_SONYC,1,6
+1736,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-06-24_01-40.pkl,nature_S2L_LULC/urban_0_25,0,1
+1737,"../data/interim/GoogleAudioSet/Outside, rural or natural/HTtVCNQXNbw_320.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,7
+1738,"../data/interim/GoogleAudioSet/Outside, urban or manmade/8W0KcQLImuo_190.pkl",city_GoogleAudioSet,1,9
+1739,../data/interim/SONYC/audio-5/01_006107.pkl,city_SONYC,1,7
+1740,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-06_01-10.pkl,nature_S2L_LULC/urban_0_25,0,6
+1741,../data/interim/SONYC/audio-8/02_017174.pkl,city_SONYC,1,4
+1742,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-26_09-50.pkl,city_S2L_LULC,1,2
+1743,../data/interim/youtube/NatureSoundscapes/7TXDOPEGK2E_10132.pkl,nature_youtube/NatureSoundscapes,0,9
+1744,../data/interim/youtube/NatureSoundscapes/8NMyM7T__Ro_8913.pkl,nature_youtube/NatureSoundscapes,0,9
+1745,../data/interim/S2L_LULC/urban_0_25/s2lam025_190411_2019-04-14_00-00.pkl,nature_S2L_LULC/urban_0_25,0,9
+1746,../data/interim/S2L_LULC/urban_26_100/s2lam006_190324_2019-03-28_12-50.pkl,city_S2L_LULC,1,6
+1747,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-21_01-30.pkl,city_S2L_LULC,1,7
+1748,"../data/interim/GoogleAudioSet/Outside, urban or manmade/OLMt7TquvmY_70.pkl",city_GoogleAudioSet,1,1
+1749,../data/interim/AmbisonicSoundLibrary/nature/Waterfall Small.pkl,nature_AmbisonicSoundLibrary/nature,0,5
+1750,../data/interim/SONYC/audio-13/03_009567.pkl,city_SONYC,1,1
+1751,../data/interim/S2L_LULC/urban_0_25/s2llg004_180126_2018-01-27_08-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+1752,../data/interim/S2L_LULC/non_urban/s2lam005_210502_2021-05-03_05-30.pkl,nature_S2L_LULC/non_urban,0,2
+1753,"../data/interim/GoogleAudioSet/Outside, rural or natural/-GREE8GdRrc_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,9
+1754,../data/interim/youtube/NatureSoundscapes/Rz1RC4j7I3Y_4454.pkl,nature_youtube/NatureSoundscapes,0,5
+1755,../data/interim/S2L_LULC/non_urban/s2lam101_200702_2020-07-05_14-50.pkl,nature_S2L_LULC/non_urban,0,6
+1756,../data/interim/SONYC/audio-6/18_027332.pkl,city_SONYC,1,6
+1757,../data/interim/youtube/NatureSoundscapes/snXE4tbF6Gc_12354.pkl,nature_youtube/NatureSoundscapes,0,6
+1758,../data/interim/SONYC/audio-7/40_000827.pkl,city_SONYC,1,2
+1759,"../data/interim/GoogleAudioSet/Outside, rural or natural/jns0QBl5X4s_30.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1760,../data/interim/S2L_LULC/non_urban/s2lam033_190617_2019-06-17_22-00.pkl,nature_S2L_LULC/non_urban,0,9
+1761,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Hq1VpGlNuTk_70.pkl",city_GoogleAudioSet,1,4
+1762,../data/interim/S2L_LULC/non_urban/s2lam078_210609_2021-06-10_02-50.pkl,nature_S2L_LULC/non_urban,0,1
+1763,../data/interim/S2L_LULC/non_urban/s2llg004_170627_2017-06-27_19-00.pkl,nature_S2L_LULC/non_urban,0,0
+1764,"../data/interim/GoogleAudioSet/Outside, urban or manmade/O9_oZ_c5yFg_80.pkl",city_GoogleAudioSet,1,9
+1765,"../data/interim/GoogleAudioSet/Outside, rural or natural/9n-7KuMjTN8_460.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1766,../data/interim/SONYC/audio-13/40_004768.pkl,city_SONYC,1,2
+1767,../data/interim/SONYC/audio-13/33_016321.pkl,city_SONYC,1,4
+1768,../data/interim/youtube/NatureSoundscapes/Od-9tq2WeiE_6644.pkl,nature_youtube/NatureSoundscapes,0,9
+1769,../data/interim/SONYC/audio-8/22_018851.pkl,city_SONYC,1,8
+1770,../data/interim/SONYC/audio-3/00_006044.pkl,city_SONYC,1,4
+1771,../data/interim/youtube/NatureSoundscapes/ncapHYmKjyc_18779.pkl,nature_youtube/NatureSoundscapes,0,7
+1772,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-15_21-50.pkl,city_S2L_LULC,1,1
+1773,../data/interim/SONYC/audio-14/20_006068.pkl,city_SONYC,1,8
+1774,../data/interim/S2L_LULC/non_urban/s2lam106_210424_2021-04-27_06-20.pkl,nature_S2L_LULC/non_urban,0,5
+1775,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-20_09-40.pkl,city_S2L_LULC,1,4
+1776,../data/interim/SONYC/audio-7/06_017452.pkl,city_SONYC,1,9
+1777,../data/interim/youtube/NatureSoundscapes/mmsDkXzvMec_2971.pkl,nature_youtube/NatureSoundscapes,0,8
+1778,"../data/interim/GoogleAudioSet/Outside, urban or manmade/rvTFEIsrQbA_460.pkl",city_GoogleAudioSet,1,6
+1779,"../data/interim/GoogleAudioSet/Outside, rural or natural/k_kRSOra2qA_280.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,5
+1780,../data/interim/S2L_LULC/non_urban/s2lam087_210410_2021-04-12_10-00.pkl,nature_S2L_LULC/non_urban,0,0
+1781,../data/interim/youtube/NatureSoundscapes/u1Y7cacSVIY_19760.pkl,nature_youtube/NatureSoundscapes,0,8
+1782,../data/interim/AmbisonicSoundLibrary/nature/Waterfall Creek.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+1783,../data/interim/youtube/NatureSoundscapes/FbA55Wgf0BU_7270.pkl,nature_youtube/NatureSoundscapes,0,7
+1784,../data/interim/youtube/NatureSoundscapes/dGhUmhQUTyI_22241.pkl,nature_youtube/NatureSoundscapes,0,3
+1785,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Dusk Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,8
+1786,../data/interim/youtube/NatureSoundscapes/PFtxRv6GcFw_2823.pkl,nature_youtube/NatureSoundscapes,0,3
+1787,../data/interim/S2L_LULC/urban_26_100/s2lam111_200506_2020-05-07_09-50.pkl,city_S2L_LULC,1,5
+1788,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-08_11-00.pkl,city_S2L_LULC,1,8
+1789,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Rbggyp_dUdo_50.pkl",city_GoogleAudioSet,1,5
+1790,../data/interim/S2L_LULC/urban_26_100/s2lam006_190410_2019-04-11_14-10.pkl,city_S2L_LULC,1,1
+1791,../data/interim/S2L_LULC/non_urban/s2lam040_200708_2020-07-10_22-10.pkl,nature_S2L_LULC/non_urban,0,2
+1792,../data/interim/SONYC/audio-17/01_019049.pkl,city_SONYC,1,5
+1793,../data/interim/youtube/NatureSoundscapes/17pqA2Oz568_4577.pkl,nature_youtube/NatureSoundscapes,0,9
+1794,../data/interim/SONYC/audio-17/16_002272.pkl,city_SONYC,1,4
+1795,../data/interim/S2L_LULC/urban_0_25/s2lam089_200515_2020-06-02_15-50.pkl,nature_S2L_LULC/urban_0_25,0,3
+1796,../data/interim/youtube/NatureSoundscapes/RIl5iN74gMY_12532.pkl,nature_youtube/NatureSoundscapes,0,2
+1797,"../data/interim/GoogleAudioSet/Outside, urban or manmade/oOpLBhemBmk_10.pkl",city_GoogleAudioSet,1,7
+1798,../data/interim/SONYC/audio-4/27_004614.pkl,city_SONYC,1,2
+1799,../data/interim/S2L_LULC/urban_0_25/s2lam049_190630_2019-07-01_03-10.pkl,nature_S2L_LULC/urban_0_25,0,0
+1800,../data/interim/youtube/NatureSoundscapes/K6Ps4xQ8Bj8_17429.pkl,nature_youtube/NatureSoundscapes,0,5
+1801,../data/interim/SONYC/audio-9/10_017384.pkl,city_SONYC,1,5
+1802,../data/interim/youtube/NatureSoundscapes/O1pTihFrkIA_12256.pkl,nature_youtube/NatureSoundscapes,0,5
+1803,"../data/interim/GoogleAudioSet/Outside, urban or manmade/BnovYnY1UpM_250.pkl",city_GoogleAudioSet,1,3
+1804,"../data/interim/GoogleAudioSet/Outside, rural or natural/rj4T3-8PeAE_200.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,1
+1805,../data/interim/youtube/NatureSoundscapes/LsJjenncSlQ_21470.pkl,nature_youtube/NatureSoundscapes,0,0
+1806,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-18_02-00.pkl,city_S2L_LULC,1,3
+1807,../data/interim/youtube/NatureSoundscapes/VESwpRKuO7o_3837.pkl,nature_youtube/NatureSoundscapes,0,2
+1808,../data/interim/youtube/NatureSoundscapes/PWq770bVncM_9119.pkl,nature_youtube/NatureSoundscapes,0,2
+1809,../data/interim/S2L_LULC/urban_0_25/s2lam003_180707_2018-07-11_05-50.pkl,nature_S2L_LULC/urban_0_25,0,1
+1810,../data/interim/youtube/NatureSoundscapes/QdnACHYorRg_18713.pkl,nature_youtube/NatureSoundscapes,0,4
+1811,"../data/interim/GoogleAudioSet/Outside, urban or manmade/J5-mjglse5E_90.pkl",city_GoogleAudioSet,1,8
+1812,../data/interim/S2L_LULC/non_urban/s2lam061_210614_2021-06-19_11-50.pkl,nature_S2L_LULC/non_urban,0,6
+1813,../data/interim/AmbisonicSoundLibrary/nature/Lithgow Wildlife.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+1814,../data/interim/S2L_LULC/urban_26_100/s2lam041_200515_2020-05-17_22-50.pkl,city_S2L_LULC,1,5
+1815,../data/interim/AmbisonicSoundLibrary/nature/Anna Bay Cicadas.pkl,nature_AmbisonicSoundLibrary/nature,0,1
+1816,"../data/interim/GoogleAudioSet/Outside, urban or manmade/OrwximvUjTU_270.pkl",city_GoogleAudioSet,1,4
+1817,../data/interim/youtube/NatureSoundscapes/1oPNIcdxldA_1069.pkl,nature_youtube/NatureSoundscapes,0,4
+1818,../data/interim/SONYC/audio-13/03_013014.pkl,city_SONYC,1,8
+1819,../data/interim/S2L_LULC/non_urban/s2lam008_180612_2018-06-21_08-00.pkl,nature_S2L_LULC/non_urban,0,1
+1820,../data/interim/S2L_LULC/urban_26_100/s2lam024_190623_2019-06-25_09-40.pkl,city_S2L_LULC,1,8
+1821,../data/interim/S2L_LULC/urban_26_100/s2lam079_210407_2021-04-12_03-20.pkl,city_S2L_LULC,1,9
+1822,../data/interim/youtube/NomadicAmbience_nature/pIvRQWk25dg_2755.pkl,nature_youtube/NomadicAmbience_nature,0,4
+1823,../data/interim/SONYC/audio-13/21_005392.pkl,city_SONYC,1,3
+1824,../data/interim/S2L_LULC/urban_0_25/s2llg004_170616_2017-06-16_20-00.pkl,nature_S2L_LULC/urban_0_25,0,8
+1825,../data/interim/S2L_LULC/urban_0_25/s2lam032_190620_2019-07-24_08-00.pkl,nature_S2L_LULC/urban_0_25,0,6
+1826,../data/interim/SONYC/audio-15/27_004753.pkl,city_SONYC,1,8
+1827,../data/interim/SONYC/audio-16/04_012452.pkl,city_SONYC,1,6
+1828,../data/interim/S2L_LULC/urban_0_25/s2lam024_190411_2019-04-12_11-00.pkl,nature_S2L_LULC/urban_0_25,0,1
+1829,../data/interim/youtube/NatureSoundscapes/DyGQpghQn08_8017.pkl,nature_youtube/NatureSoundscapes,0,3
+1830,../data/interim/S2L_LULC/non_urban/s2lam079_210609_2021-06-10_21-20.pkl,nature_S2L_LULC/non_urban,0,7
+1831,../data/interim/SONYC/audio-3/07_016805.pkl,city_SONYC,1,1
+1832,../data/interim/S2L_LULC/non_urban/s2lam066_210527_2021-05-30_17-50.pkl,nature_S2L_LULC/non_urban,0,6
+1833,../data/interim/youtube/NatureSoundscapes/gw7RJUjXOLE_25655.pkl,nature_youtube/NatureSoundscapes,0,6
+1834,../data/interim/S2L_LULC/urban_26_100/s2lam091_200515_2020-05-24_17-20.pkl,city_S2L_LULC,1,3
+1835,../data/interim/youtube/NatureSoundscapes/v4G6hAimtF0_22925.pkl,nature_youtube/NatureSoundscapes,0,6
+1836,../data/interim/SONYC/audio-17/16_009643.pkl,city_SONYC,1,5
+1837,../data/interim/youtube/NomadicAmbience_city/UZn1MrjL4pE_429.pkl,city_youtube,1,5
+1838,../data/interim/youtube/NatureSoundscapes/L-yxmQj1EiI_23418.pkl,nature_youtube/NatureSoundscapes,0,7
+1839,"../data/interim/GoogleAudioSet/Outside, rural or natural/sHG1EezICt0_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,8
+1840,"../data/interim/GoogleAudioSet/Outside, rural or natural/dkaPAIFCE-c_40.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1841,../data/interim/S2L_LULC/urban_26_100/s2lam055_190622_2019-06-26_04-10.pkl,city_S2L_LULC,1,4
+1842,"../data/interim/GoogleAudioSet/Outside, urban or manmade/dvBwMOqlco8_260.pkl",city_GoogleAudioSet,1,2
+1843,../data/interim/SONYC/audio-13/05_017168.pkl,city_SONYC,1,5
+1844,../data/interim/S2L_LULC/urban_26_100/s2lam020_210403_2021-04-06_01-40.pkl,city_S2L_LULC,1,3
+1845,../data/interim/youtube/NatureSoundscapes/jTVuOd03-CM_20504.pkl,nature_youtube/NatureSoundscapes,0,7
+1846,../data/interim/SONYC/audio-14/16_019680.pkl,city_SONYC,1,1
+1847,"../data/interim/GoogleAudioSet/Outside, urban or manmade/lYP-Xc9mYCA_450.pkl",city_GoogleAudioSet,1,8
+1848,../data/interim/S2L_LULC/urban_26_100/s2llg003_180116_2018-01-18_18-50.pkl,city_S2L_LULC,1,2
+1849,../data/interim/SONYC/audio-13/10_019983.pkl,city_SONYC,1,2
+1850,../data/interim/SONYC/audio-14/01_007925.pkl,city_SONYC,1,3
+1851,../data/interim/youtube/NatureSoundscapes/PdrzIG-Q7O0_25976.pkl,nature_youtube/NatureSoundscapes,0,3
+1852,../data/interim/S2L_LULC/urban_0_25/s2lam051_210507_2021-05-07_15-30.pkl,nature_S2L_LULC/urban_0_25,0,7
+1853,../data/interim/SONYC/audio-13/07_006316.pkl,city_SONYC,1,8
+1854,../data/interim/youtube/NatureSoundscapes/bGNLi6_6gss_17420.pkl,nature_youtube/NatureSoundscapes,0,2
+1855,"../data/interim/GoogleAudioSet/Outside, urban or manmade/w7RLDvfM9HQ_140.pkl",city_GoogleAudioSet,1,5
+1856,../data/interim/S2L_LULC/urban_0_25/s2lam008_210418_2021-04-21_07-20.pkl,nature_S2L_LULC/urban_0_25,0,8
+1857,../data/interim/SONYC/audio-11/40_000225.pkl,city_SONYC,1,1
+1858,../data/interim/youtube/NatureSoundscapes/ZalW7YIhXK0_18846.pkl,nature_youtube/NatureSoundscapes,0,2
+1859,../data/interim/youtube/NomadicAmbience_nature/zmKK7Wxe22k_10323.pkl,nature_youtube/NomadicAmbience_nature,0,1
+1860,../data/interim/S2L_LULC/non_urban/s2lam070_200710_2020-07-14_08-10.pkl,nature_S2L_LULC/non_urban,0,2
+1861,../data/interim/SONYC/audio-3/24_005511.pkl,city_SONYC,1,2
+1862,"../data/interim/GoogleAudioSet/Outside, rural or natural/YCy_jDZJy3Y_230.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1863,../data/interim/SONYC/audio-3/23_005006.pkl,city_SONYC,1,6
+1864,"../data/interim/GoogleAudioSet/Outside, urban or manmade/f8UEgBnqixY_570.pkl",city_GoogleAudioSet,1,3
+1865,../data/interim/SONYC/audio-6/29_005012.pkl,city_SONYC,1,2
+1866,../data/interim/AmbisonicSoundLibrary/nature/Horse Stable 2.pkl,nature_AmbisonicSoundLibrary/nature,0,6
+1867,../data/interim/S2L_LULC/non_urban/s2lam109_210407_2021-04-10_09-50.pkl,nature_S2L_LULC/non_urban,0,7
+1868,../data/interim/S2L_LULC/urban_0_25/s2llg004_180502_2018-05-07_10-40.pkl,nature_S2L_LULC/urban_0_25,0,6
+1869,"../data/interim/GoogleAudioSet/Outside, urban or manmade/Cm89PM3pc4w_330.pkl",city_GoogleAudioSet,1,7
+1870,../data/interim/SONYC/audio-17/02_012058.pkl,city_SONYC,1,3
+1871,../data/interim/S2L_LULC/urban_0_25/s2lam105_210511_2021-05-13_00-30.pkl,nature_S2L_LULC/urban_0_25,0,2
+1872,../data/interim/S2L_LULC/non_urban/s2lam062_200606_2020-06-14_16-00.pkl,nature_S2L_LULC/non_urban,0,1
+1873,../data/interim/S2L_LULC/urban_26_100/s2lam098_210502_2021-05-03_15-10.pkl,city_S2L_LULC,1,1
+1874,../data/interim/SONYC/audio-3/02_006422.pkl,city_SONYC,1,8
+1875,../data/interim/youtube/NatureSoundscapes/8Oo3lLijWaE_22499.pkl,nature_youtube/NatureSoundscapes,0,6
+1876,../data/interim/SONYC/audio-14/03_006537.pkl,city_SONYC,1,3
+1877,"../data/interim/GoogleAudioSet/Outside, urban or manmade/sWN5-jMQCgs_20.pkl",city_GoogleAudioSet,1,0
+1878,../data/interim/SONYC/audio-17/35_017644.pkl,city_SONYC,1,7
+1879,../data/interim/AmbisonicSoundLibrary/nature/Horse Stable 1.pkl,nature_AmbisonicSoundLibrary/nature,0,7
+1880,../data/interim/S2L_LULC/non_urban/s2lam085_210622_2021-06-22_22-50.pkl,nature_S2L_LULC/non_urban,0,5
+1881,../data/interim/SONYC/audio-7/31_017297.pkl,city_SONYC,1,4
+1882,../data/interim/S2L_LULC/non_urban/s2lam080_210609_2021-06-12_06-50.pkl,nature_S2L_LULC/non_urban,0,2
+1883,../data/interim/SONYC/audio-5/40_000968.pkl,city_SONYC,1,1
+1884,../data/interim/S2L_LULC/non_urban/s2lam105_200622_2020-06-23_16-50.pkl,nature_S2L_LULC/non_urban,0,6
+1885,../data/interim/S2L_LULC/urban_26_100/s2lam003_190523_2019-05-26_14-40.pkl,city_S2L_LULC,1,5
+1886,"../data/interim/GoogleAudioSet/Outside, urban or manmade/XUz3VaGUsjk_170.pkl",city_GoogleAudioSet,1,8
+1887,"../data/interim/GoogleAudioSet/Outside, rural or natural/bSmETT8exHg_170.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,4
+1888,../data/interim/AmbisonicSoundLibrary/nature/Tin Shed Rain.pkl,nature_AmbisonicSoundLibrary/nature,0,3
+1889,../data/interim/S2L_LULC/non_urban/s2llg003_180526_2018-05-27_15-30.pkl,nature_S2L_LULC/non_urban,0,4
+1890,../data/interim/S2L_LULC/urban_0_25/s2lam101_200522_2020-05-26_05-10.pkl,nature_S2L_LULC/urban_0_25,0,7
+1891,../data/interim/S2L_LULC/non_urban/s2lam089_210417_2021-04-19_13-50.pkl,nature_S2L_LULC/non_urban,0,8
+1892,../data/interim/S2L_LULC/non_urban/s2llg003_180624_2018-06-26_19-00.pkl,nature_S2L_LULC/non_urban,0,5
+1893,../data/interim/S2L_LULC/non_urban/s2lam070_210527_2021-05-28_23-50.pkl,nature_S2L_LULC/non_urban,0,3
+1894,"../data/interim/GoogleAudioSet/Outside, rural or natural/jF_iSssgFr0_10.pkl","nature_GoogleAudioSet/Outside, rural or natural",0,6
+1895,../data/interim/SONYC/audio-15/41_002570.pkl,city_SONYC,1,4
+1896,../data/interim/youtube/NatureSoundscapes/SkIXIM13Atk_8950.pkl,nature_youtube/NatureSoundscapes,0,9
+1897,"../data/interim/GoogleAudioSet/Outside, urban or manmade/KvqU8IjDTuk_20.pkl",city_GoogleAudioSet,1,5
+1898,../data/interim/S2L_LULC/urban_26_100/s2lam030_190527_2019-05-29_07-40.pkl,city_S2L_LULC,1,6
+1899,../data/interim/SONYC/audio-18/01_011206.pkl,city_SONYC,1,1
+1900,../data/interim/SONYC/audio-13/01_012793.pkl,city_SONYC,1,1
+1901,../data/interim/SONYC/audio-16/46_010880.pkl,city_SONYC,1,7
+1902,../data/interim/S2L_LULC/non_urban/s2lam037_190621_2019-06-22_21-20.pkl,nature_S2L_LULC/non_urban,0,1
+1903,"../data/interim/GoogleAudioSet/Outside, urban or manmade/a83NijNUlnM_290.pkl",city_GoogleAudioSet,1,6
+1904,../data/interim/SONYC/audio-7/13_017798.pkl,city_SONYC,1,3
+1905,../data/interim/S2L_LULC/urban_26_100/s2llg004_171210_2017-12-13_13-00.pkl,city_S2L_LULC,1,9
+1906,../data/interim/youtube/NomadicAmbience_nature/wlCrnlQ5ofE_112.pkl,nature_youtube/NomadicAmbience_nature,0,8
+1907,../data/interim/S2L_LULC/urban_26_100/s2lam061_190614_2019-06-14_21-00.pkl,city_S2L_LULC,1,8
+1908,../data/interim/AmbisonicSoundLibrary/nature/Blustering Wind.pkl,nature_AmbisonicSoundLibrary/nature,0,4
+1909,../data/interim/SONYC/audio-3/01_000061.pkl,city_SONYC,1,9
+1910,../data/interim/SONYC/audio-15/30_012272.pkl,city_SONYC,1,5
+1911,"../data/interim/GoogleAudioSet/Outside, urban or manmade/AJ5QYVaZWp8_50.pkl",city_GoogleAudioSet,1,5
+1912,../data/interim/S2L_LULC/non_urban/s2lam007_190419_2019-04-22_18-00.pkl,nature_S2L_LULC/non_urban,0,6
+1913,../data/interim/SONYC/audio-2/07_027549.pkl,city_SONYC,1,8
+1914,../data/interim/AmbisonicSoundLibrary/nature/Waterhole Frogs Night.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+1915,../data/interim/youtube/NatureSoundscapes/mU_K3mkHxMU_25098.pkl,nature_youtube/NatureSoundscapes,0,4
+1916,../data/interim/SONYC/audio-17/34_011887.pkl,city_SONYC,1,5
+1917,../data/interim/youtube/NatureSoundscapes/t4_Cy85jA98_5037.pkl,nature_youtube/NatureSoundscapes,0,6
+1918,../data/interim/AmbisonicSoundLibrary/nature/Wombat Forest Dawn Birds.pkl,nature_AmbisonicSoundLibrary/nature,0,0
+1919,../data/interim/SONYC/audio-4/22_004702.pkl,city_SONYC,1,1
+1920,../data/interim/S2L_LULC/urban_0_25/s2lam042_190527_2019-06-01_12-10.pkl,nature_S2L_LULC/urban_0_25,0,2
+1921,"../data/interim/GoogleAudioSet/Outside, urban or manmade/tAMhnqocveU_130.pkl",city_GoogleAudioSet,1,1
+1922,../data/interim/S2L_LULC/urban_0_25/s2llg001_170620_2017-06-21_08-50.pkl,nature_S2L_LULC/urban_0_25,0,0
+1923,../data/interim/S2L_LULC/non_urban/s2llg004_170804_2017-08-18_15-20.pkl,nature_S2L_LULC/non_urban,0,0
