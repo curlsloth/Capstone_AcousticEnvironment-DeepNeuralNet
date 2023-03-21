@@ -184,7 +184,7 @@ Please note that since the embeddings of the PANNs model are not explainable, we
 
 <img src="figures/mps_PC_weights.png" width=75% height=75%>
 
-The plots reveal that the **low frequency region in both the spectral and temporal modulation domains is critical for accurately classifying audio environments*. This finding is also supported by the exploratory data analysis, which revealed that the t-test identified the most significant group difference in the same region. This is not surprising since this frequency range is more prevalent in the acoustic world, such as in speech, music, machine sounds, and animal calls, and therefore, these features are informative for classification purposes.
+The plots reveal that the **low frequency region in both the spectral and temporal modulation domains is critical for accurately classifying audio environments**. This finding is also supported by the exploratory data analysis, which revealed that the t-test identified the most significant group difference in the same region. This is not surprising since this frequency range is more prevalent in the acoustic world, such as in speech, music, machine sounds, and animal calls, and therefore, these features are informative for classification purposes.
 
 <img src="figures/indices_PC_weights.png" width=75% height=75%>
 
