@@ -3,11 +3,13 @@
 
 **Deep neural network model combining audio signal processing and pre-trained audio CNN achieved 90.1% adjusted accuracy (27.6% improvement) for classifying audio recording environment.**
 
-## 0. Intro
+## 0. Introduction & Goal
 
 Deep learning has proven to be effective in various machine listening applications such as identifying audio events (e.g., dog barking, car honking), speech recognition (e.g., “Hey Siri”), and music information retrieval (e.g., beat tracking, source separation). These audio events are typically considered as the “foreground” of the sound and are often contaminated by various types of background noise, such as ambient noise (e.g., street noise, wind noise, other people talking) or acoustic factors present in the recording environment (e.g., reverberation and frequency absorption).
 
-While most audio deep learning models focus on enhancing foreground sound and removing background noise, information about the background acoustic environment can be valuable in identifying the surrounding scene, monitoring environments and soundscapes (e.g., noise pollution, biodiversity), and further aiding foreground signal enhancement (e.g., preparing a cell phone to remove background street noise once someone speaking on a phone is identified in a city). Therefore, **the objective of this project is to develop a deep neural network capable of classifying audio recordings into urban or natural environments.**
+While most audio deep learning models focus on enhancing foreground sound and removing background noise, information about the background acoustic environment can be valuable in identifying the surrounding scene, monitoring environments and soundscapes (e.g., noise pollution, biodiversity), and further aiding foreground signal enhancement (e.g., preparing a cell phone to remove background street noise once someone speaking on a phone is identified in a city). 
+
+**The objective of this project is to develop a deep neural network that can classify the environment in which the audio was recorded as either urban or natural.**
 
 ## 1. Data: Google AudioSet
 
